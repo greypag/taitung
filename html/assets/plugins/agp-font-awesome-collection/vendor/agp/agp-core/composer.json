@@ -1,0 +1,23 @@
+{
+    "name": "agp/agp-core",
+    "description": "Collection of a base classes for custom WordPress plugins",
+    "keywords": [ "wordpress", "agp", "plugin", "theme", "class", "core" ],
+    "homepage": "https://github.com/AGolubnichenko/agp-core/",
+    "authors": [
+        {
+            "name": "Alexey Golubnichenko",
+            "email": "profosbox@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.0",
+        "oyejorge/less.php": "1.7.0.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fac\\Core\\": "src/classes/"
+        },
+        "files": ["src/classes/Agp.php"]
+    }
+}

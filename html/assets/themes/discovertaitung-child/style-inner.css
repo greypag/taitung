@@ -1,0 +1,8 @@
+.page-template-default #main>.container {
+    width: 100%;
+}
+
+#main {
+    margin: 0 0 40px !important;
+    padding: 0;
+}

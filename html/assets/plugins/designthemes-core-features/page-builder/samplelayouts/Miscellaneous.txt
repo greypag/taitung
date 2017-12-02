@@ -1,0 +1,166 @@
+<div class="dt_module dt_m_h2 dt_module_others ui-resizable ui-sortable-handle dt_first" data-name="h2" data-placeholder="H2" style="opacity: 1;"><span class="ico-headings dt_icon"></span>
+						<span class="dt_module_name">H2</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="class" class="class dt_module_setting">aligncenter</div><div data-option_name="h2_content" class="h2_content dt_module_setting dtthemes_module_content"><p>Our Blog</p></div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_doshortcode_anycontent dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1;"><span class="ico-anycontent dt_icon"></span>
+						<span class="dt_module_name">Add Any Content Here</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content"><p class="aligncenter"><em style="color: #bdbdbd;">Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit and seltd tasm cursus nunc.</em></p></div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_hr_invisible dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="hr_invisible" data-placeholder="Whitespace" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Whitespace</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_blogposts dt_module_unique ui-resizable ui-sortable-handle dt_first" data-name="blogposts" data-placeholder="Recent Posts" style="opacity: 1;"><span class="ico-recentposts dt_icon"></span>
+						<span class="dt_module_name">Recent Posts</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="excerpt_length" class="excerpt_length dt_module_setting">25</div><div data-option_name="show_meta" class="show_meta dt_module_setting">true</div><div data-option_name="limit" class="limit dt_module_setting">3</div><div data-option_name="categories" class="categories dt_module_setting">9,52</div><div data-option_name="posts_column" class="posts_column dt_module_setting">one-third-column</div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_hr_invisible_small dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="hr_invisible_small" data-placeholder="Whitespace Small" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Whitespace Small</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_h2 dt_module_others ui-resizable ui-sortable-handle dt_first" data-name="h2" data-placeholder="H2" style="opacity: 1;"><span class="ico-headings dt_icon"></span>
+						<span class="dt_module_name">H2</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="class" class="class dt_module_setting">aligncenter</div><div data-option_name="h2_content" class="h2_content dt_module_setting dtthemes_module_content"><p>OUR TEAM</p></div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_doshortcode_anycontent dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1;"><span class="ico-anycontent dt_icon"></span>
+						<span class="dt_module_name">Add Any Content Here</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content"><p class="aligncenter"><em style="color: #bdbdbd;">Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit and seltd tasm cursus nunc.</em></p></div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_hr_invisible_small dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="hr_invisible_small" data-placeholder="Whitespace Small" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Whitespace Small</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_hr_invisible_medium dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="hr_invisible_medium" data-placeholder="Whitespace Medium" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Whitespace Medium</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_fourth dt_m_column_has_modules ui-sortable-handle dt_first" data-name="one_fourth" data-placeholder="1/4 Column" style="opacity: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name" style="opacity: 1;">1/4 Column</span>
+							<span class="dt_move"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+							</div>
+							<div class="dt_columndata_settings"><div id="column_data"></div></div>
+						</div>
+						<div class="dt_modules_holder dt_modules_holder dt_modules_container ui-droppable ui-sortable"><div class="dt_module dt_m_doshortcode_team dt_module_unique  dt_first ui-sortable-handle" data-name="doshortcode_team" data-placeholder="Team" style="opacity: 1;"><span class="ico-team dt_icon"></span>
+						<span class="dt_module_name">Team</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="ts_content" class="ts_content dt_module_setting dtthemes_module_content"><p>[dt_sc_team name="James Duncan" role="Leading Programme" image="http://placehold.it/125x125&amp;text=Team" twitter="#" facebook="#" google="#" linkedin="#"]</p>
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>
+<p>[/dt_sc_team]</p>
+</div></div>
+						</div></div>
+						<div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div>
+					<div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div></div><div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_fourth dt_m_column_has_modules ui-sortable-handle" data-name="one_fourth" data-placeholder="1/4 Column" style="opacity: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name" style="opacity: 1;">1/4 Column</span>
+							<span class="dt_move"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+							</div>
+							<div class="dt_columndata_settings"><div id="column_data"></div></div>
+						</div>
+						<div class="dt_modules_holder dt_modules_holder dt_modules_container ui-droppable ui-sortable"><div class="dt_module dt_m_doshortcode_team dt_module_unique  dt_first ui-sortable-handle" data-name="doshortcode_team" data-placeholder="Team" style="opacity: 1;"><span class="ico-team dt_icon"></span>
+						<span class="dt_module_name">Team</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="ts_content" class="ts_content dt_module_setting dtthemes_module_content"><p>[dt_sc_team name="James Duncan" role="Leading Programme" image="http://placehold.it/125x125&amp;text=Team" twitter="#" facebook="#" google="#" linkedin="#"]</p><p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p><p>[/dt_sc_team]</p></div></div>
+						</div></div>
+						<div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div><div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div></div><div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_fourth dt_m_column_has_modules ui-sortable-handle" data-name="one_fourth" data-placeholder="1/4 Column" style="opacity: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name" style="opacity: 1;">1/4 Column</span>
+							<span class="dt_move"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+							</div>
+							<div class="dt_columndata_settings"><div id="column_data"></div></div>
+						</div>
+						<div class="dt_modules_holder dt_modules_holder dt_modules_container ui-droppable ui-sortable"><div class="dt_module dt_m_doshortcode_team dt_module_unique  dt_first ui-sortable-handle" data-name="doshortcode_team" data-placeholder="Team" style="opacity: 1;"><span class="ico-team dt_icon"></span>
+						<span class="dt_module_name">Team</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="ts_content" class="ts_content dt_module_setting dtthemes_module_content"><p>[dt_sc_team name="James Duncan" role="Leading Programme" image="http://placehold.it/125x125&amp;text=Team" twitter="#" facebook="#" google="#" linkedin="#"]</p><p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p><p>[/dt_sc_team]</p></div></div>
+						</div></div>
+						<div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div><div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div></div><div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_fourth dt_m_column_has_modules ui-sortable-handle" data-name="one_fourth" data-placeholder="1/4 Column" style="opacity: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name" style="opacity: 1;">1/4 Column</span>
+							<span class="dt_move"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+							</div>
+							<div class="dt_columndata_settings"><div id="column_data"></div></div>
+						</div>
+						<div class="dt_modules_holder dt_modules_holder dt_modules_container ui-droppable ui-sortable"><div class="dt_module dt_m_doshortcode_team dt_module_unique  dt_first ui-sortable-handle" data-name="doshortcode_team" data-placeholder="Team" style="opacity: 1;"><span class="ico-team dt_icon"></span>
+						<span class="dt_module_name">Team</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="ts_content" class="ts_content dt_module_setting dtthemes_module_content"><p>[dt_sc_team name="James Duncan" role="Leading Programme" image="http://placehold.it/125x125&amp;text=Team" twitter="#" facebook="#" google="#" linkedin="#"]</p><p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p><p>[/dt_sc_team]</p></div></div>
+						</div></div>
+						<div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div><div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div></div><div class="dt_module dt_m_clear dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="clear" data-placeholder="Clear" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Clear</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_hr_invisible dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="hr_invisible" data-placeholder="Whitespace" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Whitespace</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_h2 dt_module_others ui-resizable ui-sortable-handle dt_first" data-name="h2" data-placeholder="H2" style="opacity: 1;"><span class="ico-headings dt_icon"></span>
+						<span class="dt_module_name">H2</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="class" class="class dt_module_setting"></div><div data-option_name="h2_content" class="h2_content dt_module_setting dtthemes_module_content"><p>Intro Text</p></div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_intro_text dt_module_others ui-resizable ui-sortable-handle dt_first" data-name="intro_text" data-placeholder="Intro Text" style="opacity: 1;"><span class="ico-headings dt_icon"></span>
+						<span class="dt_module_name">Intro Text</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">type1</div><div data-option_name="it_content" class="it_content dt_module_setting dtthemes_module_content"><h4>No one realizes how beautiful it is to travel until he comes home and rests<br>
+his head on his old, familiar pillow.</h4>
+<p><cite>- Lin Yutang</cite></p>
+</div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_hr_invisible dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="hr_invisible" data-placeholder="Whitespace" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Whitespace</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div></div><div class="dt_module dt_m_intro_text dt_module_others ui-resizable ui-sortable-handle dt_first" data-name="intro_text" data-placeholder="Intro Text" style="opacity: 1;"><span class="ico-headings dt_icon"></span>
+						<span class="dt_module_name">Intro Text</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">type2</div><div data-option_name="it_content" class="it_content dt_module_setting dtthemes_module_content"><p><img class="alignleft size-full wp-image-1045" src="http://placehold.it/222x166&amp;text=Batch" alt="batch" width="222" height="166"></p><h2>We are the Best Travel Agency 2014</h2><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur.</p></div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div>
+  

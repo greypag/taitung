@@ -1,0 +1,164 @@
+/*!
+ * Screets Live Chat - Admin styles
+ * Author: @screetscom
+ *
+ * COPYRIGHT © 2016 Screets d.o.o. All rights reserved.
+ * This  is  commercial  software,  only  users  who have purchased a valid
+ * license  and  accept  to the terms of the  License Agreement can install
+ * and use this program.
+ */
+
+
+#CX_ntf {
+	display: none;
+	position: fixed;
+	top: 30px;
+	right: 20px;
+	color: #fff;
+	padding: 10px 15px;
+	z-index: 999;
+}
+
+#CX_ntf.cx-error {
+	background-color: #e54045;
+	border: 1px solid #e54045;
+}
+
+#CX_ntf.cx-ntf {
+	background-color: #49bd49;
+}
+
+.schat-logo {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 10px;
+}
+
+/* Admin menu */
+	#toplevel_page_schat_console .wp-menu-image img { max-width: 16px }
+/**
+ * Media uploader
+ */
+	.cx-cat-img-wrap img {
+		max-width: 150px;
+		margin-top: 10px;
+	}
+
+/**
+ * Chat logs
+ */
+ 	.post-type-cx_logs .add-new-h2 { display: none; } /* Hide "Add new" button
+
+
+/**
+ * Support categories
+ */
+ 	body.taxonomy-schat_support_cat .tagcloud {
+ 		display: none;
+ 	}
+ 	body.taxonomy-schat_support_cat .wp-list-table td.column-cx_featured_img {
+ 		text-align: center;
+		margin: 0;
+		padding: 10px;
+ 	}
+ 	body.taxonomy-schat_support_cat .wp-list-table .cx-featured-img {
+		width: 100%;
+		max-width: 50px;
+		height: auto;
+ 	}
+
+ /**
+  * Options
+  */
+
+
+	.titan-framework-panel-wrap .options-container h2,
+	.titan-framework-panel-wrap .tf-heading h3 {
+		font-size: 16px;
+	}
+
+	.titan-framework-panel-wrap .options-container h2 span.dashicons ,
+	.titan-framework-panel-wrap .tf-heading h3 span.dashicons {
+		vertical-align: bottom;
+	}
+
+
+	h2 .nav-tab {
+		border-radius: 4px 4px 0 0;
+		line-height: 20px;
+	}
+	.nav-tab-active {
+		background-color: #fff;
+		border-bottom: 1px solid #fff;
+	}
+	.nav-tab-active:hover { background-color: #f1f1f1; }
+
+	.options-container {
+		background-color: #fff;
+		border-radius: 0 0 9px 9px;
+		border-width: 0 1px 1px 1px;
+		border-style: solid;
+		border-color: #ddd;
+	}
+	.options-container p.description {
+		display: block;
+		font-size: 14px;
+		padding: 20px 20px 15px 20px;
+	}
+
+	.titan-framework-panel-wrap .nav-tab-wrapper { margin: 0; }
+	.titan-framework-panel-wrap .form-table tr { border-bottom: none; }
+	.titan-framework-panel-wrap .form-table td { vertical-align: top; }
+
+	.tf-textarea textarea, .tf-text input { border-radius: 4px; padding: 5px 8px; }
+	.tf-textarea textarea { height: 80px; }
+
+	.options-container .form-table p.description {
+		font-size: 13px;
+		color: #999;
+		padding: 0 0 7px 0;
+	}
+	.options-container .form-table .description code {
+		padding: 2px 5px;
+		font-size: 11px;
+		border-radius: 3px;
+	}
+
+
+	.options-container .form-table tr.cx-xtra-opt th,
+	.options-container .form-table tr.cx-xtra-opt td {
+		padding-top: 0;
+	}
+
+	/* App ID */
+	input#screets-cx_app-id { width: 12em; }
+
+	/* Upload */
+	.tf-upload .tf-image-preview::before {
+		top: 25px;
+		left: 37px;
+	}
+	.tf-upload .tf-image-preview i.remove {
+		border-radius: 4px;
+		width: 25px;
+		line-height: 25px;
+		font-size: 16px;
+		border-radius: 0 0 0 7px;
+	}
+
+	.tf-upload .tf-image-preview {
+		min-width: 100px;
+		min-height: 70px;
+		border-radius: 4px;
+	}
+
+	.tf-upload .tf-image-preview img {
+		max-width: 100px;
+		max-height: 100px;
+		margin-top: 0 !important;
+		margin-left: 0 !important;
+		border-radius: 4px;
+	}
+
+	/* Some common elements in options */
+	small.description { color: #ccc; }

@@ -1,0 +1,378 @@
+<div class="dt_module dt_m_h2 dt_module_others ui-resizable ui-sortable-handle dt_first" data-name="h2" data-placeholder="H2" style="opacity: 1;"><span class="ico-headings dt_icon"></span>
+						<span class="dt_module_name">H2</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="class" class="class dt_module_setting"></div><div data-option_name="h2_content" class="h2_content dt_module_setting dtthemes_module_content">Blockquote</div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_blockquote dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="blockquote" data-placeholder="Blockquote" style="opacity: 1;"><span class="ico-blockquote dt_icon"></span>
+						<span class="dt_module_name">Blockquote</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">type1</div><div data-option_name="align" class="align dt_module_setting"></div><div data-option_name="variation" class="variation dt_module_setting"></div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="cite" class="cite dt_module_setting">Design Themes</div><div data-option_name="role" class="role dt_module_setting"></div><div data-option_name="blockquote_content" class="blockquote_content dt_module_setting dtthemes_module_content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero.</div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div>            <div class="dt_module dt_m_clear dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="clear" data-placeholder="Clear" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Clear</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_hr_invisible dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="hr_invisible" data-placeholder="Whitespace" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Whitespace</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_blockquote dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="blockquote" data-placeholder="Blockquote" style="opacity: 1;"><span class="ico-blockquote dt_icon"></span>
+						<span class="dt_module_name">Blockquote</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">type2</div><div data-option_name="align" class="align dt_module_setting"></div><div data-option_name="variation" class="variation dt_module_setting"></div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="cite" class="cite dt_module_setting">Design Themes</div><div data-option_name="role" class="role dt_module_setting"></div><div data-option_name="blockquote_content" class="blockquote_content dt_module_setting dtthemes_module_content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero.</div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_clear dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="clear" data-placeholder="Clear" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Clear</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_hr_invisible dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="hr_invisible" data-placeholder="Whitespace" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Whitespace</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_blockquote dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="blockquote" data-placeholder="Blockquote" style="opacity: 1;"><span class="ico-blockquote dt_icon"></span>
+						<span class="dt_module_name">Blockquote</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">type3</div><div data-option_name="align" class="align dt_module_setting"></div><div data-option_name="variation" class="variation dt_module_setting"></div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="cite" class="cite dt_module_setting">Design Themes</div><div data-option_name="role" class="role dt_module_setting"></div><div data-option_name="blockquote_content" class="blockquote_content dt_module_setting dtthemes_module_content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero.</div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_clear dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="clear" data-placeholder="Clear" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Clear</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_hr_invisible dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="hr_invisible" data-placeholder="Whitespace" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Whitespace</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_blockquote dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="blockquote" data-placeholder="Blockquote" style="opacity: 1;"><span class="ico-blockquote dt_icon"></span>
+						<span class="dt_module_name">Blockquote</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">type4</div><div data-option_name="align" class="align dt_module_setting"></div><div data-option_name="variation" class="variation dt_module_setting"></div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="cite" class="cite dt_module_setting">Design Themes</div><div data-option_name="role" class="role dt_module_setting"></div><div data-option_name="blockquote_content" class="blockquote_content dt_module_setting dtthemes_module_content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero.</div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_clear dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="clear" data-placeholder="Clear" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Clear</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_hr_invisible dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="hr_invisible" data-placeholder="Whitespace" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Whitespace</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_h2 dt_module_others ui-resizable ui-sortable-handle dt_first" data-name="h2" data-placeholder="H2" style="opacity: 1;"><span class="ico-headings dt_icon"></span>
+						<span class="dt_module_name">H2</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="class" class="class dt_module_setting"></div><div data-option_name="h2_content" class="h2_content dt_module_setting dtthemes_module_content">Pullquotes</div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_doshortcode_anycontent dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1;"><span class="ico-anycontent dt_icon"></span>
+						<span class="dt_module_name">Add Any Content Here</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content"><h4>Type1</h4>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero. Nulla vestibulum sem a est tempus sed fringilla lorem sagittis. Phasellus mi orci, fermentum.</p>
+</div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_pullquote dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="pullquote" data-placeholder="Pullquote" style="opacity: 1;"><span class="ico-quote dt_icon"></span>
+						<span class="dt_module_name">Pullquote</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">pullquote1</div><div data-option_name="align" class="align dt_module_setting">right</div><div data-option_name="icon" class="icon dt_module_setting">yes</div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="cite" class="cite dt_module_setting"></div><div data-option_name="pq_content" class="pq_content dt_module_setting dtthemes_module_content">Lorem ipsum dolor sit amet, consectetur adipiscing. Vivamus ac luctus ligula. Phasellus a ligula blandit</div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_doshortcode_anycontent dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1;"><span class="ico-anycontent dt_icon"></span>
+						<span class="dt_module_name">Add Any Content Here</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content"><p>Aonsectetur adipiscing elit.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero.</p>
+</div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_pullquote dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="pullquote" data-placeholder="Pullquote" style="opacity: 1;"><span class="ico-quote dt_icon"></span>
+						<span class="dt_module_name">Pullquote</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">pullquote1</div><div data-option_name="align" class="align dt_module_setting">left</div><div data-option_name="icon" class="icon dt_module_setting">yes</div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="cite" class="cite dt_module_setting"></div><div data-option_name="pq_content" class="pq_content dt_module_setting dtthemes_module_content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing. Vivamus ac luctus ligula. Phasellus a ligula blandit</p></div></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_doshortcode_anycontent dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1;"><span class="ico-anycontent dt_icon"></span>
+						<span class="dt_module_name">Add Any Content Here</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content"><p>Aonsectetur adipiscing.</p>
+<p>Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.</p>
+<p>Nam sit amet sem. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero.</p>
+</div></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_pullquote dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="pullquote" data-placeholder="Pullquote" style="opacity: 1;"><span class="ico-quote dt_icon"></span>
+						<span class="dt_module_name">Pullquote</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">pullquote1</div><div data-option_name="align" class="align dt_module_setting">center</div><div data-option_name="icon" class="icon dt_module_setting">yes</div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="cite" class="cite dt_module_setting"></div><div data-option_name="pq_content" class="pq_content dt_module_setting dtthemes_module_content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing. Vivamus ac luctus ligula. Phasellus a ligula blandit</p></div></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_clear dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="clear" data-placeholder="Clear" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Clear</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_hr_invisible dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="hr_invisible" data-placeholder="Whitespace" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Whitespace</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_doshortcode_anycontent dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1;"><span class="ico-anycontent dt_icon"></span>
+						<span class="dt_module_name">Add Any Content Here</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content"><h4>Type2</h4>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero. Nulla vestibulum sem a est tempus sed fringilla lorem sagittis. Phasellus mi orci, fermentum.</p>
+</div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_pullquote dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="pullquote" data-placeholder="Pullquote" style="opacity: 1;"><span class="ico-quote dt_icon"></span>
+						<span class="dt_module_name">Pullquote</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">pullquote2</div><div data-option_name="align" class="align dt_module_setting">right</div><div data-option_name="icon" class="icon dt_module_setting">yes</div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="cite" class="cite dt_module_setting"></div><div data-option_name="pq_content" class="pq_content dt_module_setting dtthemes_module_content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing. Vivamus ac luctus ligula. Phasellus a ligula blandit</p></div></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_doshortcode_anycontent dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1;"><span class="ico-anycontent dt_icon"></span>
+						<span class="dt_module_name">Add Any Content Here</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content"><p>Aonsectetur adipiscing elit.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero.</p>
+</div></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_pullquote dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="pullquote" data-placeholder="Pullquote" style="opacity: 1;"><span class="ico-quote dt_icon"></span>
+						<span class="dt_module_name">Pullquote</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">pullquote2</div><div data-option_name="align" class="align dt_module_setting">left</div><div data-option_name="icon" class="icon dt_module_setting">yes</div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="cite" class="cite dt_module_setting"></div><div data-option_name="pq_content" class="pq_content dt_module_setting dtthemes_module_content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing. Vivamus ac luctus ligula. Phasellus a ligula blandit</p></div></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_doshortcode_anycontent dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1;"><span class="ico-anycontent dt_icon"></span>
+						<span class="dt_module_name">Add Any Content Here</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content"><p>Aonsectetur adipiscing.</p>
+<p>Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.</p>
+<p>Nam sit amet sem. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero.</p>
+</div></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_pullquote dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="pullquote" data-placeholder="Pullquote" style="opacity: 1;"><span class="ico-quote dt_icon"></span>
+						<span class="dt_module_name">Pullquote</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">pullquote2</div><div data-option_name="align" class="align dt_module_setting">center</div><div data-option_name="icon" class="icon dt_module_setting">yes</div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="cite" class="cite dt_module_setting"></div><div data-option_name="pq_content" class="pq_content dt_module_setting dtthemes_module_content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing. Vivamus ac luctus ligula. Phasellus a ligula blandit</p></div></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_clear dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="clear" data-placeholder="Clear" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Clear</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_hr_invisible dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="hr_invisible" data-placeholder="Whitespace" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Whitespace</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_doshortcode_anycontent dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1;"><span class="ico-anycontent dt_icon"></span>
+						<span class="dt_module_name">Add Any Content Here</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content"><h4>Type3</h4>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero. Nulla vestibulum sem a est tempus sed fringilla lorem sagittis. Phasellus mi orci, fermentum.</p>
+</div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_pullquote dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="pullquote" data-placeholder="Pullquote" style="opacity: 1;"><span class="ico-quote dt_icon"></span>
+						<span class="dt_module_name">Pullquote</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">pullquote3</div><div data-option_name="align" class="align dt_module_setting">right</div><div data-option_name="icon" class="icon dt_module_setting">yes</div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="cite" class="cite dt_module_setting"></div><div data-option_name="pq_content" class="pq_content dt_module_setting dtthemes_module_content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing. Vivamus ac luctus ligula. Phasellus a ligula blandit</p></div></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_doshortcode_anycontent dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1;"><span class="ico-anycontent dt_icon"></span>
+						<span class="dt_module_name">Add Any Content Here</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content"><p>Aonsectetur adipiscing elit.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero.</p>
+</div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_pullquote dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="pullquote" data-placeholder="Pullquote" style="opacity: 1;"><span class="ico-quote dt_icon"></span>
+						<span class="dt_module_name">Pullquote</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">pullquote3</div><div data-option_name="align" class="align dt_module_setting">left</div><div data-option_name="icon" class="icon dt_module_setting">yes</div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="cite" class="cite dt_module_setting"></div><div data-option_name="pq_content" class="pq_content dt_module_setting dtthemes_module_content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing. Vivamus ac luctus ligula. Phasellus a ligula blandit</p></div></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_doshortcode_anycontent dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1;"><span class="ico-anycontent dt_icon"></span>
+						<span class="dt_module_name">Add Any Content Here</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content"><p>Aonsectetur adipiscing.</p>
+<p>Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.</p>
+<p>Nam sit amet sem. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero.</p>
+</div></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_pullquote dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="pullquote" data-placeholder="Pullquote" style="opacity: 1;"><span class="ico-quote dt_icon"></span>
+						<span class="dt_module_name">Pullquote</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">pullquote3</div><div data-option_name="align" class="align dt_module_setting">center</div><div data-option_name="icon" class="icon dt_module_setting">yes</div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="cite" class="cite dt_module_setting"></div><div data-option_name="pq_content" class="pq_content dt_module_setting dtthemes_module_content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing. Vivamus ac luctus ligula. Phasellus a ligula blandit</p></div></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_clear dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="clear" data-placeholder="Clear" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Clear</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_hr_invisible dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="hr_invisible" data-placeholder="Whitespace" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Whitespace</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_doshortcode_anycontent dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1;"><span class="ico-anycontent dt_icon"></span>
+						<span class="dt_module_name">Add Any Content Here</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content"><h4>Type4</h4>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero. Nulla vestibulum sem a est tempus sed fringilla lorem sagittis. Phasellus mi orci, fermentum.</p>
+</div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_pullquote dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="pullquote" data-placeholder="Pullquote" style="opacity: 1;"><span class="ico-quote dt_icon"></span>
+						<span class="dt_module_name">Pullquote</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">pullquote4</div><div data-option_name="align" class="align dt_module_setting">right</div><div data-option_name="icon" class="icon dt_module_setting">yes</div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="cite" class="cite dt_module_setting"></div><div data-option_name="pq_content" class="pq_content dt_module_setting dtthemes_module_content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing. Vivamus ac luctus ligula. Phasellus a ligula blandit</p></div></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_doshortcode_anycontent dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1;"><span class="ico-anycontent dt_icon"></span>
+						<span class="dt_module_name">Add Any Content Here</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content"><p>Aonsectetur adipiscing elit.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero.</p>
+</div></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_pullquote dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="pullquote" data-placeholder="Pullquote" style="opacity: 1;"><span class="ico-quote dt_icon"></span>
+						<span class="dt_module_name">Pullquote</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">pullquote4</div><div data-option_name="align" class="align dt_module_setting">left</div><div data-option_name="icon" class="icon dt_module_setting">yes</div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="cite" class="cite dt_module_setting"></div><div data-option_name="pq_content" class="pq_content dt_module_setting dtthemes_module_content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing. Vivamus ac luctus ligula. Phasellus a ligula blandit</p></div></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_doshortcode_anycontent dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1;"><span class="ico-anycontent dt_icon"></span>
+						<span class="dt_module_name">Add Any Content Here</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content"><p>Aonsectetur adipiscing.</p>
+<p>Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.</p>
+<p>Nam sit amet sem. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero.</p>
+</div></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_pullquote dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="pullquote" data-placeholder="Pullquote" style="opacity: 1;"><span class="ico-quote dt_icon"></span>
+						<span class="dt_module_name">Pullquote</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">pullquote4</div><div data-option_name="align" class="align dt_module_setting">center</div><div data-option_name="icon" class="icon dt_module_setting">yes</div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="cite" class="cite dt_module_setting"></div><div data-option_name="pq_content" class="pq_content dt_module_setting dtthemes_module_content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing. Vivamus ac luctus ligula. Phasellus a ligula blandit</p></div></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_clear dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="clear" data-placeholder="Clear" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Clear</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_hr_invisible dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="hr_invisible" data-placeholder="Whitespace" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Whitespace</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_doshortcode_anycontent dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1;"><span class="ico-anycontent dt_icon"></span>
+						<span class="dt_module_name">Add Any Content Here</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content"><h4>Type5</h4>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero. Nulla vestibulum sem a est tempus sed fringilla lorem sagittis. Phasellus mi orci, fermentum.</p>
+</div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_pullquote dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="pullquote" data-placeholder="Pullquote" style="opacity: 1;"><span class="ico-quote dt_icon"></span>
+						<span class="dt_module_name">Pullquote</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">pullquote5</div><div data-option_name="align" class="align dt_module_setting">right</div><div data-option_name="icon" class="icon dt_module_setting">yes</div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="cite" class="cite dt_module_setting"></div><div data-option_name="pq_content" class="pq_content dt_module_setting dtthemes_module_content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing. Vivamus ac luctus ligula. Phasellus a ligula blandit</p></div></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_doshortcode_anycontent dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1;"><span class="ico-anycontent dt_icon"></span>
+						<span class="dt_module_name">Add Any Content Here</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content"><p>Aonsectetur adipiscing elit.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero.</p>
+</div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_pullquote dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="pullquote" data-placeholder="Pullquote" style="opacity: 1;"><span class="ico-quote dt_icon"></span>
+						<span class="dt_module_name">Pullquote</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">pullquote5</div><div data-option_name="align" class="align dt_module_setting">left</div><div data-option_name="icon" class="icon dt_module_setting">yes</div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="cite" class="cite dt_module_setting"></div><div data-option_name="pq_content" class="pq_content dt_module_setting dtthemes_module_content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing. Vivamus ac luctus ligula. Phasellus a ligula blandit</p></div></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_doshortcode_anycontent dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1;"><span class="ico-anycontent dt_icon"></span>
+						<span class="dt_module_name">Add Any Content Here</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content"><p>Aonsectetur adipiscing.</p>
+<p>Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.</p>
+<p>Nam sit amet sem. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero.</p>
+</div></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_pullquote dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="pullquote" data-placeholder="Pullquote" style="opacity: 1;"><span class="ico-quote dt_icon"></span>
+						<span class="dt_module_name">Pullquote</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">pullquote5</div><div data-option_name="align" class="align dt_module_setting">center</div><div data-option_name="icon" class="icon dt_module_setting">yes</div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="cite" class="cite dt_module_setting"></div><div data-option_name="pq_content" class="pq_content dt_module_setting dtthemes_module_content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing. Vivamus ac luctus ligula. Phasellus a ligula blandit</p></div></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_clear dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="clear" data-placeholder="Clear" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Clear</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_hr_invisible dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="hr_invisible" data-placeholder="Whitespace" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Whitespace</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_doshortcode_anycontent dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1;"><span class="ico-anycontent dt_icon"></span>
+						<span class="dt_module_name">Add Any Content Here</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content"><h4>Type6</h4>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero. Nulla vestibulum sem a est tempus sed fringilla lorem sagittis. Phasellus mi orci, fermentum.</p>
+</div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_pullquote dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="pullquote" data-placeholder="Pullquote" style="opacity: 1;"><span class="ico-quote dt_icon"></span>
+						<span class="dt_module_name">Pullquote</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">pullquote6</div><div data-option_name="align" class="align dt_module_setting">right</div><div data-option_name="icon" class="icon dt_module_setting">yes</div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="cite" class="cite dt_module_setting"></div><div data-option_name="pq_content" class="pq_content dt_module_setting dtthemes_module_content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing. Vivamus ac luctus ligula. Phasellus a ligula blandit</p></div></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_doshortcode_anycontent dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1;"><span class="ico-anycontent dt_icon"></span>
+						<span class="dt_module_name">Add Any Content Here</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content"><p>Aonsectetur adipiscing elit.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero.</p>
+</div></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_pullquote dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="pullquote" data-placeholder="Pullquote" style="opacity: 1;"><span class="ico-quote dt_icon"></span>
+						<span class="dt_module_name">Pullquote</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">pullquote6</div><div data-option_name="align" class="align dt_module_setting">left</div><div data-option_name="icon" class="icon dt_module_setting">yes</div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="cite" class="cite dt_module_setting"></div><div data-option_name="pq_content" class="pq_content dt_module_setting dtthemes_module_content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing. Vivamus ac luctus ligula. Phasellus a ligula blandit</p></div></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_doshortcode_anycontent dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1;"><span class="ico-anycontent dt_icon"></span>
+						<span class="dt_module_name">Add Any Content Here</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content"><p>Aonsectetur adipiscing.</p>
+<p>Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.</p>
+<p>Nam sit amet sem. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id augue vitae odio accumsan condimentum id in urna. Integer sit amet felis sit amet magna dignissim pharetra ut eget orci. Etiam dictum, nunc id feugiat cursus, nulla orci pretium nisl, eget lacinia felis enim et libero.</p>
+</div></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_pullquote dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="pullquote" data-placeholder="Pullquote" style="opacity: 1;"><span class="ico-quote dt_icon"></span>
+						<span class="dt_module_name">Pullquote</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">pullquote6</div><div data-option_name="align" class="align dt_module_setting">center</div><div data-option_name="icon" class="icon dt_module_setting">yes</div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="cite" class="cite dt_module_setting"></div><div data-option_name="pq_content" class="pq_content dt_module_setting dtthemes_module_content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing. Vivamus ac luctus ligula. Phasellus a ligula blandit</p></div></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div>
+       

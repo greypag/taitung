@@ -1,0 +1,1059 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Screets Live Chat\n"
+"POT-Creation-Date: 2016-07-22 19:51+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Screets <support@screets.com>\n"
+"Language-Team: Screets Team <admin@screets.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: core/library\n"
+
+#: back-end.php:123 core/options.php:661 core/options.php:662 front-end.php:152
+msgid "Online"
+msgstr ""
+
+#: back-end.php:124 core/options.php:670 core/options.php:671 front-end.php:153
+msgid "Offline"
+msgstr ""
+
+#: back-end.php:125
+msgid "Saved"
+msgstr ""
+
+#: back-end.php:126 core/templates/chatbox.php:45 front-end.php:151
+msgid "Please wait"
+msgstr ""
+
+#: back-end.php:127
+msgid "Connected"
+msgstr ""
+
+#: back-end.php:128
+msgid "Active"
+msgstr ""
+
+#: back-end.php:129 front-end.php:142
+msgid "You"
+msgstr ""
+
+#: back-end.php:130
+msgid "Operator"
+msgstr ""
+
+#: back-end.php:131
+msgid "Web visitor"
+msgstr ""
+
+#: back-end.php:132 back-end.php:136
+msgid "In chat"
+msgstr ""
+
+#: back-end.php:133
+msgid "Join chat"
+msgstr ""
+
+#: back-end.php:134
+msgid "Leave chat"
+msgstr ""
+
+#: back-end.php:135 core/templates/chatbox.php:158
+msgid "End chat"
+msgstr ""
+
+#: back-end.php:137
+msgid "Ignore"
+msgstr ""
+
+#: back-end.php:138
+msgid "Transfer"
+msgstr ""
+
+#: back-end.php:139
+msgid "Delete"
+msgstr ""
+
+#: back-end.php:140
+msgid "Looking at"
+msgstr ""
+
+#: back-end.php:141
+msgid "Open"
+msgstr ""
+
+#: back-end.php:142
+msgid "Close"
+msgstr ""
+
+#: back-end.php:143
+msgid "Popup"
+msgstr ""
+
+#: back-end.php:144
+msgid "Mode"
+msgstr ""
+
+#: back-end.php:145 core/options.php:1069
+msgid "Feedback"
+msgstr ""
+
+#: back-end.php:148 core/templates/console.php:120
+msgid "Chat history"
+msgstr ""
+
+#: back-end.php:149 front-end.php:150
+msgid "No internet connection"
+msgstr ""
+
+#: back-end.php:150
+msgid "Remove user"
+msgstr ""
+
+#: back-end.php:151
+msgid "Are you sure you want to PERMANENTLY delete it?"
+msgstr ""
+
+#: back-end.php:152
+msgid "Visitor won't be able to reply. Do you really want to end chat?"
+msgstr ""
+
+#: back-end.php:153
+msgid "Your message"
+msgstr ""
+
+#: back-end.php:154
+#, php-format
+msgid ""
+"Your Firebase isn't configured correctly! <a href=\"%s\">Go settings &raquo;"
+"</a>"
+msgstr ""
+
+#: back-end.php:155 front-end.php:161
+#, php-format
+msgid "%s has joined the chat"
+msgstr ""
+
+#: back-end.php:156 front-end.php:163
+#, php-format
+msgid "%s is typing"
+msgstr ""
+
+#: back-end.php:157 front-end.php:162
+#, php-format
+msgid "%s has left the chat"
+msgstr ""
+
+#: back-end.php:158
+msgid "Are you sure you want to end this chat?"
+msgstr ""
+
+#: back-end.php:159
+msgid "Are you sure you want to leave chat?"
+msgstr ""
+
+#: back-end.php:160
+msgid "Are you sure you want to exit? You will be OFFLINE"
+msgstr ""
+
+#: back-end.php:161
+#, php-format
+msgid "This visitor is talking with <strong>%s</strong>"
+msgstr ""
+
+#: back-end.php:162
+msgid "Your chat data will be deleted PERMANENTLY!"
+msgstr ""
+
+#: back-end.php:163
+msgid "Send a message to initiate chat"
+msgstr ""
+
+#: back-end.php:164
+#, php-format
+msgid "%s is waiting for a reply"
+msgstr ""
+
+#: back-end.php:165
+#, php-format
+msgid "%s is online"
+msgstr ""
+
+#: back-end.php:166
+#, php-format
+msgid "%s desktop notifications activated :) Good luck with sales"
+msgstr ""
+
+#: back-end.php:173 back-end.php:179 front-end.php:170 front-end.php:176
+msgid "1m"
+msgstr ""
+
+#: back-end.php:174 back-end.php:180 front-end.php:171 front-end.php:177
+#, php-format
+msgid "%dm"
+msgstr ""
+
+#: back-end.php:175 front-end.php:172
+msgid "1h"
+msgstr ""
+
+#: back-end.php:176 front-end.php:173
+#, php-format
+msgid "%dh"
+msgstr ""
+
+#: back-end.php:177 front-end.php:174
+msgid "1d"
+msgstr ""
+
+#: back-end.php:178 front-end.php:175
+#, php-format
+msgid "%dd"
+msgstr ""
+
+#: back-end.php:181 front-end.php:178
+msgid "1y"
+msgstr ""
+
+#: back-end.php:182 front-end.php:179
+#, php-format
+msgid "%dy"
+msgstr ""
+
+#: back-end.php:407 back-end.php:408 front-end.php:323
+msgid "Chat Console"
+msgstr ""
+
+#: back-end.php:452 back-end.php:453 core/fn.options.php:86
+msgid "Support"
+msgstr ""
+
+#: back-end.php:478
+msgid "Operator Options"
+msgstr ""
+
+#: back-end.php:479
+msgid ""
+"Click <strong>Restart</strong> button in Chat Console > Settings after "
+"updating operator information"
+msgstr ""
+
+#: back-end.php:485
+msgid "Operator Name"
+msgstr ""
+
+#: back-end.php:573 back-end.php:612
+msgid "Category image"
+msgstr ""
+
+#: back-end.php:574 back-end.php:615
+msgid "Set featured image"
+msgstr ""
+
+#: back-end.php:578 back-end.php:619
+msgid "Remove image"
+msgstr ""
+
+#: core/fn.ajax.php:80 front-end.php:154
+msgid "New message"
+msgstr ""
+
+#: core/fn.ajax.php:126
+msgid "Visitor information"
+msgstr ""
+
+#: core/fn.ajax.php:127
+msgid "Platform"
+msgstr ""
+
+#: core/fn.ajax.php:131
+msgid "Location"
+msgstr ""
+
+#: core/fn.ajax.php:132
+msgid "Current page"
+msgstr ""
+
+#: core/fn.ajax.php:143 core/fn.ajax.php:185
+msgid "Successfully sent! Thank you"
+msgstr ""
+
+#: core/fn.ajax.php:162 front-end.php:157
+msgid "No messages found"
+msgstr ""
+
+#: core/fn.ajax.php:166 front-end.php:156
+msgid "Email is invalid."
+msgstr ""
+
+#: core/fn.ajax.php:172 core/fn.ajax.php:180
+msgid "Chat History"
+msgstr ""
+
+#: core/fn.offline.php:53
+msgid "Something went wrong! Please try again"
+msgstr ""
+
+#: core/fn.options.php:68
+msgid "Options"
+msgstr ""
+
+#: core/fn.options.php:69
+#, php-format
+msgid "%s Options"
+msgstr ""
+
+#: core/fn.options.php:77
+msgid "General"
+msgstr ""
+
+#: core/fn.options.php:78
+msgid "Site info"
+msgstr ""
+
+#: core/fn.options.php:79
+msgid "Design"
+msgstr ""
+
+#: core/fn.options.php:80
+msgid "Popups"
+msgstr ""
+
+#: core/fn.options.php:82 core/templates/console.php:110
+msgid "Users"
+msgstr ""
+
+#: core/fn.options.php:83
+msgid "Integrations"
+msgstr ""
+
+#: core/fn.options.php:84
+msgid "Advanced"
+msgstr ""
+
+#: core/fn.post-types.php:29
+msgid "Offline Messages"
+msgstr ""
+
+#: core/fn.post-types.php:30 core/fn.post-types.php:31
+msgid "Offline Message"
+msgstr ""
+
+#: core/fn.post-types.php:32
+msgid "Parent Offline Message:"
+msgstr ""
+
+#: core/fn.post-types.php:33
+msgid "All Offline Messages"
+msgstr ""
+
+#: core/fn.post-types.php:34
+msgid "View Offline Message"
+msgstr ""
+
+#: core/fn.post-types.php:35
+msgid "Add New Offline Message"
+msgstr ""
+
+#: core/fn.post-types.php:36
+msgid "New Offline Message"
+msgstr ""
+
+#: core/fn.post-types.php:37
+msgid "Edit Offline Message"
+msgstr ""
+
+#: core/fn.post-types.php:38
+msgid "Update Offline Message"
+msgstr ""
+
+#: core/fn.post-types.php:39
+msgid "Search offline message"
+msgstr ""
+
+#: core/fn.post-types.php:40
+msgid "No offline message found"
+msgstr ""
+
+#: core/fn.post-types.php:41
+msgid "No offline message found in Trash"
+msgstr ""
+
+#: core/fn.skin.php:69
+msgid "Required"
+msgstr ""
+
+#: core/fn.topics.php:184
+msgid "No topics found"
+msgstr ""
+
+#: core/fn.users.php:265
+msgid "Unknown"
+msgstr ""
+
+#: core/metaboxes.php:43
+msgid "Click action"
+msgstr ""
+
+#: core/metaboxes.php:44
+msgid "This action will occur when visitor clicks the topic in the list"
+msgstr ""
+
+#: core/metaboxes.php:46
+msgid "Show topic content"
+msgstr ""
+
+#: core/metaboxes.php:47
+msgid "Connect to operator"
+msgstr ""
+
+#: core/options.php:38 core/options.php:1427
+msgid "Enable"
+msgstr ""
+
+#: core/options.php:39 core/options.php:1028 core/options.php:1144
+msgid "Show"
+msgstr ""
+
+#: core/options.php:40
+msgid "Hidden"
+msgstr ""
+
+#: core/options.php:41
+msgid ""
+"You can hide chat widget on all website except the specific pages and "
+"categories you select below"
+msgstr ""
+
+#: core/options.php:48
+msgid "Display"
+msgstr ""
+
+#: core/options.php:48
+#, php-format
+msgid ""
+"<a href='%s' target='_blank'>wp_footer()</a> <span class='schat-ico-new-"
+"win'></span> function has to be located in your theme"
+msgstr ""
+
+#: core/options.php:50
+msgid "Hide on homepage"
+msgstr ""
+
+#: core/options.php:51
+msgid "Hide when all operators offline"
+msgstr ""
+
+#: core/options.php:52
+msgid "Disable on mobile devices"
+msgstr ""
+
+#: core/options.php:53
+msgid "Hide from pages that uses SSL"
+msgstr ""
+
+#: core/options.php:60
+msgid "Specific pages & categories"
+msgstr ""
+
+#: core/options.php:66
+msgid "Always show on those pages:"
+msgstr ""
+
+#: core/options.php:73
+msgid "Always show on those categories:"
+msgstr ""
+
+#: core/options.php:80
+msgid "Who should see chat box?"
+msgstr ""
+
+#: core/options.php:82
+msgid "Public"
+msgstr ""
+
+#: core/options.php:82
+msgid "Anyone who visits your website"
+msgstr ""
+
+#: core/options.php:83
+msgid "Registered users"
+msgstr ""
+
+#: core/options.php:83
+msgid "All users who logged in WordPress"
+msgstr ""
+
+#: core/options.php:84
+msgid "Specific user roles"
+msgstr ""
+
+#: core/options.php:84
+msgid "Users who assigned to some specific roles"
+msgstr ""
+
+#: core/options.php:85
+msgid "Only admins & operators"
+msgstr ""
+
+#: core/options.php:94
+msgid "Make visible for only those user roles"
+msgstr ""
+
+#: core/options.php:101
+msgid "Screets API Key"
+msgstr ""
+
+#: core/options.php:102
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\">Get your API key</a>"
+msgstr ""
+
+#: core/options.php:102
+msgid ""
+"It is required to activate the plugin and get <strong>free updates</strong>."
+msgstr ""
+
+#: core/options.php:102
+msgid ""
+"Note that you might need to re-login WordPress after updating your API key."
+msgstr ""
+
+#: core/options.php:115 core/options.php:116
+msgid "Site name"
+msgstr ""
+
+#: core/options.php:117
+msgid "When needed, we will show this name as your site/company name"
+msgstr ""
+
+#: core/options.php:123
+msgid "Site url"
+msgstr ""
+
+#: core/options.php:125
+msgid ""
+"We will redirect your visitors to this URL from emails or other platforms"
+msgstr ""
+
+#: core/options.php:132 core/options.php:133
+msgid "Site email address(es)"
+msgstr ""
+
+#: core/options.php:132
+msgid "The plugin notifications will be sent to this email address"
+msgstr ""
+
+#: core/options.php:132
+#, php-format
+msgid ""
+"If you need SMTP configuration, you will want to use %s plugin or other good "
+"one"
+msgstr ""
+
+#: core/options.php:134
+msgid "Separate email addresses with comma ','"
+msgstr ""
+
+#: core/options.php:140 core/options.php:141
+msgid "Site reply-to address"
+msgstr ""
+
+#: core/options.php:140
+msgid "Your visitors will reply to this email"
+msgstr ""
+
+#: core/options.php:142
+msgid "One email address only"
+msgstr ""
+
+#: core/options.php:148
+msgid "Site logo"
+msgstr ""
+
+#: core/options.php:149
+msgid "Recommended size"
+msgstr ""
+
+#: core/options.php:149
+msgid ""
+"Logo will be used in emails (sent to visitors) and other useful places as "
+"well"
+msgstr ""
+
+#: core/options.php:156
+msgid "Force to use as default operator avatar"
+msgstr ""
+
+#: core/options.php:162 core/options.php:1026 core/options.php:1142
+msgid "Social links"
+msgstr ""
+
+#: core/options.php:162
+msgid "Enter full URL (i.e. https://twitter.com/screetscom)"
+msgstr ""
+
+#: core/options.php:239
+msgid "Primary color"
+msgstr ""
+
+#: core/options.php:246
+msgid "Foreground color"
+msgstr ""
+
+#: core/options.php:253
+msgid "Link color"
+msgstr ""
+
+#: core/options.php:260
+msgid "Popup background color"
+msgstr ""
+
+#: core/options.php:267
+msgid "Border color"
+msgstr ""
+
+#: core/options.php:296 core/options.php:299
+msgid "Popup size"
+msgstr ""
+
+#: core/options.php:309
+msgid "Position"
+msgstr ""
+
+#: core/options.php:310
+msgid "Which side do you want to display chat box"
+msgstr ""
+
+#: core/options.php:313
+msgid "Top"
+msgstr ""
+
+#: core/options.php:314
+msgid "Bottom"
+msgstr ""
+
+#: core/options.php:323
+msgid "Left"
+msgstr ""
+
+#: core/options.php:324
+msgid "Right"
+msgstr ""
+
+#: core/options.php:331
+msgid "Horizontal offset"
+msgstr ""
+
+#: core/options.php:331
+msgid ""
+"Sets the horizontal distance between the page bottom and the chat widget"
+msgstr ""
+
+#: core/options.php:340
+msgid "Vertical offset"
+msgstr ""
+
+#: core/options.php:340
+msgid "Sets the vertical distance between the edge of page and the chat widget"
+msgstr ""
+
+#: core/options.php:356 core/options.php:357
+msgid "Radius"
+msgstr ""
+
+#: core/options.php:388
+#, php-format
+msgid ""
+"The %s area is the space between the content of the chat box and its border"
+msgstr ""
+
+#: core/options.php:445
+msgid "Avatar size"
+msgstr ""
+
+#: core/options.php:455
+msgid "Avatar radius"
+msgstr ""
+
+#: core/options.php:456
+msgid ""
+"If avatar size and radius values are the same, the avatar will be circle"
+msgstr ""
+
+#: core/options.php:466
+msgid "Shadow"
+msgstr ""
+
+#: core/options.php:469
+msgid "No shadow"
+msgstr ""
+
+#: core/options.php:470
+msgid "Key light"
+msgstr ""
+
+#: core/options.php:471
+msgid "Ambient light"
+msgstr ""
+
+#: core/options.php:472
+msgid "Area light"
+msgstr ""
+
+#: core/options.php:479
+msgid "Shadow opacity"
+msgstr ""
+
+#: core/options.php:497
+msgid "Typography"
+msgstr ""
+
+#: core/options.php:498
+msgid "Select your default font style"
+msgstr ""
+
+#: core/options.php:634
+msgid "White label"
+msgstr ""
+
+#: core/options.php:635
+msgid "Show Screets logo"
+msgstr ""
+
+#: core/options.php:635
+msgid ""
+"It will help us to increase the plugin popularity and create better "
+"community. A good community brings lots of benefits like extensions, new "
+"ideas and improvements."
+msgstr ""
+
+#: core/options.php:642
+msgid "Chat button"
+msgstr ""
+
+#: core/options.php:652 core/options.php:743 core/options.php:1041
+msgid "Activate"
+msgstr ""
+
+#: core/options.php:654 core/options.php:745 core/options.php:1043
+#: core/options.php:1429
+msgid "Yes"
+msgstr ""
+
+#: core/options.php:655 core/options.php:746 core/options.php:1044
+#: core/options.php:1430
+msgid "No"
+msgstr ""
+
+#: core/options.php:661 core/options.php:662 core/options.php:670
+#: core/options.php:671
+msgid "Button title"
+msgstr ""
+
+#: core/options.php:679
+msgid "Button size"
+msgstr ""
+
+#: core/options.php:680
+msgid "0 (zero): No fixed size"
+msgstr ""
+
+#: core/options.php:737
+msgid "Pre-chat popup"
+msgstr ""
+
+#: core/options.php:752 core/options.php:753 core/options.php:858
+#: core/options.php:859 core/options.php:910 core/options.php:911
+#: core/options.php:1050 core/options.php:1051
+msgid "Title"
+msgstr ""
+
+#: core/options.php:761 core/options.php:762 core/options.php:919
+#: core/options.php:920 core/options.php:1059 core/options.php:1060
+msgid "Greeting"
+msgstr ""
+
+#: core/options.php:771 core/options.php:929
+msgid "Form fields"
+msgstr ""
+
+#: core/options.php:785 core/options.php:944
+msgid "Required fields"
+msgstr ""
+
+#: core/options.php:786 core/options.php:945
+msgid "Choose required fields"
+msgstr ""
+
+#: core/options.php:800 core/options.php:960
+msgid "Translate fields"
+msgstr ""
+
+#: core/options.php:844 core/options.php:1010
+msgid "Footer note"
+msgstr ""
+
+#: core/options.php:852
+msgid "Online popup"
+msgstr ""
+
+#: core/options.php:867 core/options.php:868
+msgid "Welcome message"
+msgstr ""
+
+#: core/options.php:877 core/options.php:878
+msgid "First automatic reply"
+msgstr ""
+
+#: core/options.php:886 core/options.php:887
+msgid "Reply box placeholder"
+msgstr ""
+
+#: core/options.php:895
+msgid "Send button"
+msgstr ""
+
+#: core/options.php:896
+msgid "Send"
+msgstr ""
+
+#: core/options.php:904
+msgid "Offline popup"
+msgstr ""
+
+#: core/options.php:1001 core/options.php:1002
+msgid "Button text"
+msgstr ""
+
+#: core/options.php:1018
+msgid "Success message"
+msgstr ""
+
+#: core/options.php:1029 core/options.php:1145
+msgid "Hide"
+msgstr ""
+
+#: core/options.php:1035
+msgid "Post-chat popup"
+msgstr ""
+
+#: core/options.php:1070 core/options.php:1071
+msgid "Rating title"
+msgstr ""
+
+#: core/options.php:1079 core/options.php:1080
+msgid "Like button"
+msgstr ""
+
+#: core/options.php:1089 core/options.php:1090
+msgid "Dislike button"
+msgstr ""
+
+#: core/options.php:1099 core/options.php:1100
+msgid "After voting message"
+msgstr ""
+
+#: core/options.php:1108 core/options.php:1109
+msgid "Email field"
+msgstr ""
+
+#: core/options.php:1117
+msgid "Buttons"
+msgstr ""
+
+#: core/options.php:1214
+msgid "Pre-chat form fields"
+msgstr ""
+
+#: core/options.php:1236
+msgid "Offline form fields"
+msgstr ""
+
+#: core/options.php:1277 core/options.php:1278
+msgid "Guest prefix"
+msgstr ""
+
+#: core/options.php:1279
+msgid ""
+"Visitors who didn't provide name or email will take guest name. For example, "
+"\"Guest-1234\""
+msgstr ""
+
+#: core/options.php:1287
+msgid "Operators"
+msgstr ""
+
+#: core/options.php:1292
+msgid "List Operators"
+msgstr ""
+
+#: core/options.php:1292
+msgid "Add New Operator"
+msgstr ""
+
+#: core/options.php:1298
+msgid "Operator capabilities"
+msgstr ""
+
+#: core/options.php:1298
+#, php-format
+msgid ""
+"To add more capabilities to CX Operators, consider to use %s plugin or other "
+"good one"
+msgstr ""
+
+#: core/options.php:1300
+msgid "Use chat console and answer visitors"
+msgstr ""
+
+#: core/options.php:1301
+msgid "See chat logs"
+msgstr ""
+
+#: core/options.php:1302
+msgid "Manage chat options"
+msgstr ""
+
+#: core/options.php:1327
+#, php-format
+msgid ""
+"Create new project with <a href=\"%s\" target=\"_blank\">Google Firebase "
+"API</a>"
+msgstr ""
+
+#: core/options.php:1427
+msgid ""
+"Install Pushover to your mobile device or desktop (Mac or PC) and receive "
+"notifications from the plugin"
+msgstr ""
+
+#: core/options.php:1428
+msgid "Enable this application"
+msgstr ""
+
+#: core/options.php:1435
+msgid ""
+"Use that image below as \"App Icon\" when creating your Pushover application:"
+"<br><a href=\""
+msgstr ""
+
+#: core/options.php:1441 core/options.php:1442
+msgid "User key"
+msgstr ""
+
+#: core/options.php:1443
+msgid "Create an application and get your keys"
+msgstr ""
+
+#: core/options.php:1450
+msgid "After creating application, you will see the key"
+msgstr ""
+
+#: core/options.php:1477 core/options.php:1478
+msgid "Reverse proxy IPs"
+msgstr ""
+
+#: core/options.php:1479
+msgid ""
+"If your server is behind a reverse proxy, you must whitelist the proxy IP "
+"addresses from which WordPress should trust the HTTP_X_FORWARDED_FOR header "
+"in order to properly identify the visitor's IP address. Comma-delimited, e."
+"g. '10.0.1.200,10.0.1.201'"
+msgstr ""
+
+#: core/options.php:1485 core/options.php:1486
+msgid "Custom CSS"
+msgstr ""
+
+#: core/templates/chatbox.php:38 core/templates/console.php:75
+#: front-end.php:149
+msgid "Connecting"
+msgstr ""
+
+#: core/templates/chatbox.php:106 core/templates/chatbox.php:144
+msgid ""
+"Operators cannot test the plugin from here. Please use other browser or "
+"computer to test the plugin"
+msgstr ""
+
+#: core/templates/chatbox.php:200
+msgid "Your feedback"
+msgstr ""
+
+#: core/templates/console.php:27
+msgid "Operator Settings"
+msgstr ""
+
+#: core/templates/console.php:33
+msgid "Pushover Device Name"
+msgstr ""
+
+#: core/templates/console.php:35
+msgid "Separate multiple devices by a comma \",\""
+msgstr ""
+
+#: core/templates/console.php:39
+msgid "Notifications"
+msgstr ""
+
+#: core/templates/console.php:43
+msgid "Disable new visitor notifications"
+msgstr ""
+
+#: core/templates/console.php:48
+msgid "Disable new message notifications"
+msgstr ""
+
+#: core/templates/console.php:55
+msgid ""
+"It is helpful if something wrong in chat connections or chat transmissions. "
+"It doesn't delete chat data"
+msgstr ""
+
+#: core/templates/console.php:55
+msgid "Restart"
+msgstr ""
+
+#: core/templates/console.php:76
+msgid "Settings"
+msgstr ""
+
+#: core/templates/console.php:93
+msgid "Get notified of new messages"
+msgstr ""
+
+#: core/templates/console.php:94
+msgid "Turn on desktop notifications"
+msgstr ""
+
+#: core/templates/console.php:114
+msgid "Web visitors"
+msgstr ""
+
+#: core/templates/console.php:122
+msgid "Search in chats"
+msgstr ""
+
+#: front-end.php:155
+msgid "Please fill out all required fields."
+msgstr ""
+
+#: front-end.php:158
+msgid "We're online!"
+msgstr ""
+
+#: front-end.php:159
+msgid "We're offline now"
+msgstr ""
+
+#: front-end.php:160
+msgid "Are you sure you want to end chat?"
+msgstr ""

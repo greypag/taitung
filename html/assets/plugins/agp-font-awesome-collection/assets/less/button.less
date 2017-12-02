@@ -1,0 +1,41 @@
+@id : '';
+@background : '';
+@border_radius : '';
+@border_width : '';
+@border_color : '';
+@color : '';
+@background_hover : '';
+@color_hover : '';
+
+#@{id} a {
+    .background (@background) when not (@background=~'') {
+        background: @background!important;
+    } .background (@background);    
+    
+    .border_radius (@border_radius) when not (@border_radius=~'') {
+        border-radius: @border_radius!important;
+    } .border_radius (@border_radius);    
+    
+    .border_width (@border_width) when not (@border_width=~'') {
+        border-width: @border_width!important;
+    } .border_width (@border_width) ;    
+    
+    .border_color (@border_color) when not (@border_color=~'') {
+        border-color: @border_color!important;
+    } .border_color (@border_color);    
+    
+    .color (@color) when not (@color=~'') {
+        color: @color!important;
+    } .color (@color);    
+}
+
+#@{id} a:hover {
+    .background_hover (@background_hover) when not (@background_hover=~'') {
+        opacity: 1!important; 
+        background: @background_hover!important;
+    } .background_hover (@background_hover);    
+    
+    .color_hover (@color_hover) when not (@color_hover=~'') {
+        color: @color_hover!important;
+    } .color_hover (@color_hover);    
+}

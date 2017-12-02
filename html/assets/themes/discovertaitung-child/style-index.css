@@ -1,0 +1,128 @@
+.package-thumb {
+    height: auto;
+}
+
+@media (min-width:1200px) {
+    .package-thumb {
+        height: 248px;
+    }
+}
+
+@media (min-width:1280px) {
+    .package-thumb {
+        height: 276px;
+    }
+}
+
+@media (min-width:1366px) {
+    .package-thumb {
+        height: 276px;
+    }
+}
+
+.home .package-wrapper .package-details .package-content {
+    padding: 8px 20px 8px;
+}
+
+.home .package-wrapper .package-details {
+    padding-bottom: 0;
+}
+
+.strategy .btn, .strategy .btn:hover {
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+
+/* START: adoda search hotel widget */
+
+.searchhotel-container {
+    background-position: center center;
+    background-size: cover;
+}
+
+#main .hotel-wrapper {
+    height: 400px;
+    min-height: 400px;
+    max-width: 330px;
+    min-width: 300px;
+    width: 100%;
+    text-align: center;
+    position: relative;
+    margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+    #main .hotel-wrapper {
+        padding: 20px;
+        margin: 0 0 0 auto;
+    }
+}
+
+#main .hotel-wrapper:before {
+    content: "";
+    height: 100%;
+    /*display: inline-block;*/
+    vertical-align: middle;
+}
+
+#main .hotel-wrapper .hotel-wrapper-inner {
+    display: inline-block;
+    vertical-align: middle;
+    width: 100%;
+    max-width: 330px;
+}
+
+#main .hotel-wrapper .title {
+    color: #fff;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 40px;
+    margin-bottom: 10px;
+    text-align: right;
+}
+
+#main .hotel-widget-wrapper {
+    display: inline-block;
+  background-color:rgba(236, 236, 236, 0.7);
+  padding:15px 15px 3px 15px;
+
+}
+
+#main .hotel-widget-wrapper img {
+    margin-bottom: 0;
+}
+
+#main .hotel-widget-wrapper iframe {
+    margin-bottom: 0;
+}
+
+#main .hotel-wrapper-inner {
+    margin-left: 0;
+    margin-right: 0;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+@media (min-width: 768px) {
+    #main .home .hotel-wrapper .hotel-wrapper-inner {
+        margin-left: 50%;
+    }
+}
+
+@media (min-width: 960px) {
+    #main .home .hotel-wrapper .hotel-wrapper-inner {
+        margin-left: 60%;
+    }
+}
+
+@media (min-width: 1120px) {
+    #main .home .hotel-wrapper .hotel-wrapper-inner {
+        margin-left: 70%;
+    }
+}
+
+
+/* END: adoda search hotel widget */

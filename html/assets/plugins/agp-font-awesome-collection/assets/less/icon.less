@@ -1,0 +1,20 @@
+@id : '';
+@color : '';
+@font_size : '';
+@color_hover : '';
+
+#@{id} {
+    .color (@color) when not (@color=~'') {
+        color: @color!important;
+    } .color (@color);    
+    
+    .font_size (@font_size) when not (@font_size=~'') {
+        font-size: @font_size!important;
+    } .font_size (@font_size);    
+}
+
+#@{id}:hover {
+    .color_hover (@color_hover) when not (@color_hover=~'') {
+        color: @color_hover!important;
+    } .color_hover (@color_hover);        
+}

@@ -1,0 +1,1666 @@
+/*
+Theme Name: discovertaitung Child
+Template: discovertaitung
+Version: 1.0.1481872454
+Updated: 2016-12-16 07:14:14
+
+*/
+
+
+/*
+@font-face {
+font-family: 'Noto Sans TC';
+font-style: normal;
+font-weight: 100;
+src:
+local(Noto Sans TC),
+local(NotoSansTC-Thin),
+url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansTC-Thin.woff2) format('woff2'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansTC-Thin.woff) format('woff'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansTC-Thin.otf) format('opentype')
+}
+
+@font-face {
+font-family: 'Noto Sans TC';
+font-style: normal;
+font-weight: 300;
+src:
+local(Noto Sans TC),
+local(NotoSansTC-Light),
+url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansTC-Light.woff2) format('woff2'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansTC-Light.woff) format('woff'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansTC-Light.otf) format('opentype')
+}
+*/
+
+@font-face {
+  font-family: 'Noto Sans TC';
+  font-style: normal;
+  font-weight: 400;
+  src: local(Noto Sans TC), local(NotoSansTC-Regular), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansTC-Regular.woff2) format('woff2'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansTC-Regular.woff) format('woff'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansTC-Regular.otf) format('opentype')
+}
+
+
+/*
+@font-face {
+font-family: 'Noto Sans TC';
+font-style: normal;
+font-weight: 500;
+src:
+local(Noto Sans TC),
+local(NotoSansTC-Medium),
+url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansTC-Medium.woff2) format('woff2'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansTC-Medium.woff) format('woff'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansTC-Medium.otf) format('opentype')
+}
+
+@font-face {
+font-family: 'Noto Sans TC';
+font-style: normal;
+font-weight: 700;
+src:
+local(Noto Sans TC),
+local(NotoSansTC-Bold),
+url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansTC-Bold.woff2) format('woff2'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansTC-Bold.woff) format('woff'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansTC-Bold.otf) format('opentype')
+}
+
+@font-face {
+font-family: 'Noto Sans TC';
+font-style: normal;
+font-weight: 900;
+src:
+local(Noto Sans TC),
+local(NotoSansTC-Black),
+url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansTC-Black.woff2) format('woff2'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansTC-Black.woff) format('woff'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansTC-Black.otf) format('opentype')
+}
+
+@font-face {
+font-family: 'Noto Sans SC';
+font-style: normal;
+font-weight: 100;
+src:
+local(Noto Sans SC),
+local(NotoSansSC-Thin),
+url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansSC-Thin.woff2) format('woff2'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansSC-Thin.woff) format('woff'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansSC-Thin.otf) format('opentype')
+}
+
+@font-face {
+font-family: 'Noto Sans SC';
+font-style: normal;
+font-weight: 300;
+src:
+local(Noto Sans SC),
+local(NotoSansSC-Light),
+url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansSC-Light.woff2) format('woff2'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansSC-Light.woff) format('woff'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansSC-Light.otf) format('opentype')
+}
+*/
+
+@font-face {
+  font-family: 'Noto Sans SC';
+  font-style: normal;
+  font-weight: 400;
+  src: local(Noto Sans SC), local(NotoSansSC-Regular), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansSC-Regular.woff2) format('woff2'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansSC-Regular.woff) format('woff'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansSC-Regular.otf) format('opentype')
+}
+
+
+/*
+@font-face {
+font-family: 'Noto Sans SC';
+font-style: normal;
+font-weight: 500;
+src:
+local(Noto Sans SC),
+local(NotoSansSC-Medium),
+url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansSC-Medium.woff2) format('woff2'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansSC-Medium.woff) format('woff'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansSC-Medium.otf) format('opentype')
+}
+
+@font-face {
+font-family: 'Noto Sans SC';
+font-style: normal;
+font-weight: 700;
+src:
+local(Noto Sans SC),
+local(NotoSansSC-Bold),
+url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansSC-Bold.woff2) format('woff2'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansSC-Bold.woff) format('woff'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansSC-Bold.otf) format('opentype')
+}
+
+@font-face {
+font-family: 'Noto Sans SC';
+font-style: normal;
+font-weight: 900;
+src:
+local(Noto Sans SC),
+local(NotoSansSC-Black),
+url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansSC-Black.woff2) format('woff2'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansSC-Black.woff) format('woff'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansSC-Black.otf) format('opentype')
+}
+
+@font-face {
+font-family: 'Noto Sans Japanese';
+font-style: normal;
+font-weight: 100;
+src:
+local(Noto Sans JP),
+local(NotoSansJP-Thin),
+url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansJP-Thin.woff2) format('woff2'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansJP-Thin.woff) format('woff'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansJP-Thin.otf) format('opentype')
+}
+
+@font-face {
+font-family: 'Noto Sans Japanese';
+font-style: normal;
+font-weight: 200;
+src:
+local(Noto Sans JP),
+local(NotoSansJP-Light),
+url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansJP-Light.woff2) format('woff2'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansJP-Light.woff) format('woff'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansJP-Light.otf) format('opentype')
+}
+
+@font-face {
+font-family: 'Noto Sans Japanese';
+font-style: normal;
+font-weight: 300;
+src:
+local(Noto Sans JP),
+local(NotoSansJP-DemiLight),
+url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansJP-DemiLight.woff2) format('woff2'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansJP-DemiLight.woff) format('woff'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansJP-DemiLight.otf) format('opentype')
+}
+*/
+
+@font-face {
+  font-family: 'Noto Sans Japanese';
+  font-style: normal;
+  font-weight: 400;
+  src: local(Noto Sans JP), local(NotoSansJP-Regular), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansJP-Regular.woff2) format('woff2'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansJP-Regular.woff) format('woff'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansJP-Regular.otf) format('opentype')
+}
+
+
+/*
+@font-face {
+font-family: 'Noto Sans Japanese';
+font-style: normal;
+font-weight: 500;
+src:
+local(Noto Sans JP),
+local(NotoSansJP-Medium),
+url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansJP-Medium.woff2) format('woff2'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansJP-Medium.woff) format('woff'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansJP-Medium.otf) format('opentype')
+}
+
+@font-face {
+font-family: 'Noto Sans Japanese';
+font-style: normal;
+font-weight: 700;
+src:
+local(Noto Sans JP),
+local(NotoSansJP-Bold),
+url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansJP-Bold.woff2) format('woff2'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansJP-Bold.woff) format('woff'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansJP-Bold.otf) format('opentype')
+}
+
+@font-face {
+font-family: 'Noto Sans Japanese';
+font-style: normal;
+font-weight: 900;
+src:
+local(Noto Sans JP),
+local(NotoSansJP-Black),
+url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansJP-Black.woff2) format('woff2'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansJP-Black.woff) format('woff'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansJP-Black.otf) format('opentype')
+}
+
+@font-face {
+font-family: 'Noto Sans KR';
+font-style: normal;
+font-weight: 100;
+src:
+local(Noto Sans KR),
+local(NotoSansKR-Thin),
+url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansKR-Thin.woff2) format('woff2'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansKR-Thin.woff) format('woff'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansKR-Thin.otf) format('opentype')
+}
+
+@font-face {
+font-family: 'Noto Sans KR';
+font-style: normal;
+font-weight: 300;
+src:
+local(Noto Sans KR),
+local(NotoSansKR-Light),
+url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansKR-Light.woff2) format('woff2'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansKR-Light.woff) format('woff'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansKR-Light.otf) format('opentype')
+}
+*/
+
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 400;
+  src: local(Noto Sans KR), local(NotoSansKR-Regular), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansKR-Regular.woff2) format('woff2'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansKR-Regular.woff) format('woff'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansKR-Regular.otf) format('opentype')
+}
+
+
+/*
+@font-face {
+font-family: 'Noto Sans KR';
+font-style: normal;
+font-weight: 500;
+src:
+local(Noto Sans KR),
+local(NotoSansKR-Medium),
+url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansKR-Medium.woff2) format('woff2'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansKR-Medium.woff) format('woff'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansKR-Medium.otf) format('opentype')
+}
+
+@font-face {
+font-family: 'Noto Sans KR';
+font-style: normal;
+font-weight: 700;
+src:
+local(Noto Sans TC),
+local(NotoSansTC-Light),
+url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansKR-Bold.woff2) format('woff2'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansKR-Bold.woff) format('woff'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansKR-Bold.otf) format('opentype')
+}
+
+@font-face {
+font-family: 'Noto Sans KR';
+font-style: normal;
+font-weight: 900;
+src:
+local(Noto Sans KR),
+local(NotoSansKR-Black),
+url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansKR-Black.woff2) format('woff2'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansKR-Black.woff) format('woff'), url(//fonts.discovertaitung.com/assets/themes/discovertaitung-child/fonts/NotoSansKR-Black.otf) format('opentype')
+}
+*/
+
+.lang-zh-hant *, .wpml-ls-item-zh-hant * {
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+.lang-zh-hans *, .wpml-ls-item-zh-hans * {
+  font-family: 'Noto Sans SC', sans-serif;
+}
+
+.lang-ja *, .wpml-ls-item-ja * {
+  font-family: 'Noto Sans Japanese', sans-serif;
+}
+
+.lang-kr *, .wpml-ls-item-kr * {
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+.star-rating {
+  font-family: FontAwesome;
+}
+
+
+/* template start */
+
+body.lang-zh-hant,.lang-zh-hant h1,.lang-zh-hant h2,.lang-zh-hant h3,.lang-zh-hant h4,.lang-zh-hant h5,.lang-zh-hant h6,.lang-zh-hant input[type="text"],.lang-zh-hant input[type="submit"],.lang-zh-hant input[type="password"],.lang-zh-hant input[type="email"],.lang-zh-hant input[type="url"],.lang-zh-hant input[type="tel"],
+.lang-zh-hant input[type="number"],.lang-zh-hant input[type="range"],.lang-zh-hant input[type="date"],.lang-zh-hant textarea,.lang-zh-hant input.text,.lang-zh-hant select,.lang-zh-hant input[type="search"],.lang-zh-hant button,.lang-zh-hant .hotel-details h2 sub,.lang-zh-hant .dt-sc-testimonial .author-detail,
+.lang-zh-hant .secondary-sidebar .widget_recent_entries h6 a sub,.lang-zh-hant footer .widget_recent_entries h6 a sub,.lang-zh-hant .menu-item-widget-area-container .widget_recent_entries .recent-posts-widget h6 a,.lang-zh-hant .menu-item-widget-area-container .widget_products .product_list_widget li>a,.lang-zh-hant .menu-item-widget-area-container .woocommerce.widget_recent_reviews .product_list_widget li>a,
+.lang-zh-hant .menu-item-widget-area-container .woocommerce.widget_top_rated_products .product_list_widget li>a,
+.lang-zh-hant .menu-item-widget-area-container .widget.tribe-events-adv-list-widget ol li h4,
+.lang-zh-hant .menu-item-widget-area-container .widget_rss .rsswidget,
+.lang-zh-hant .menu-item-widget-area-container .widget_shopping_cart ul.cart_list li>a,
+.lang-zh-hant .menu-item-widget-area-container .widget_recent_entries h4,
+.lang-zh-hant .menu-item-widget-area-container .widget.widget_popular_entries ul li h6,
+.lang-zh-hant .menu-item-widget-area-container .widget_recent_entries .recent-posts-widget h4 a,
+.lang-zh-hant .menu-item-widget-area-container .tribe_mini_calendar_widget .list-info h2,
+.lang-zh-hant .widget.widget_popular_entries .recent-gallery-widget ul li h6,
+.lang-zh-hant .dt-sc-event>h4,
+.lang-zh-hant .package-wrapper .package-details h5,
+.lang-zh-hant .dt-sc-pr-tb-col.type3 .dt-sc-tb-title h3,
+.lang-zh-hant .entry-post .entry-detail h2,
+.lang-zh-hant .entry-place-title h5,
+.lang-zh-hant .dt-travel-place-wrapper .place-details h5,
+.lang-zh-hant .dt-sc-pack-detail h5,
+.lang-zh-hant .entry-meta .date,
+.lang-zh-hant .entry-details .entry-title h2,
+.lang-zh-hant .widget_recent_entries h4 a,
+.lang-zh-hant .portfolio-single .column h3,
+.lang-zh-hant .content-box h4,
+.lang-zh-hant .widget.widget_popular_entries ul li h6,
+.lang-zh-hant .hotel-details h2,
+.lang-zh-hant .overal-rating-wrapper h2,
+.lang-zh-hant .tribe-events-list h2.tribe-events-list-event-title,
+.lang-zh-hant .tribe-events-page-title,
+.lang-zh-hant .secondary-sidebar .widget_recent_entries .recent-posts-widget h6 a,
+.lang-zh-hant .footer .widget_recent_entries h6 a,
+.lang-zh-hant .widget_products .product_list_widget li>a,
+.lang-zh-hant .woocommerce.widget_recent_reviews .product_list_widget li>a,
+.lang-zh-hant .woocommerce.widget_top_rated_products .product_list_widget li>a,
+.lang-zh-hant .tribe_mini_calendar_widget .list-info h2,
+.lang-zh-hant .widget.tribe-events-adv-list-widget ol li h4,
+.lang-zh-hant .widget_rss .rsswidget,
+.lang-zh-hant .widget_shopping_cart ul.cart_list li>a,
+.lang-zh-hant .product-category.product h3 {
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+body.lang-zh-hants,.lang-zh-hants h1,.lang-zh-hants h2,.lang-zh-hants h3,.lang-zh-hants h4,.lang-zh-hants h5,.lang-zh-hants h6,.lang-zh-hants input[type="text"],.lang-zh-hants input[type="submit"],.lang-zh-hants input[type="password"],.lang-zh-hants input[type="email"],.lang-zh-hants input[type="url"],.lang-zh-hants input[type="tel"],
+.lang-zh-hants input[type="number"],.lang-zh-hants input[type="range"],.lang-zh-hants input[type="date"],.lang-zh-hants textarea,.lang-zh-hants input.text,.lang-zh-hants select,.lang-zh-hants input[type="search"],.lang-zh-hants button,.lang-zh-hants .hotel-details h2 sub,.lang-zh-hants .dt-sc-testimonial .author-detail,
+.lang-zh-hants .secondary-sidebar .widget_recent_entries h6 a sub,.lang-zh-hants footer .widget_recent_entries h6 a sub,.lang-zh-hants .menu-item-widget-area-container .widget_recent_entries .recent-posts-widget h6 a,.lang-zh-hants .menu-item-widget-area-container .widget_products .product_list_widget li>a,.lang-zh-hants .menu-item-widget-area-container .woocommerce.widget_recent_reviews .product_list_widget li>a,
+.lang-zh-hants .menu-item-widget-area-container .woocommerce.widget_top_rated_products .product_list_widget li>a,
+.lang-zh-hants .menu-item-widget-area-container .widget.tribe-events-adv-list-widget ol li h4,
+.lang-zh-hants .menu-item-widget-area-container .widget_rss .rsswidget,
+.lang-zh-hants .menu-item-widget-area-container .widget_shopping_cart ul.cart_list li>a,
+.lang-zh-hants .menu-item-widget-area-container .widget_recent_entries h4,
+.lang-zh-hants .menu-item-widget-area-container .widget.widget_popular_entries ul li h6,
+.lang-zh-hants .menu-item-widget-area-container .widget_recent_entries .recent-posts-widget h4 a,
+.lang-zh-hants .menu-item-widget-area-container .tribe_mini_calendar_widget .list-info h2,
+.lang-zh-hants .widget.widget_popular_entries .recent-gallery-widget ul li h6,
+.lang-zh-hants .dt-sc-event>h4,
+.lang-zh-hants .package-wrapper .package-details h5,
+.lang-zh-hants .dt-sc-pr-tb-col.type3 .dt-sc-tb-title h3,
+.lang-zh-hants .entry-post .entry-detail h2,
+.lang-zh-hants .entry-place-title h5,
+.lang-zh-hants .dt-travel-place-wrapper .place-details h5,
+.lang-zh-hants .dt-sc-pack-detail h5,
+.lang-zh-hants .entry-meta .date,
+.lang-zh-hants .entry-details .entry-title h2,
+.lang-zh-hants .widget_recent_entries h4 a,
+.lang-zh-hants .portfolio-single .column h3,
+.lang-zh-hants .content-box h4,
+.lang-zh-hants .widget.widget_popular_entries ul li h6,
+.lang-zh-hants .hotel-details h2,
+.lang-zh-hants .overal-rating-wrapper h2,
+.lang-zh-hants .tribe-events-list h2.tribe-events-list-event-title,
+.lang-zh-hants .tribe-events-page-title,
+.lang-zh-hants .secondary-sidebar .widget_recent_entries .recent-posts-widget h6 a,
+.lang-zh-hants .footer .widget_recent_entries h6 a,
+.lang-zh-hants .widget_products .product_list_widget li>a,
+.lang-zh-hants .woocommerce.widget_recent_reviews .product_list_widget li>a,
+.lang-zh-hants .woocommerce.widget_top_rated_products .product_list_widget li>a,
+.lang-zh-hants .tribe_mini_calendar_widget .list-info h2,
+.lang-zh-hants .widget.tribe-events-adv-list-widget ol li h4,
+.lang-zh-hants .widget_rss .rsswidget,
+.lang-zh-hants .widget_shopping_cart ul.cart_list li>a,
+.lang-zh-hants .product-category.product h3 {
+  font-family: 'Noto Sans SC', sans-serif;
+}
+
+
+body.lang-ja,.lang-ja h1,.lang-ja h2,.lang-ja h3,.lang-ja h4,.lang-ja h5,.lang-ja h6,.lang-ja input[type="text"],.lang-ja input[type="submit"],.lang-ja input[type="password"],.lang-ja input[type="email"],.lang-ja input[type="url"],.lang-ja input[type="tel"],
+.lang-ja input[type="number"],.lang-ja input[type="range"],.lang-ja input[type="date"],.lang-ja textarea,.lang-ja input.text,.lang-ja select,.lang-ja input[type="search"],.lang-ja button,.lang-ja .hotel-details h2 sub,.lang-ja .dt-sc-testimonial .author-detail,
+.lang-ja .secondary-sidebar .widget_recent_entries h6 a sub,.lang-ja footer .widget_recent_entries h6 a sub,.lang-ja .menu-item-widget-area-container .widget_recent_entries .recent-posts-widget h6 a,.lang-ja .menu-item-widget-area-container .widget_products .product_list_widget li>a,.lang-ja .menu-item-widget-area-container .woocommerce.widget_recent_reviews .product_list_widget li>a,
+.lang-ja .menu-item-widget-area-container .woocommerce.widget_top_rated_products .product_list_widget li>a,
+.lang-ja .menu-item-widget-area-container .widget.tribe-events-adv-list-widget ol li h4,
+.lang-ja .menu-item-widget-area-container .widget_rss .rsswidget,
+.lang-ja .menu-item-widget-area-container .widget_shopping_cart ul.cart_list li>a,
+.lang-ja .menu-item-widget-area-container .widget_recent_entries h4,
+.lang-ja .menu-item-widget-area-container .widget.widget_popular_entries ul li h6,
+.lang-ja .menu-item-widget-area-container .widget_recent_entries .recent-posts-widget h4 a,
+.lang-ja .menu-item-widget-area-container .tribe_mini_calendar_widget .list-info h2,
+.lang-ja .widget.widget_popular_entries .recent-gallery-widget ul li h6,
+.lang-ja .dt-sc-event>h4,
+.lang-ja .package-wrapper .package-details h5,
+.lang-ja .dt-sc-pr-tb-col.type3 .dt-sc-tb-title h3,
+.lang-ja .entry-post .entry-detail h2,
+.lang-ja .entry-place-title h5,
+.lang-ja .dt-travel-place-wrapper .place-details h5,
+.lang-ja .dt-sc-pack-detail h5,
+.lang-ja .entry-meta .date,
+.lang-ja .entry-details .entry-title h2,
+.lang-ja .widget_recent_entries h4 a,
+.lang-ja .portfolio-single .column h3,
+.lang-ja .content-box h4,
+.lang-ja .widget.widget_popular_entries ul li h6,
+.lang-ja .hotel-details h2,
+.lang-ja .overal-rating-wrapper h2,
+.lang-ja .tribe-events-list h2.tribe-events-list-event-title,
+.lang-ja .tribe-events-page-title,
+.lang-ja .secondary-sidebar .widget_recent_entries .recent-posts-widget h6 a,
+.lang-ja .footer .widget_recent_entries h6 a,
+.lang-ja .widget_products .product_list_widget li>a,
+.lang-ja .woocommerce.widget_recent_reviews .product_list_widget li>a,
+.lang-ja .woocommerce.widget_top_rated_products .product_list_widget li>a,
+.lang-ja .tribe_mini_calendar_widget .list-info h2,
+.lang-ja .widget.tribe-events-adv-list-widget ol li h4,
+.lang-ja .widget_rss .rsswidget,
+.lang-ja .widget_shopping_cart ul.cart_list li>a,
+.lang-ja .product-category.product h3 {
+  font-family: 'Noto Sans Japanese', sans-serif;
+}
+
+body.lang-kr,.lang-kr h1,.lang-kr h2,.lang-kr h3,.lang-kr h4,.lang-kr h5,.lang-kr h6,.lang-kr input[type="text"],.lang-kr input[type="submit"],.lang-kr input[type="password"],.lang-kr input[type="email"],.lang-kr input[type="url"],.lang-kr input[type="tel"],
+.lang-kr input[type="number"],.lang-kr input[type="range"],.lang-kr input[type="date"],.lang-kr textarea,.lang-kr input.text,.lang-kr select,.lang-kr input[type="search"],.lang-kr button,.lang-kr .hotel-details h2 sub,.lang-kr .dt-sc-testimonial .author-detail,
+.lang-kr .secondary-sidebar .widget_recent_entries h6 a sub,.lang-kr footer .widget_recent_entries h6 a sub,.lang-kr .menu-item-widget-area-container .widget_recent_entries .recent-posts-widget h6 a,.lang-kr .menu-item-widget-area-container .widget_products .product_list_widget li>a,.lang-kr .menu-item-widget-area-container .woocommerce.widget_recent_reviews .product_list_widget li>a,
+.lang-kr .menu-item-widget-area-container .woocommerce.widget_top_rated_products .product_list_widget li>a,
+.lang-kr .menu-item-widget-area-container .widget.tribe-events-adv-list-widget ol li h4,
+.lang-kr .menu-item-widget-area-container .widget_rss .rsswidget,
+.lang-kr .menu-item-widget-area-container .widget_shopping_cart ul.cart_list li>a,
+.lang-kr .menu-item-widget-area-container .widget_recent_entries h4,
+.lang-kr .menu-item-widget-area-container .widget.widget_popular_entries ul li h6,
+.lang-kr .menu-item-widget-area-container .widget_recent_entries .recent-posts-widget h4 a,
+.lang-kr .menu-item-widget-area-container .tribe_mini_calendar_widget .list-info h2,
+.lang-kr .widget.widget_popular_entries .recent-gallery-widget ul li h6,
+.lang-kr .dt-sc-event>h4,
+.lang-kr .package-wrapper .package-details h5,
+.lang-kr .dt-sc-pr-tb-col.type3 .dt-sc-tb-title h3,
+.lang-kr .entry-post .entry-detail h2,
+.lang-kr .entry-place-title h5,
+.lang-kr .dt-travel-place-wrapper .place-details h5,
+.lang-kr .dt-sc-pack-detail h5,
+.lang-kr .entry-meta .date,
+.lang-kr .entry-details .entry-title h2,
+.lang-kr .widget_recent_entries h4 a,
+.lang-kr .portfolio-single .column h3,
+.lang-kr .content-box h4,
+.lang-kr .widget.widget_popular_entries ul li h6,
+.lang-kr .hotel-details h2,
+.lang-kr .overal-rating-wrapper h2,
+.lang-kr .tribe-events-list h2.tribe-events-list-event-title,
+.lang-kr .tribe-events-page-title,
+.lang-kr .secondary-sidebar .widget_recent_entries .recent-posts-widget h6 a,
+.lang-kr .footer .widget_recent_entries h6 a,
+.lang-kr .widget_products .product_list_widget li>a,
+.lang-kr .woocommerce.widget_recent_reviews .product_list_widget li>a,
+.lang-kr .woocommerce.widget_top_rated_products .product_list_widget li>a,
+.lang-kr .tribe_mini_calendar_widget .list-info h2,
+.lang-kr .widget.tribe-events-adv-list-widget ol li h4,
+.lang-kr .widget_rss .rsswidget,
+.lang-kr .widget_shopping_cart ul.cart_list li>a,
+.lang-kr .product-category.product h3 {
+  font-family: 'Noto Sans KR', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+  color: #555;
+}
+
+p {
+  font-size: 16px;
+  line-height: 24px;
+  margin-bottom: 16px;
+}
+
+#main {
+  margin: 0 0 -10px;
+  padding: 0;
+}
+
+#main div {
+  font-size: 16px;
+}
+
+.fullwidth .container {
+  width: 100%;
+}
+
+.btn-white-border {
+  border: 1px solid #fff !important;
+}
+
+.btn-white-border:hover {
+  background-color: #fff !important;
+  color: #000 !important;
+  border: 1px solid #fff !important;
+}
+
+
+/* leon btn-white */
+
+.btn-white {
+  background-color: #fff !important;
+  color: #a1a1a1 !important;
+  border: 1px solid #a1a1a1 !important;
+  margin: 5px 2px 5px 2px !important;
+}
+
+.btn-no-border-radius {
+  border-radius: 0;
+}
+
+.wpml-ls-legacy-list-horizontal a span {
+  line-height: 14px;
+}
+
+#logo {
+  width: auto !important;
+  margin-top: 5px !important;
+  float: left;
+  text-align: left !important;
+}
+
+@media (min-width: 768px) {
+  #logo img {
+    position: relative;
+  }
+}
+
+#award {
+  float: right;
+  display: inline;
+  padding: 0;
+  width: auto;
+  margin: 0;
+  height: 85px;
+  line-height: 85px;
+}
+
+#award img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+.top-right ul li {
+  border: 0;
+}
+
+.top-right ul li a {
+  padding: 0 8px;
+}
+
+.top-bar {
+  padding: 4px 0;
+}
+
+.top-bar * {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  .top-bar {
+    padding: 10px 0;
+  }
+}
+
+
+/* menu start */
+
+#main-menu>ul.menu {
+  float: left;
+  margin: 0;
+}
+
+#main-menu>ul.menu>li>a {
+  font-size: 14px !important;
+  padding: 9px 20px 8px;
+}
+
+@media (min-width: 768px) {
+  #main-menu>ul.menu {
+    margin: 0 30px;
+  }
+  #main-menu>ul.menu>li {
+    line-height: 90px !important;
+  }
+}
+
+#main-menu>ul>li.current_page_item>a, #main-menu>ul>li.current_page_ancestor>a, #main-menu>ul>li.current-menu-item>a, #main-menu>ul>li.current-menu-ancestor>a, .property-item .hotel-details .dt-sc-button.yellow, .product .package-thumb-wrapper .onsale, .quantity.buttons_added input[type="button"], .tribe-events-meta-group .tribe-events-single-section-title:before, h3.tribe-events-related-events-title:before, .megamenu-child-container>ul.sub-menu>li>a:before, .megamenu-child-container>ul.sub-menu>li>.nolink-menu:before, #frmbooking input[type="submit"]:hover, .tribe-grid-header>.tribe-grid-content-wrap>.column.tribe-week-today {
+  background-color: #fff !important;
+}
+
+.dt-menu-toggle {
+  background-color: #0e76bc !important;
+  height: 42px;
+}
+
+.dt-sc-hr-invisible-medium {
+  margin: 34px 0;
+}
+
+
+/* menu end */
+
+.breadcrumb-wrapper h1 {
+  color: #555;
+  font-size: 24px;
+}
+
+.breadcrumb-wrapper .breadcrumb a, .breadcrumb-wrapper .breadcrumb h4 {
+  font-size: 12px;
+}
+
+.breadcrumb a {
+  color: #555;
+}
+
+.breadcrumb-wrapper .breadcrumb h4 {
+  color: #a1a1a1;
+}
+
+.heading-img {
+  height: 100px;
+  margin-bottom: 20px;
+  background-size: cover;
+  background-position: center;
+}
+@media only screen and (min-width: 960px){
+  .heading-img {
+    height: 200px;
+    margin-bottom: 40px;
+  }
+}
+@media only screen and (min-width: 1120px){
+  .heading-img {
+    height: 352px;
+    margin-bottom: 80px;
+  }
+}
+.summary-box {
+  color: #555;
+  font-size: 36px;
+}
+
+.short-description-box {
+  color: #555;
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+.content-box {
+  color: #a1a1a1;
+  font-size: 16px;
+}
+
+.video.fullwidth-section h2 {
+  font-size: 52px;
+  line-height: 60px;
+  margin-bottom: 0;
+}
+
+.post-nav-container {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.carousel_items .carousel-arrows {
+  top: -60px;
+  width: 100%;
+}
+
+.carousel_items .carousel-arrows a.prev-arrow {
+  float: left;
+}
+
+.carousel_items .carousel-arrows a.next-arrow {
+  float: right;
+}
+
+.carousel_items .dt-sc-one-fourth .package-content .dt-sc-button {
+  background-color: #0e76bc !important;
+  float: none;
+}
+
+.carousel_items .dt-sc-one-fourth .package-content a:hover {
+  background-color: #68c900 !important;
+}
+
+.traffic .dt-sc-ico-content h4 span {
+  color: #ccc;
+  display: block;
+  font-size: 16px;
+}
+
+.portfolio .fig-overlay a.likeThis {
+  display: none;
+}
+
+.section-title {
+  display: block;
+  border: 0;
+  padding: 0 0 4px;
+}
+
+.section-title:before {
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+}
+
+.section-title, .section-title1 {
+  font-weight: normal;
+}
+
+
+/* product start */
+
+.product .package-thumb-wrapper .out-of-stock {
+  display: none;
+}
+
+.product .yith-wcwl-add-button a.add_to_wishlist {
+  display: none;
+}
+
+.product ul.products li .package-details .yith-wcwl-add-to-wishlist a {
+  display: none;
+}
+
+
+/* product end */
+
+#footer {
+  margin: -40px 0 0 0;
+}
+
+#footer p {
+  font-size: 13px;
+}
+
+#footer .social-content,#footer .ticker-wrapper, #footer .copyright-content {
+  line-height: 48px;
+  float: left;
+  text-align: center;
+  width: 100%;
+}
+
+#footer .copyright-content p {
+  height: 48px;
+  line-height: 48px;
+}
+
+#footer .dt-sc-social-icons {
+  line-height: 48px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+
+/*@media only screen and (max-width: 1119px) and (min-width: 960px){*/
+
+@media (min-width: 960px) {
+  #footer .social-content,
+  #footer .ticker-wrapper,
+  #footer .copyright-content {
+    height: 41px;
+    line-height: 41px;
+    text-align: left;
+  }
+  #footer .social-content{
+    width: 50%;
+  }
+  #footer .ticker-wrapper{
+    width: 50%;
+  }
+  #footer .copyright-content {
+    width: 50%;
+  }
+
+  #footer .copyright-content p {
+    height: 41px;
+    line-height: 41px;
+    text-align: right;
+  }
+  #footer .dt-sc-social-icons {
+    line-height: 41px;
+    display: inline-block;
+    vertical-align: middle;
+  }
+}
+
+#footer .copyright-content {
+  margin-top: 0;
+}
+
+#footer .copyright-content p {
+  margin-bottom: 0;
+}
+
+#footer .dt-sc-social-icons li.facebook:hover, #footer .dt-sc-social-icons li.instagram:hover, #footer .dt-sc-social-icons li.youtube:hover {
+  background-color: transparent;
+}
+
+.single .dt-sc-social-icons {
+  border: 0;
+}
+
+.single .dt-sc-social-icons li {
+  border: 0;
+}
+
+.wpml-ls-legacy-list-horizontal {
+  padding: 0;
+  border: 0;
+}
+
+#schat-widget .schat-chat-btn {
+  border-radius: 90px !important;
+}
+
+#schat-widget .schat-chat-btn, #schat-widget .schat-popup {
+  bottom: 30px !important;
+  right: 90px !important;
+}
+
+#schat-widget .schat-chat-btn:hover, #schat-widget .schat-popup .schat-header:hover {
+  background-color: #68c900 !important;
+}
+
+#schat-widget .schat-chat-btn, #schat-widget .schat-popup .schat-header {
+  background-color: #68c900 !important;
+}
+
+#schat-widget .schat-chat-btn {
+  padding: 0 10px 0 10px !important;
+}
+
+#schat-widget .schat-chat-btn .schat-ico-l:before {
+  height: 40px !important;
+  line-height: 40px !important;
+}
+
+#schat-widget .schat-chat-btn._schat-init .schat-ico-r, #schat-widget .schat-chat-btn._schat-open .schat-ico-l {
+  display: block !important;
+  line-height: 40px;
+}
+
+#schat-widget .schat-chat-btn .schat-ico-r:before {
+  display: none;
+}
+
+#schat-widget .schat-chat-btn {
+  height: 40px !important;
+}
+
+#schat-widget .schat-chat-btn._schat-open .schat-title {
+  display: none !important;
+}
+
+
+/* template end */
+
+
+/* index start */
+
+.recent-hotels-widget li:nth-child(3) {
+  display: none;
+}
+
+
+/* package start */
+
+.package-meta {
+  display: none;
+}
+
+.package-price {
+  display: none;
+}
+
+.package-item .image-overlay span.image-overlay-inside:before {
+  display: none;
+}
+
+.package-wrapper .package-item .package-details p {
+  height: 52px;
+}
+
+.package-wrapper .package-item .package-details>h5, .package-wrapper .package-item .package-details>p {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+@media only screen and (max-width: 1119px) and (min-width: 960px) {
+  .package-wrapper .package-item .package-details>h5, .package-wrapper .package-item .package-details>p {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
+
+.package-wrapper .package-item .package-details .package-content {
+  text-align: center;
+}
+
+
+/* package end */
+
+.dt-sc-sorting-container a, .dt-sc-entry-sorting a {
+  margin: 0;
+}
+
+
+/* transport start */
+
+.dt-sc-ico-content.type11 .icon {
+  margin-right: 16px !important;
+  width: 56px;
+  height: 56px;
+}
+
+.dt-sc-ico-content.type11 p {
+  margin-top: 32px !important;
+}
+
+@media only screen and (max-width: 1119px) and (min-width: 960px) {
+  .dt-sc-ico-content.type11 .icon {
+    margin-right: 10px !important;
+  }
+  .dt-sc-ico-content.type11 p {
+    margin-top: 10px !important;
+  }
+}
+
+.dt-sc-ico-content.type11:hover .icon>img {
+  -webkit-animation: none !important;
+  -moz-animation: none !important;
+  animation: none !important;
+}
+
+.dt-sc-ico-content.type11 h4 {
+  font-size: 16px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.dt-sc-ico-content.type11 h4 a {
+  color: #555;
+  font-size: 18px;
+}
+
+.dt-sc-ico-content.type11 h4 a span {
+  color: #a1a1a1;
+  font-size: 14px;
+}
+
+.dt-sc-ico-content.type11 a:hover {
+  color: #6dc82b
+}
+
+.dt-sc-ico-content.type11 p {
+  font-size: 13px;
+  line-height: 20px;
+}
+
+
+/* transport end */
+
+.gallery-slider-container {
+  margin-bottom: 20px;
+}
+
+.portfolio-single .gallery-bx-wrapper {
+  list-style: none;
+}
+
+#entry-gallery-pager {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+@media (max-width: 991px) {
+  .dt-sc-parallax-section {
+    background-position: center !important;
+    background-attachment: inherit !important;
+  }
+}
+
+@media (min-width: 480px) {
+  .portfolio figure {
+    height: 360px;
+  }
+  .portfolio figure img {
+    -webkit-transform: scaleY(1);
+    -moz-transform: scaleY(1);
+    -o-transform: scaleY(1);
+    -ms-transform: scaleY(1);
+    transform: scale(1);
+  }
+  .portfolio figure:hover img {
+    -webkit-transform: scaleY(1.5);
+    -moz-transform: scaleY(1.5);
+    -o-transform: scaleY(1.5);
+    -ms-transform: scaleY(1.5);
+    transform: scale(1.5);
+  }
+}
+
+@media (min-width: 768px) {
+  .portfolio figure {
+    /*height: 144px;*/
+    height: 152px;
+    /*height: 192px;*/
+  }
+}
+
+@media (min-width: 992px) {
+  .portfolio figure {
+    /*height: 186px;*/
+    height: 208px;
+    /*height: 248px;*/
+  }
+}
+
+@media (min-width: 1120px) {
+  .portfolio figure {
+    /*height:210px;*/
+    height: 248px;
+    /*height:280px;*/
+  }
+}
+
+@media (min-width: 1200px) {
+  .portfolio figure {
+    /*height:225px;*/
+    height: 260px;
+    /*height:300px;*/
+  }
+}
+
+@media (min-width: 1600px) {
+  .portfolio figure {
+    /*height:225px;*/
+    height: 400px;
+  }
+}
+
+
+/* index end */
+
+ul.dt-sc-tabs-frame>li>a, .woocommerce-tabs ul.tabs>li>a {
+  background-color: #f6f6f6;
+}
+
+.dt-sc-button.bordered {
+  border: 1px solid #FFFFFF;
+  border-color: #fff !important;
+}
+
+ul.dt-sc-tabs-frame>li>a {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.btn, .test-button {
+  background-color: #0e76bc;
+  padding: 10px 50px;
+  margin-top: 20px;
+}
+
+@media (min-width: 768px) {
+  .btn, .test-button {
+    float: left;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .column.dt-sc-one-column.aligncenter.space.first>p, .column.dt-sc-one-half.aligncenter.space.first>p {
+    line-height: 60px;
+    margin-bottom: 0px;
+    padding: 0px;
+  }
+  .column.dt-sc-one-half.aligncenter.space.first>a {
+    margin-bottom: 20px;
+  }
+  #award {
+    float: right;
+  }
+  #award img {
+    position: relative;
+    height: 72px;
+  }
+  #award-lonelyplanet {
+    text-align: right;
+  }
+  .content-box>ul.project-details>li.divided-list>div.divide-2 {
+    width: 100%;
+  }
+}
+
+@media (min-width: 1366px) {
+  .fullwidth-section.video, .fullwidth-section.dt-sc-parallax-section {
+    background-size: 120%;
+  }
+  img.alignnone.size-full.wp-image-5707 {
+    width: 100%
+  }
+}
+
+div.package-wrapper.dt_carousel {
+  top: 10px;
+}
+
+a.dt-sc-button.button.xlarge.bordered {
+  padding: 15px 100px;
+}
+
+div.dt-timeline-content>p {
+  width: auto;
+}
+
+.dt-timeline-post img {
+  -webkit-filter: grayscale(0%);
+}
+
+.dt-timeline-post p {
+  margin-bottom: 10px;
+}
+
+.dt-timeline-post.right .dt-timeline-content {
+  text-align: left;
+}
+
+div#dt-image-map-container {
+  clear: both;
+}
+
+.dt-sc-hr-invisible-top>.fullwidth-section.top-image>.container {
+  width: 100%;
+}
+
+.dt-sc-hr-invisible-top>.fullwidth-section.top-image>.container>p>img {
+  width: 100%;
+}
+
+.explore-hotspot h2 {
+  margin-top: 40px;
+}
+
+.project-details {
+  margin-bottom: 20px;
+}
+
+.gallery-share {
+  bottom: 0;
+}
+
+.icon-button {
+  background-color: #007cc6;
+}
+
+.icon-button>a {
+  color: white;
+}
+
+.dt-timeline-content>.dt-timeline-tilte>h2 {
+  color: #6dc82b;
+}
+
+ul.project-details {
+  list-style: none;
+}
+
+ul.project-details>li.divided-list>div.divide-1 {
+  float: left;
+  display: block;
+}
+
+ul.project-details>li.divided-list>div.divide-2 {
+  float: left;
+  display: block;
+  width: 70%;
+}
+
+@media (max-width:767px) {
+  ul.project-details>li.divided-list>div.divide-2 {
+    float: left;
+    display: block;
+    width: 80%;
+  }
+}
+
+p.pbelow {
+  margin-top: -25px;
+  font-size: 14px;
+  color: #888888;
+}
+
+@media (min-width: 768px) {
+  .dt-sc-places-wrapper {
+    width: 143%;
+  }
+  .dt-sc-places-wrapper>.dt-sc-one-third>.place-item>.place-thumb>.wp-post-image {
+    width: 120%
+  }
+  .dt-sc-places-wrapper>.dt-sc-one-third>.place-item>.place-thumb>a>.wp-post-image {
+    width: 120%
+  }
+  .dt-sc-places-wrapper>div.dt-sc-one-third.column {
+    height: 700px
+  }
+  div.one-fourth.column {
+    width: 20.6%;
+  }
+}
+
+.dt-sc-sorting-container>.isotope-0id127 {
+  display: none;
+}
+
+.dt-sc-sorting-container>.isotope-1id132 {
+  display: none;
+}
+
+.dt-sc-sorting-container>.isotope-2id124 {
+  display: none;
+}
+
+.dt-sc-sorting-container>.isotope-3id129 {
+  display: none;
+}
+
+.dt-sc-sorting-container>.isotope-4id125 {
+  display: none;
+}
+
+.dt-sc-sorting-container>.isotope-5id126 {
+  display: none;
+}
+
+.dt-sc-sorting-container>.isotope-7id134 {
+  display: none;
+}
+
+.dt-sc-sorting-container>.isotope-9id128 {
+  display: none;
+}
+
+.dt-sc-sorting-container>.isotope-10id131 {
+  display: none;
+}
+
+.dt-sc-sorting-container>.isotope-11id133 {
+  display: none;
+}
+
+.dt-sc-sorting-container>.isotope-13id135 {
+  display: none;
+}
+
+.dt-sc-sorting-container>.isotope-14id130 {
+  display: none;
+}
+
+
+/*ben 170215*/
+
+.dt-sc-sorting-container>.isotope-item {
+  /*display: none;*/
+}
+
+.dt-sc-sorting-container>.isotope-i-0 {
+  display: none;
+}
+
+.dt-sc-sorting-container>.isotope-i-1 {
+  display: none;
+}
+
+.dt-sc-sorting-container>.isotope-i-2 {
+  display: none;
+}
+
+.dt-sc-sorting-container>.isotope-i-3 {
+  display: none;
+}
+
+.dt-sc-sorting-container>.isotope-i-4 {
+  display: none;
+}
+
+.dt-sc-sorting-container>.isotope-i-5 {
+  display: none;
+}
+
+.dt-sc-sorting-container>.isotope-i-7 {
+  display: none;
+}
+
+.dt-sc-sorting-container>.isotope-i-9 {
+  display: none;
+}
+
+.dt-sc-sorting-container>.isotope-i-10 {
+  display: none;
+}
+
+.dt-sc-sorting-container>.isotope-i-12 {
+  display: none;
+}
+
+.dt-sc-sorting-container>.isotope-i-13 {
+  display: none;
+}
+
+.dt-sc-sorting-container>.isotope-i-14 {
+  display: none;
+}
+
+.dt-sc-sorting-container>.isotope-id-219, .dt-sc-sorting-container>.isotope-id-227 {
+  display: none;
+}
+
+.dt-sc-sorting-container>.isotope-id-102, .dt-sc-sorting-container>.isotope-id-105, .dt-sc-sorting-container>.isotope-id-106, .dt-sc-sorting-container>.isotope-id-103, .dt-sc-sorting-container>.isotope-id-123, .dt-sc-sorting-container>.isotope-id-187, .dt-sc-sorting-container>.isotope-id-191 {
+  display: inline-block;
+}
+
+
+/*/ben 170215*/
+
+.dt-sc-sorting-container>.isotope-id-246, .dt-sc-sorting-container>.isotope-id-234 {
+  display: inline-block;
+}
+
+div.sport-side-text-over {
+  width: 60%;
+  float: right;
+  margin-top: -5%;
+}
+
+@media (min-width:480px) {
+  div.sport-side-text-over {
+    width: 72%;
+    margin-top: -12%;
+  }
+}
+
+@media (min-width:768px) {
+  div.sport-side-text-over {
+    width: 48%;
+    margin-top: -25%;
+  }
+}
+
+@media (min-width: 960px) {
+  div.sport-side-text-over {
+    width: 70%;
+    margin-top: 0;
+  }
+}
+
+@media (min-width:1120px) {
+  div.sport-side-text-over {
+    width: 65%;
+    margin-top: -15%;
+  }
+}
+
+@media (min-width:1281px) {
+  div.sport-side-text-over {
+    width: 68%
+  }
+}
+
+.place-details {
+  text-align: left;
+}
+
+.post-9767>.container>.dt-sc-one-third>.widget.widget_popular_entries {
+  display: none;
+}
+
+
+/* QRcode footer start */
+
+.qrcode {
+  text-align: center;
+  height: 240px;
+  margin-top: 50px;
+}
+
+.qrcode-icon {
+  width: 18%
+}
+
+.qrcode-icon>p {
+  margin-bottom: 0px;
+}
+
+.qrcode-icon>p>a {
+  float: none;
+  color: #fff !important;
+}
+
+@media (max-width:767px) {
+  .qrcode-icon {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+}
+
+.blog-entry-inner {
+  padding: 0;
+}
+
+
+/* leon header modify */
+
+a.asdf {
+  visibility: hidden;
+}
+
+h4.header-title {
+  color: #6dc82b;
+}
+
+a.header-a {
+  color: #555;
+}
+
+
+/* leon strategy map display start */
+
+@media (max-width:767px) {
+  p.strategy-map-desk {
+    display: none;
+  }
+}
+
+@media (min-width:768px) {
+  p.strategy-map-mol {
+    display: none;
+  }
+}
+
+
+/* leon line height modify */
+
+.top-10-p {
+  line-height: 60px
+}
+
+
+/* leon icon-box-content */
+
+.icon-text {
+  display: block;
+  width: 100%;
+  float: left;
+}
+
+.icon-text>span {
+  display: block;
+}
+.top-bar {
+  padding: 4px 0;
+}
+.footer-phone{
+  width:72px;line-height:48px
+}
+@media (max-width:1025px) {
+  .footer-phone{
+    line-height:40px
+  }
+}
+@media (max-width:991px) {
+  .footer-phone{
+    line-height:30px
+  }
+}
+@media (max-width:415px) {
+  .footer-phone{
+    line-height:46px
+  }
+}
+li.feed-item {
+  border-bottom: 1px solid #ededed;
+  border-right: 1px solid #ededed;
+  border-left: 1px solid #ededed;
+  margin-bottom: 0;
+  padding: 10px;
+}
+
+ul.rss-aggregator {
+  border-top: 1px solid #ededed;
+}
+
+ul.rss-aggregator li.feed-item {
+  border-bottom: 1px solid #ededed;
+  border-right: 1px solid #ededed;
+  border-left: 1px solid #ededed;
+  margin-bottom: 0;
+  padding: 10px;
+}
+
+.dt-sc-social-icons li.tel a {
+  width: 48px;
+}
+
+.dt-sc-social-icons li.tel a span{
+  font-size: 13px;
+  line-height:41px;
+  margin-left: 4px;
+  top: -2px;
+  position: relative;
+}
+
+@media (min-width: 768px){
+  .dt-sc-social-icons li.tel a span{
+    line-height:32px;
+  }
+}
+.copyright-content ul {
+  text-align: center;
+}
+@media (min-width: 960px){
+  .copyright-content ul {
+    text-align: right;
+  }
+}
+.copyright-content ul li {
+  display:inline-block;
+  margin-left: 4px;
+}
+@media only screen and (max-width: 767px){
+  #footer .copyright-content {
+      float: inherit !important;
+  }
+}
+@media only screen and (min-width: 768px){
+  .copyright-content ul li:before {
+    content:'| ';
+  }
+  .copyright-content ul li:first-child:before {
+    content:'';
+  }
+}
+.dt-sc-social-icons li.rss:hover, #footer .footer-links .dt-sc-social-icons li.rss:hover{
+  background-color: transparent;
+}
+.dt-sc-social-icons li {
+    float: inherit;
+}
+
+#header-wrapper {
+    z-index: 9999 !important;
+}
+
+#footer .copyright-content ul {
+    margin: 0;
+}
+
+/*seo h1, h2*/
+.seo{
+  display: none;
+}
+
+/*questionnaire by Roma*/
+.wpcf7 h2.summary-box.section-title {text-align: center !important; margin-top:60px;}
+.wpcf7 label {color:#0E76BC;}
+.wpcf7 {width: 1170px; margin:auto !important;}
+.wpcf7-form{ width: 100%;}
+.wpcf7 p{border: 1px solid #eee; margin:0px; padding:10px;}
+.wpcf7 p+p{border-top:0px; }
+.wpcf7 #sub{border:0px;}
+#formreset,.notNow{ background-color: #fff; border: 1px solid #ededed !important; color:#787878;}
+input.wpcf7-form-control.wpcf7-submit{font-size: 14px; text-transform: none;}
+#post-15061 .widget_popular_entries{display: none;}
+label input[type="checkbox"]{margin-right: 0px; top:0px;}
+@media only screen and (min-width:1120px) and (max-width:1280px) {
+  .wpcf7 {width: 1060px; margin:auto !important;}
+}
+@media only screen and (min-width:960px) and (max-width:1119px) {
+  .wpcf7{width: 900px; margin:auto !important;}
+}
+@media only screen and (min-width:768px) and (max-width:959px) {
+  .wpcf7{width: 710px; margin:auto !important;}
+}
+@media only screen and (min-width: 480px) and (max-width: 767px){
+  .wpcf7 {width: 420px; margin:auto !important;}
+}
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  .wpcf7 {width: 300px; margin:auto !important;}
+}
+@media screen and (max-width: 480px) {
+  #wpcf7-f15060-p15061-o3 h2.summary-box.section-title {margin-top:0px;}
+  h2#seti.summary-box.section-title{margin-top:40px;}
+  .wpcf7 label{font-size:14px;}
+  .wpcf7-list-item {width: 100%;}
+}
+#roundcircle input[type=checkbox] {
+  -webkit-appearance: radio !important;
+  -webkit-border-radius: 50%;
+  -moz-appearance: radio !important;
+  -o-appearance: radio !important;
+  -ms-appearance: radio !important;
+   appearance: radio !important;
+}
+
+/*lightbox by Roma*/
+.lightbox {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.5);
+  left: 0;
+  top: 0;
+  z-index: 1500;
+}
+
+.liflex {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  left: 0;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.msg {
+  position: fixed;
+  text-align: center;
+  width: 32%;
+  height: 120px;
+  background-color: #fff;
+  color: #000;
+  padding: 40px;
+}
+
+.litext {
+  text-align: center;
+  height: 50%;
+}
+
+.libtn {
+  display: -webkit-flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.notNow, .survey {
+  text-align: center;
+  display: block;
+  min-width: 120px;
+  float: left;
+  cursor: pointer;
+  font-size: 14px;
+  height: 20px;
+  padding: 5px 10px;
+  position: relative;
+  text-align: center;
+  margin: 20px 14px;
+}
+
+@media screen and (max-width: 767px) {
+  .msg {
+    width: 100%;
+    left: 0;
+    margin-left: 0;
+    padding: 0px;
+    height: 200px
+  }
+  .litext {
+    padding: 10px;
+    margin-top: 25px;
+    height: auto;
+  }
+}

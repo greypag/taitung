@@ -1,0 +1,917 @@
+# Translation of Plugins - Cerber Security &#38; Limit Login Attempts - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Cerber Security &#38; Limit Login Attempts - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-12-10 09:57:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Cerber Security &#38; Limit Login Attempts - Stable (latest release)\n"
+
+#. Author of the plugin/theme
+msgid "Gregory M"
+msgstr "Gregory M"
+
+#. Description of the plugin/theme
+msgid "Protects site against brute force attacks. Comprehensive control of user activity. Restrict login by IP access lists. Limit login attempts. Feel free to contact developer via wpcerber@gmail.com or on the site <a href=\"http://wpcerber.com\">wpcerber.com</a>."
+msgstr "Защищает сайт против атак перебором. Всесторонний контроль над активностью пользователей. Ограничивает вход списком доступа по IP. Ограничивает попытки входа. Не стесняйтесь обратиться к автору по эл.почте wpcerber@gmail.com или через сайт <a href=\"http://wpcerber.com\">wpcerber.com</a>."
+
+#. #-#-#-#-#  tmp-wp-cerber.pot (WP Cerber 3.0)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  tmp-wp-cerber.pot (WP Cerber 3.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://wpcerber.com"
+msgstr "http://wpcerber.com"
+
+#: wp-cerber.php:1450
+msgid "Database upgrade error"
+msgstr "Ошибка обновления базы данных"
+
+#: wp-cerber.php:1412
+msgid "Import settings"
+msgstr "Импорт настроек"
+
+#: wp-cerber.php:1405
+msgid "It's important to check security settings."
+msgstr "Важно проверить настройки безопасности."
+
+#: wp-cerber.php:1403
+msgid "Your IP address is added to the"
+msgstr "Ваш IP адрес добавлен к"
+
+#: wp-cerber.php:1386
+msgid "Can't activate WP Cerber due to a database error."
+msgstr "Невозможно активировать плагин WP Cerber из-за ошибки в базе данных."
+
+#: wp-cerber.php:1381
+msgid "The WP Cerber requires WordPress %s or higher. You are running"
+msgstr "WP Cerber требует WordPress версии %s или выше. У вас версия"
+
+#: wp-cerber.php:1377
+msgid "The WP Cerber requires PHP %s or higher. You are running"
+msgstr "WP Cerber требует PHP версии %s или выше. У вас версия"
+
+#: wp-cerber.php:1244
+msgid "This message was sent by"
+msgstr "Это сообщение было отправлено"
+
+#: wp-cerber.php:1235
+msgid "New Custom login URL"
+msgstr "Новый URL для входа на сайт"
+
+#: wp-cerber.php:1230
+msgid "Change notification settings"
+msgstr "Изменить настройки уведомлений"
+
+#: wp-cerber.php:1229 wp-cerber.php:1402
+msgid "WP Cerber is now active and has started protecting your site"
+msgstr "WP Cerber активен и начал защищать ваш сайт"
+
+#: wp-cerber.php:1228
+msgid "The WP Cerber security plugin is now active"
+msgstr "WP Cerber плагин безопасности активен"
+
+#: wp-cerber.php:1225
+msgid "From country"
+msgstr "Из страны"
+
+#: wp-cerber.php:1223
+msgid "From IP address"
+msgstr "С IP адреса"
+
+#: wp-cerber.php:1222
+msgid "By user"
+msgstr "По пользователю"
+
+#: wp-cerber.php:1216
+msgid "Not logged in"
+msgstr "Нет авторизации"
+
+#: wp-cerber.php:1214 wp-cerber.php:1215
+msgid "The WP Cerber security plugin has been deactivated"
+msgstr "WP Cerber плагин деактивирован"
+
+#: wp-cerber.php:1211 wp-cerber.php:1221
+msgid "Website"
+msgstr "Сайт"
+
+#: wp-cerber.php:1209
+msgid "Hi!"
+msgstr "Привет!"
+
+#: wp-cerber.php:1208 wp-cerber.php:1210
+msgid "A new version of WP Cerber is available to install"
+msgstr "Доступна новая версия WP Cerber!"
+
+#: wp-cerber.php:1205
+msgid "View lockouts in dashboard"
+msgstr "Просмотреть список заблокированных IP"
+
+#: wp-cerber.php:1204
+msgid "View activity for this IP"
+msgstr "Посмотреть активность для этого IP"
+
+#: wp-cerber.php:1202
+msgid "Last lockout was added: %s for IP %s"
+msgstr "Последняя блокировка была добавлена %s для IP %s"
+
+#: wp-cerber.php:1200
+msgid "Number of active lockouts"
+msgstr "Число активных блокировок на данный момент"
+
+#: wp-cerber.php:1198
+msgid "Number of lockouts is increasing"
+msgstr "Число блокировок увеличилось"
+
+#: wp-cerber.php:1195
+msgid "unspecified"
+msgstr "неуказано"
+
+#: wp-cerber.php:1178
+msgid "View activity in dashboard"
+msgstr "Просмотреть журнал активности"
+
+#: wp-cerber.php:1177
+msgid "Last failed attempt was at %s from IP %s with user login: %s."
+msgstr "Последняя неудачная попытка была в %s с IP адреса %s с логином %s."
+
+#: wp-cerber.php:1176
+msgid "Citadel mode is activated after %d failed login attempts in %d minutes."
+msgstr "Режим Цитадель активирован после %d неудачных попыток за %d минут."
+
+#: wp-cerber.php:1174
+msgid "Citadel mode is activated"
+msgstr "Активирован режим Цитадель"
+
+#: wp-cerber.php:1158
+msgid "WP Cerber notify"
+msgstr "Уведомление WP Cerber"
+
+#: wp-cerber.php:804
+msgid "Limit on login attempts is reached"
+msgstr "Количество попыток исчерпано"
+
+#: wp-cerber.php:512
+msgid "Attempt to access"
+msgstr "Попытка доступа к"
+
+#: wp-cerber.php:411
+msgid "Username is not allowed. Please choose another one."
+msgstr "Имя пользователя недопустимо. Выберите другое."
+
+#: wp-cerber.php:370
+msgid "<strong>ERROR</strong>: The password you entered for the username %s is incorrect."
+msgstr "<strong>ОШИБКА</strong>: Пароль введенный для пользователя %s is некорректен."
+
+#: wp-cerber.php:361 wp-cerber.php:406 wp-cerber.php:430
+msgid "Human verification failed. Please click the square box in the reCAPTCHA block below."
+msgstr "Антибот проверка неудачна. Пожалуйста тыкните в квадратную отметку блока reCAPTCHA ниже"
+
+#: wp-cerber.php:360 wp-cerber.php:405 wp-cerber.php:410 wp-cerber.php:429
+msgid "ERROR:"
+msgstr "ОШИБКА:"
+
+#: wp-cerber.php:153
+msgid "You have only one attempt remaining."
+msgid_plural "You have %d attempts remaining."
+msgstr[0] "У вас есть только одна попытка для входа"
+msgstr[1] "У вас осталось %d попытки для входа."
+msgstr[2] "У вас осталось %d попыток для входа."
+
+#: wp-cerber.php:138
+msgid "You have reached the login attempts limit. Please try again in %d minutes."
+msgstr "Вход невозможен. Слишком много ошибочных попыток. Попробуйте войти через %d минут."
+
+#: wp-cerber.php:133
+msgid "You are not allowed to log in. Ask your administrator for assistance."
+msgstr "Вход на сайт невозможен. Обратитесь к администратору сайта."
+
+#: whois.php:183
+msgid "Unknown"
+msgstr "Неизвестен"
+
+#: settings.php:550
+msgid "Number of items per page:"
+msgstr "Количество на страницу"
+
+#: settings.php:340
+msgid "<strong>ERROR</strong>: please enter a valid email address."
+msgstr "<strong>ОШИБКА</strong>: Введите действительный адрес эл.почты."
+
+#: settings.php:317
+msgid "Attention! You have changed the login URL! The new login URL is"
+msgstr "Внимание! Вы изменили URL страницы авторизации. Новый адрес"
+
+#: settings.php:277
+msgid "Enable after %s failed login attempts in last %s minutes"
+msgstr "Активировать после %s неудачных авторизаций за последние %s минут"
+
+#: settings.php:272
+msgid "Notify admin if the number of active lockouts above"
+msgstr "Уведомить администратора, если число заблокированных IP более"
+
+#: settings.php:265
+msgid "Increase lockout duration to %s hours after %s lockouts in the last %s hours"
+msgstr "Увеличить длительность блокировки до %s часов после %s блокировок в течение последних %s часов"
+
+#: settings.php:260
+msgid "%s allowed retries in %s minutes"
+msgstr "%s попыток разрешено в течении %s минут"
+
+#: settings.php:190
+msgid "Help"
+msgstr "Помощь"
+
+#: settings.php:188
+msgid "Tools"
+msgstr "Инструменты"
+
+#: settings.php:186 wp-cerber.php:1411
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+#: settings.php:183
+msgid "Users"
+msgstr "Пользователи"
+
+#: settings.php:181 wp-cerber.php:1410
+msgid "Hardening"
+msgstr "Панцирь"
+
+#: settings.php:171 wp-cerber.php:1408
+msgid "Main Settings"
+msgstr "Главные настройки"
+
+#: settings.php:168
+msgid "Cerber Settings"
+msgstr "Настройки WP Cerber"
+
+#: settings.php:151
+msgid "Know more"
+msgstr "Узнать больше"
+
+#: settings.php:150
+msgid "Before you can start using reCAPTCHA, you have to obtain Site key and Secret key on the Google website"
+msgstr "Перед использованием reCAPTCHA вам нужно получить ключ сайта и секретный ключ на сайте Google"
+
+#: settings.php:145
+msgid "These settings do not affect hosts from the "
+msgstr "Эти настройки не применяются к адресам из"
+
+#: settings.php:140
+msgid "In Citadel mode nobody is able to login. Active user's sessions will not be affected."
+msgstr "В режиме Цитадель никто не может войти. Активные сессии пользователей не затрагиваются."
+
+#: settings.php:136
+msgid "Be careful when enabling this options. If you forget the custom login URL you will not be able to login."
+msgstr "Будте внимательны при установке этих параметров. Если вы забудете URL страницы авторизации вы не сможете войти в панель управления."
+
+#: settings.php:133
+msgid "Please enable Permalinks to use this feature. Set Permalink Settings to something other than Default."
+msgstr "Для использования этой настройки необходимо активировать Постоянные ссылки в настройках сайта."
+
+#: settings.php:129
+msgid "Make your protection smarter!"
+msgstr "Сделайте защиту от злоумышленников еще умнее"
+
+#: settings.php:120
+msgid "Enable reCAPTCHA for login form"
+msgstr "Включить reCAPTCHA для формы входа"
+
+#: settings.php:120
+msgid "Login form"
+msgstr "Форма входа"
+
+#: settings.php:119
+msgid "Enable reCAPTCHA for reset password form"
+msgstr "Включить reCAPTCHA для формы сброса пароля"
+
+#: settings.php:119
+msgid "Lost password form"
+msgstr "Форма восстановления пароля"
+
+#: settings.php:118
+msgid "Enable reCAPTCHA for registration form"
+msgstr "Включить reCAPTCHA для формы регистрации"
+
+#: settings.php:118
+msgid "Register form"
+msgstr "Форма регистрации"
+
+#: settings.php:117
+msgid "Secret key"
+msgstr "Секретный ключ"
+
+#: settings.php:116
+msgid "Site key"
+msgstr "Ключ сайта"
+
+#: settings.php:115
+msgid "reCAPTCHA settings"
+msgstr "Настройки reCAPTCHA"
+
+#: settings.php:111
+msgid "in minutes (leave empty to use default WP value)"
+msgstr "В минутах (оставьте пустым для значения WP по умолчанию)"
+
+#: settings.php:111
+msgid "User session expire"
+msgstr "Длительность сессии пользователя"
+
+#: settings.php:110
+msgid "Usernames from this list are not allowed to log in or register. Any IP address, have tried to use any of these usernames, will be immediately blocked. Use comma to separate logins."
+msgstr "Имена пользователей из этого списка не разрешены для входа или регистрации. Любой IP адрес пытающийся использовать эти имена будет автоматически заблокирован. Испольуйте запятую как разделитель."
+
+#: settings.php:110
+msgid "Prohibited usernames"
+msgstr "Запрещеные имена пользователей"
+
+#: settings.php:109
+msgid "User related settings"
+msgstr "Настройки пользователей"
+
+#: settings.php:101
+msgid "Block access to the WordPress REST API"
+msgstr "Закрыть доступ к функциям WordPress REST API"
+
+#: settings.php:101
+msgid "Disable REST API"
+msgstr "Отключить REST API"
+
+#: settings.php:100
+msgid "Block access to the RSS, Atom and RDF feeds"
+msgstr "Закрыть доступ к RSS, Atom и RDF фидам"
+
+#: settings.php:100
+msgid "Disable feeds"
+msgstr "Отключить фиды"
+
+#: settings.php:99
+msgid "Block access to the XML-RPC server (including Pingbacks and Trackbacks)"
+msgstr "Закрыть доступ к функциям XML-RPC, включая Pingback и Trackback"
+
+#: settings.php:99
+msgid "Disable XML-RPC"
+msgstr "Отключить XML-RPC"
+
+#: settings.php:98
+msgid "Block access to the pages like /?author=n"
+msgstr "Закрыть доступ к страницам авторов по номеру пользователя /?author=n"
+
+#: settings.php:98
+msgid "Stop user enumeration"
+msgstr "Заблокировать сбор имен"
+
+#: settings.php:97
+msgid "Hardening WordPress"
+msgstr "Усиление WordPress"
+
+#: settings.php:90
+msgid "Write failed login attempts to the file"
+msgstr "Записывать попытки входа в файл"
+
+#: settings.php:90
+msgid "Use file"
+msgstr "Использовать файл"
+
+#: settings.php:89
+msgid "Retrieve extra WHOIS information for IP"
+msgstr "Получить дополнительную информацию об IP используя WHOIS"
+
+#: settings.php:89
+msgid "Drill down IP"
+msgstr "Изучать IP"
+
+#: settings.php:86
+msgid "days"
+msgstr "дней"
+
+#: settings.php:86
+msgid "Keep records for"
+msgstr "Хранить записи не более"
+
+#: settings.php:83
+msgid "notification letters allowed per hour (0 means unlimited)"
+msgstr "разрешенное число писем с уведомлениями в час (0 - без ограничений)"
+
+#: settings.php:83
+msgid "Notification limit"
+msgstr "Ограничение уведомлений"
+
+#: settings.php:82
+msgid "if empty, the admin email %s will be used"
+msgstr "Если пусто, то будет использован адрес администратора %s"
+
+#: settings.php:82
+msgid "Email Address"
+msgstr "Адрес email"
+
+#: settings.php:78 settings.php:274
+msgid "Click to send test"
+msgstr "Кликните, чтобы протестировать отправку"
+
+#: settings.php:78
+msgid "Send notification to admin email"
+msgstr "Отправить уведомление на адрес email администратора сайта"
+
+#: settings.php:76
+msgid "Duration"
+msgstr "Длительность"
+
+#: settings.php:75
+msgid "Threshold"
+msgstr "Порог"
+
+#: settings.php:72
+msgid "Block direct access to wp-login.php and return HTTP 404 Not Found Error"
+msgstr "Заблокировать доступ к wp-login.php и возвращать HTTP 404 Страница не найдена"
+
+#: settings.php:72
+msgid "Disable wp-login.php"
+msgstr "Доступ к wp-login.php"
+
+#: settings.php:71
+msgid "must not overlap with the existing pages or posts slug"
+msgstr "не должно совпадать с URL существующих страниц или постов"
+
+#: settings.php:71
+msgid "Custom login URL"
+msgstr "Адрес страницы авторизации"
+
+#: settings.php:70
+msgid "Custom login page"
+msgstr "Смена URL страницы авторизации"
+
+#: settings.php:68
+msgid "Immediately block IP after any request to wp-login.php"
+msgstr "Блокировать IP при любом запросе wp-login.php"
+
+#: settings.php:68
+msgid "Request wp-login.php"
+msgstr "Запрос wp-login.php"
+
+#: settings.php:67
+msgid "Disable automatic redirecting to the login page when /wp-admin/ is requested by an unauthorized request"
+msgstr "Отключить автоматическую переадресацию при запросе /wp-admin/ неавторизованным пользователем"
+
+#: settings.php:67
+msgid "Redirect dashboard requests"
+msgstr "Запросы к панели управления"
+
+#: settings.php:66
+msgid "Immediately block IP when attempting to login with a non-existent username"
+msgstr "Блокировать IP при попытке авторизации с логином несуществующего пользователя"
+
+#: settings.php:66
+msgid "Non-existent users"
+msgstr "Несуществующие пользователи"
+
+#: settings.php:65
+msgid "Always block entire subnet Class C of intruders IP"
+msgstr "Всегда блокировать подсеть класса С вместо IP адреса"
+
+#: settings.php:65
+msgid "Block subnet"
+msgstr "Блокировка подсети"
+
+#: settings.php:64
+msgid "Proactive security rules"
+msgstr "Проактивные правила безопасности"
+
+#: settings.php:62
+msgid "My site is behind a reverse proxy"
+msgstr "Мой сайт подключен к сети через прокси-сервер"
+
+#: settings.php:62
+msgid "Site connection"
+msgstr "Подключение к сети"
+
+#: settings.php:61 settings.php:78 settings.php:80
+msgid "Notifications"
+msgstr "Уведомления"
+
+#: settings.php:60
+msgid "Aggressive lockout"
+msgstr "Ужесточение"
+
+#: settings.php:59 settings.php:76
+msgid "minutes"
+msgstr "минут"
+
+#: settings.php:59
+msgid "Lockout duration"
+msgstr "Длительность блокировки"
+
+#: settings.php:58
+msgid "Attempts"
+msgstr "Попытки"
+
+#: settings.php:57
+msgid "Limit login attempts"
+msgstr "Ограничение числа попыток авторизации"
+
+#: ripe.php:152
+msgid "Abuse email:"
+msgstr "Адрес email для жалоб:"
+
+#: dashboard.php:901
+msgid "Update to version %s of WP Cerber"
+msgstr "Обновить WP Cerber до версии %s"
+
+#: dashboard.php:895
+msgid "New version is available"
+msgstr "Доступна новая версия"
+
+#: dashboard.php:865
+msgid "View Activity"
+msgstr "Что происходит?"
+
+#: dashboard.php:864
+msgid "Deactivate"
+msgstr "Деактивировать"
+
+#: dashboard.php:863
+msgid "Attention! Citadel mode is now active. Nobody is able to login."
+msgstr "Внимание! Режим Цитадель активен. Авторизация на сайте заблокирована."
+
+#: dashboard.php:840
+msgid "Donate"
+msgstr "Поддержите разработку"
+
+#: dashboard.php:809
+msgid "doesn't affect Custom login URL and Access Lists"
+msgstr "не затронет настройки URL страницы авторизации и списки доступа"
+
+#: dashboard.php:803 dashboard.php:1304
+msgid "Are you sure?"
+msgstr "Вы уверены?"
+
+#: dashboard.php:801
+msgid "Load default settings"
+msgstr "Загрузить настройки"
+
+#: dashboard.php:799
+msgid "You can easily load default recommended settings using button below"
+msgstr "Вы можете загрузить рекомендованные настройки с помощью всего одной кнопки"
+
+#: dashboard.php:798
+msgid "Confused about some settings?"
+msgstr "Сомневаетесь какие настройки оптимальны?"
+
+#: dashboard.php:683 settings.php:179
+msgid "Lockouts"
+msgstr "Блокировки"
+
+#: dashboard.php:678 settings.php:74
+msgid "Citadel mode"
+msgstr "Режим Цитадель"
+
+#: dashboard.php:676 dashboard.php:677 dashboard.php:932
+msgid "entry"
+msgid_plural "entries"
+msgstr[0] "элемент"
+msgstr[1] "элемента"
+msgstr[2] "элементов"
+
+#: dashboard.php:675
+msgid "Last lockout"
+msgstr "Последняя блокировка"
+
+#: dashboard.php:674
+msgid "Lockouts at the moment"
+msgstr "Сейчас заблокировано"
+
+#: dashboard.php:672
+msgid "lockouts"
+msgstr "блокировок"
+
+#: dashboard.php:671 dashboard.php:672
+msgid "view all"
+msgstr "просмотреть все"
+
+#: dashboard.php:671 dashboard.php:672
+msgid "in 24 hours"
+msgstr "за 24 часа"
+
+#: dashboard.php:671
+msgid "failed attempts"
+msgstr "ошибок авторизации"
+
+#: dashboard.php:666
+msgid "disabled"
+msgstr "отключен"
+
+#: dashboard.php:665
+msgid "not active"
+msgstr "неактивен"
+
+#: dashboard.php:663
+msgid "deactivate"
+msgstr "деактивировать"
+
+#: dashboard.php:663
+msgid "active"
+msgstr "активен"
+
+#: dashboard.php:631
+msgid "Cerber Quick View"
+msgstr "Сводка от Cerber"
+
+#: dashboard.php:620
+msgid "Error while parsing file"
+msgstr "Возникла ошибка при обработке файла"
+
+#: dashboard.php:616
+msgid "Settings has imported successfully from"
+msgstr "Все настройки успешно загружены"
+
+#: dashboard.php:613
+msgid "Error while updating"
+msgstr "Возникла ошибка при обновлении"
+
+#: dashboard.php:592
+msgid "No file was uploaded or file is corrupted"
+msgstr "Файл не был загружен или имеет неверный формат"
+
+#: dashboard.php:526
+msgid "Upload file"
+msgstr "Загрузить файл"
+
+#: dashboard.php:524
+msgid "What do you want to import?"
+msgstr "Что вы хотите импортировать?"
+
+#: dashboard.php:521
+msgid "Maximum upload file size: %s."
+msgstr "Максимальный размер загружаемого файла: %s."
+
+#: dashboard.php:521
+msgid "Select file to import."
+msgstr "Выберите файл для загрузки."
+
+#: dashboard.php:520
+msgid "When you click the button below, file will be uploaded and all existing settings will be overridden."
+msgstr "Когда вы нажмете на кнопку, все настройки из файла будут загружены на сайт"
+
+#: dashboard.php:519
+msgid "Import settings from the file"
+msgstr "Импорт настроек из файла"
+
+#: dashboard.php:517
+msgid "Download file"
+msgstr "Скачать файл"
+
+#: dashboard.php:516 dashboard.php:525 dashboard.php:613 dashboard.php:684
+#: dashboard.php:951 settings.php:174 wp-cerber.php:1409
+msgid "Access Lists"
+msgstr "Списки доступа"
+
+#: dashboard.php:515 dashboard.php:524 dashboard.php:685 dashboard.php:950
+msgid "Settings"
+msgstr "Настройки"
+
+#: dashboard.php:514
+msgid "What do you want to export?"
+msgstr "Что вы хотите экспортировать"
+
+#: dashboard.php:513
+msgid "When you click the button below you will get a configuration file, which you can upload on another site."
+msgstr "Когда вы кликните на кнопку вы получите файл с настройками, который можно использовать на других сайтах."
+
+#: dashboard.php:512
+msgid "Export settings to the file"
+msgstr "Экспорт настроек в файл"
+
+#: dashboard.php:491 dashboard.php:659
+msgid "Never"
+msgstr "Никогда"
+
+#: common.php:104
+msgid "User created"
+msgstr "Пользователь создан"
+
+#: common.php:105
+msgid "User registered"
+msgstr "Пользователь зарегистрирован"
+
+#: common.php:106
+msgid "Logged in"
+msgstr "Вход"
+
+#: common.php:107
+msgid "Logged out"
+msgstr "Выход"
+
+#: common.php:108
+msgid "Login failed"
+msgstr "Ошибка авторизации"
+
+#: common.php:111
+msgid "IP blocked"
+msgstr "IP заблокирован"
+
+#: common.php:112
+msgid "Subnet blocked"
+msgstr "Подсеть заблокирована"
+
+#: common.php:113
+msgid "Citadel activated!"
+msgstr "Режим Цитадель активирован!"
+
+#: common.php:114 dashboard.php:310 dashboard.php:354
+msgid "Locked out"
+msgstr "Заблокировано"
+
+#: common.php:118
+msgid "Password changed"
+msgstr "Пароль изменен"
+
+#: common.php:115
+msgid "IP blacklisted"
+msgstr "IP в черном списке"
+
+#: common.php:120
+msgid "reCAPTCHA verification failed"
+msgstr "проверка reCAPTCHA неудачна"
+
+#: common.php:121
+msgid "reCAPTCHA settings are incorrect"
+msgstr "настройки reCAPTCHA неверны"
+
+#: common.php:123
+msgid "Attempt to access prohibited URL"
+msgstr "Попытка доступа к запрещенному URL"
+
+#: common.php:124 wp-cerber.php:807
+msgid "Attempt to log in with non-existent username"
+msgstr "Попытка войти с несуществующим именем пользователя"
+
+#: common.php:125 wp-cerber.php:367
+msgid "Attempt to log in with prohibited username"
+msgstr "Попытка входа с запрещенным именем"
+
+#: dashboard.php:70 dashboard.php:106
+msgid "Remove"
+msgstr "Удалить"
+
+#: dashboard.php:73 dashboard.php:316
+msgid "IP"
+msgstr "IP"
+
+#: dashboard.php:73 dashboard.php:316
+msgid "Hostname"
+msgstr "Имя узла"
+
+#: dashboard.php:73
+msgid "Expires"
+msgstr "Истекает"
+
+#: dashboard.php:73 wp-cerber.php:1203
+msgid "Reason"
+msgstr "Причина"
+
+#: dashboard.php:73
+msgid "Action"
+msgstr "Действие"
+
+#: dashboard.php:78
+msgid "Showing last %d records from %d"
+msgstr "Отображены последние %d строк из %d"
+
+#: dashboard.php:81
+msgid "Hint"
+msgstr "Подсказка"
+
+#: dashboard.php:81
+msgid "To view activity, click on the IP"
+msgstr "Чтобы увидеть активность, кликните на адрес IP"
+
+#: dashboard.php:83
+msgid "No lockouts at the moment. The sky is clear."
+msgstr "Блокировок нет. Все в порядке."
+
+#: dashboard.php:92 dashboard.php:306 dashboard.php:351 dashboard.php:676
+#: settings.php:145 wp-cerber.php:1403
+msgid "White IP Access List"
+msgstr "Белый список доступа по IP"
+
+#: dashboard.php:92
+msgid "These IPs will never be locked out"
+msgstr "Эти адреса не будут заблокированы ни при каких условиях"
+
+#: dashboard.php:94 dashboard.php:307 dashboard.php:352 dashboard.php:677
+msgid "Black IP Access List"
+msgstr "Черный список доступа по IP"
+
+#: dashboard.php:94
+msgid "Nobody can log in or register from these IPs"
+msgstr "Никто не сможет войти или зарегистрироваться с этих IP"
+
+#: dashboard.php:96
+msgid "Your IP"
+msgstr "Ваш адрес IP"
+
+#: dashboard.php:97
+msgid "Note: You can add a subnet Class C with the format like this: xxx.xxx.xxx.*"
+msgstr "Вы можете добавить подсеть класса С в формате xxx.xxx.xxx.*"
+
+#: dashboard.php:106
+msgid "Check for activity"
+msgstr "Проверить активность"
+
+#: dashboard.php:109
+msgid "List is empty"
+msgstr "Список пуст"
+
+#: dashboard.php:110
+msgid "Add IP to the list"
+msgstr "Добавить IP в список"
+
+#: dashboard.php:122
+msgid "Address %s was added to White IP Access List"
+msgstr "Адрес %s добавлен в белый список доступа"
+
+#: dashboard.php:127
+msgid "Address %s was added to Black IP Access List"
+msgstr "Адрес %s добавлен в черный список доступа"
+
+#: dashboard.php:186
+msgid "unknown"
+msgstr "неизвестно"
+
+#: dashboard.php:129
+msgid "You can't add your IP address"
+msgstr "Вы не можете добавить свой адрес IP"
+
+#: dashboard.php:216
+msgid "Unable to send notification email"
+msgstr "Невозможно послать письмо с уведомлением"
+
+#: dashboard.php:214
+msgid "Message has been sent to "
+msgstr "Сообщение было отправлено на"
+
+#: dashboard.php:222
+msgid "Lockout for %s was removed"
+msgstr "Удалена блокировка для %s"
+
+#: dashboard.php:229
+msgid "Settings saved."
+msgstr "Настройки сохранены."
+
+#: dashboard.php:316
+msgid "Date"
+msgstr "Дата"
+
+#: dashboard.php:316 dashboard.php:682 settings.php:85 settings.php:176
+msgid "Activity"
+msgstr "Активность"
+
+#: dashboard.php:334
+msgid "Show only"
+msgstr "Показывать только"
+
+#: dashboard.php:324
+msgid "No activity has been logged."
+msgstr "Ни одного события не зафиксировано."
+
+#: dashboard.php:316
+msgid "Username used"
+msgstr "Использован логин"
+
+#: dashboard.php:316
+msgid "Local User"
+msgstr "Пользователь"
+
+#: dashboard.php:368
+msgid "Add IP to the Black List"
+msgstr "Добавить IP в черный список"
+
+#: dashboard.php:393
+msgid "WP Cerber Settings"
+msgstr "Настройки WP Cerber"
+
+#. #-#-#-#-#  tmp-wp-cerber.pot (WP Cerber 3.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: dashboard.php:393 dashboard.php:401
+msgid "WP Cerber"
+msgstr "WP Cerber"
+
+#: dashboard.php:463
+msgid "Comments"
+msgstr "Комментарии"
+
+#: dashboard.php:464
+msgid "Last login"
+msgstr "Последний вход"
+
+#: dashboard.php:465
+msgid "Failed attempts in last 24 hours"
+msgstr "Неудачные попытки входа за последние 24 часа"
+
+#: dashboard.php:466
+msgid "Date of registration"
+msgstr "Дата регистрации"

@@ -1,0 +1,303 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive Styled Google Maps\n"
+"POT-Creation-Date: 2016-07-14 19:26+0200\n"
+"PO-Revision-Date: 2016-07-14 19:26+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: responsive-styled-google-maps-admin.php:24
+msgid "Responsive Styled Google Maps - Helper "
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:48
+#, php-format
+msgid ""
+"For maps created after June 22, 2016, Google requires the mandatory use of "
+"an API key, get one from <a href=\"%s\" target=\"_blank\">HERE</a>"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:55
+msgid "REFRESH THE MAP"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:56
+msgid "PLUGIN DOCUMENTATION"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:57
+msgid "GOOGLE MAPS HOMEPAGE"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:58
+msgid "COPY-PASTE IN YOUR POST / PAGE / WIDGET THIS SHORTCODE:"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:68
+msgid "API key"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:73
+msgid "Save key and reload the map"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:79
+msgid "Address"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:82
+msgid ""
+"For multiple markers use: address1 | address2 | address3  OR lat1,long1 | "
+"lat2,long2 | lat3,long3"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:88
+msgid "Description"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:91
+msgid ""
+"For multiple markers use: description1 | description2 | description3 and "
+"{br} for a new line"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:98
+msgid "Directions text"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:101
+msgid "Optional, the text to put as directions text in the popup."
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:107
+msgid "Icon (predefined)"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:125
+msgid "or custom icon"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:129
+msgid ""
+"For multiple markers use: http://website/icon1.png | http://website/icon2.png"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:135
+msgid "Icon size"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:138
+msgid ""
+"possible value: 26, 35 (means 26px width, 35px height; f empty, means "
+"automatic size)"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:144
+msgid "Map style"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:147
+msgid "select color"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:200
+msgid "select a color..."
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:201
+msgid "Choose from 50 custom styles or a specific color."
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:208
+msgid "Controls"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:210
+msgid "Scale control"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:212
+#: responsive-styled-google-maps-admin.php:217
+#: responsive-styled-google-maps-admin.php:222
+#: responsive-styled-google-maps-admin.php:227
+#: responsive-styled-google-maps-admin.php:261
+#: responsive-styled-google-maps-admin.php:266
+#: responsive-styled-google-maps-admin.php:271
+#: responsive-styled-google-maps-admin.php:283
+#: responsive-styled-google-maps-admin.php:288
+#: responsive-styled-google-maps-admin.php:293
+#: responsive-styled-google-maps-admin.php:299
+#: responsive-styled-google-maps-admin.php:361
+msgid "no"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:213
+#: responsive-styled-google-maps-admin.php:218
+#: responsive-styled-google-maps-admin.php:223
+#: responsive-styled-google-maps-admin.php:228
+#: responsive-styled-google-maps-admin.php:262
+#: responsive-styled-google-maps-admin.php:267
+#: responsive-styled-google-maps-admin.php:272
+#: responsive-styled-google-maps-admin.php:284
+#: responsive-styled-google-maps-admin.php:289
+#: responsive-styled-google-maps-admin.php:294
+#: responsive-styled-google-maps-admin.php:298
+#: responsive-styled-google-maps-admin.php:362
+msgid "yes"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:215
+msgid "Type control"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:220
+msgid "Street control"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:225
+msgid "Locate me"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:237
+msgid "Zoom level"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:259
+msgid "Zoom control"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:264
+msgid "Draggable map"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:269
+msgid "Scroll wheel"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:281
+msgid "Search box"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:286
+msgid "Clustering"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:291
+msgid "Logging"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:296
+msgid "Points of interest"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:306
+msgid "Map width"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:313
+#, php-format
+msgid "100% for a responsive map (the map preview has fixed width and height)."
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:319
+msgid "Map height"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:326
+msgid "In px or % (the map preview has fixed width and height)."
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:332
+msgid "Map type"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:335
+msgid "roadmap"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:336
+msgid "satellite"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:337
+msgid "terrain"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:338
+msgid "hybrid"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:340
+msgid "Possible values: roadmap, satellite, terrain or hybrid"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:346
+msgid "Popup"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:349
+msgid "hidden"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:350
+msgid "visible"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:352
+msgid "The popup window which appears when a marker is clicked."
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:358
+msgid "Refresh"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:364
+msgid ""
+"\"yes\" if the map should be refreshed (re-centered) when the window is "
+"scaled. "
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:370
+msgid "Center to"
+msgstr ""
+
+#: responsive-styled-google-maps-admin.php:373
+msgid "Optional: latitude, longitude i.e. 38.980288, 22.145996"
+msgstr ""
+
+#: responsive-styled-google-maps.php:35 responsive-styled-google-maps.php:36
+msgid "Responsive Styled Google Maps Helper"
+msgstr ""
+
+#: responsive-styled-google-maps.php:55
+msgid "Settings"
+msgstr ""
+
+#: responsive-styled-google-maps.php:76
+msgid "View documentation"
+msgstr ""
+
+#: responsive-styled-google-maps.php:78
+msgid "Documentation"
+msgstr ""
+
+#: responsive-styled-google-maps.php:81
+msgid "Contact plugin author"
+msgstr ""
+
+#: responsive-styled-google-maps.php:82
+msgid "Support"
+msgstr ""

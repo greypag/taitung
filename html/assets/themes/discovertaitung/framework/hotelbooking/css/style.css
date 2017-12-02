@@ -1,0 +1,6 @@
+#wrapper.wrap { margin: 10px 20px 0 2px; }
+.hasDatepicker .ui-datepicker-group { width:18.4em; }
+.hasDatepicker .ui-datepicker { width: 1160px !important; }
+.form-table .hasDatepicker th { font-size:11px; padding:1px; }
+.form-table .hasDatepicker td { font-size:11px; line-height:16px; padding:2px; }
+.hasDatepicker .ui-datepicker-header { font-size: 13px; }

@@ -1,0 +1,12 @@
+.fw-option-type-multi-select .selectize-input {
+	padding: 4px 6px;
+}
+
+.fw-option-type-multi-select .selectize-input.focus.input-active.dropdown-active:before,
+.fw-option-type-multi-select .selectize-input.focus.input-active.dropdown-active:before {
+	display: none;
+}
+
+.fw-backend-option-input-type-multi-select .fw-option-help-in-input {
+	top: 4px !important;
+}

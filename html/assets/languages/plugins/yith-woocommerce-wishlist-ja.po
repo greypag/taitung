@@ -1,0 +1,1733 @@
+# Translation of Plugins - YITH WooCommerce Wishlist - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - YITH WooCommerce Wishlist - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-12 00:24:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - YITH WooCommerce Wishlist - Stable (latest release)\n"
+
+#: templates/wishlist-view.php:300
+msgid "Your email"
+msgstr "メールアドレス"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:97
+msgid "Club Subscription"
+msgstr "クラブ定期購読"
+
+#: plugin-fw/licence/lib/yit-licence.php:676
+msgid "Current product is not included in your YITH Club Subscription key"
+msgstr "現在の商品は YITH クラブのサブスクリプションキーに含まれていません"
+
+#: plugin-fw/lib/yit-plugin-panel.php:297
+#: plugin-fw/lib/yit-plugin-panel.php:300
+msgid "How to install premium version"
+msgstr "プレミアム版のインストール方法"
+
+#: includes/class.yith-wcwl-admin-init.php:1117
+msgid "It will be used by Pinterest."
+msgstr "Pinterest にて使用されます。"
+
+#. Author of the plugin/theme
+msgid "YITHEMES"
+msgstr "YITHEMES"
+
+#: plugin-fw/templates/panel/sidebar/widgets/widgets.php:34
+msgid "Important Links"
+msgstr "重要なリンク"
+
+#: plugin-fw/templates/panel/sidebar/widgets/widgets.php:28
+msgid "FREE!"
+msgstr "無料 !"
+
+#: plugin-fw/templates/panel/sidebar/widgets/widgets.php:24
+msgid "Despacho Theme - 100% FREE"
+msgstr "Despacho テーマ - 100% 無料"
+
+#: plugin-fw/templates/panel/sidebar/widgets/widgets.php:17
+msgid "Join the club"
+msgstr "クラブへ入会"
+
+#: plugin-fw/lib/yit-plugin-panel-sidebar.php:425
+#: plugin-fw/templates/panel/sidebar/sidebar.php:3
+msgid "Show sidebar"
+msgstr "サイドバーを表示する"
+
+#: plugin-fw/lib/yit-plugin-panel-sidebar.php:424
+#: plugin-fw/templates/panel/sidebar/sidebar.php:3
+msgid "Hide sidebar"
+msgstr "サイドバーを非表示にする"
+
+#: templates/share.php:44
+msgid "I wanted you to see this site"
+msgstr "このサイトをご覧ください"
+
+#: plugin-fw/templates/panel/types/upload.php:32
+msgid "Reset"
+msgstr "リセット"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:228
+msgid "Renew license"
+msgstr "ライセンスを更新"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:226
+msgid "Order again"
+msgstr "再注文"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:142
+msgid "Deactivate"
+msgstr "無効化"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:101
+msgid "License Actions"
+msgstr "ライセンスアクション"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:42
+msgid "Product to activate"
+msgid_plural "Products to activate"
+msgstr[0] "有効化する商品"
+
+#: plugin-fw/licence/lib/yit-licence.php:678
+msgid "License key deactivated for website"
+msgstr "サイトのライセンスキーを無効化しました"
+
+#: plugin-fw/licence/lib/yit-licence.php:677
+msgid "License successfully activated"
+msgstr "ライセンスを有効化しました"
+
+#: plugin-fw/licence/lib/yit-licence.php:677
+msgid "Great"
+msgstr "すばらしい"
+
+#: plugin-fw/licence/lib/yit-licence.php:188
+msgid "Are you sure you want to deactivate the license for current site?"
+msgstr "本当に現在のサイトのライセンスを無効化してもよいですか ?"
+
+#: includes/class.yith-wcwl-admin-init.php:256
+msgid "Live Demo"
+msgstr "ライブデモ"
+
+#: templates/admin/wishlist-panel-premium.php:275
+msgid "Your shop offers always a wide selection of products and wishlists of your users get more and more crowded everyday. Give them the possibility to select %1$ssome or all products%2$s in the wishlist and add them to cart just with one click."
+msgstr "ショップは常に幅広い商品を提供し、ユーザーのお気に入りは毎日増えていきます。お気に入りの %1$s一部またはすべての商品%2$s を選択してワンクリックでカートに追加することができます。"
+
+#: templates/admin/wishlist-panel-premium.php:376
+msgid "Activating the %1$s\"Show date of addition\"%2$s option, users can see the date in which they have added a particular product to their list: a new way to keep you users informed about their operations."
+msgstr "%1$s\"追加の日付を表示\"%2$s オプションを有効にすると、ユーザーは特定の商品を一覧に追加した日付を見ることができます: ユーザーに操作についての情報を提供する新しい方法です。"
+
+#: templates/admin/wishlist-panel-premium.php:374
+msgid "DATE OF ADDITION TO A WISHLIST"
+msgstr "ウィッシュリスト追加日"
+
+#: templates/admin/wishlist-panel-premium.php:369
+msgid "DATE"
+msgstr "日付"
+
+#: templates/admin/wishlist-panel-premium.php:362
+msgid "FROM A WISHLIST"
+msgstr "ウィッシュリストから"
+
+#: templates/admin/wishlist-panel-premium.php:359
+msgid "Who said that a product has to remain forever in the same wishlist? With the option %1$s\"Show \"Move to another wishlist\" dropdown menu\"%2$s, with just one click users will be free to move a product from a wishlist to another one, managing as they want their lists."
+msgstr "誰もが同じお気に入りにずっと商品を残さないといけませんか？%1$s\"ドロップダウンメニューの \"別のお気に入りに移動\" を表示\"%2$s オプションを使用すると、ワンクリックでお気に入りから別のお気に入りへ商品を移動し、一覧を希望通りに管理できます。"
+
+#: templates/admin/wishlist-panel-premium.php:357
+msgid "FROM A WISHLIST TO ANOTHER"
+msgstr "ウィッシュリストから他リストに移動"
+
+#: templates/admin/wishlist-panel-premium.php:348
+msgid "If you want to give the right input to your users to persuade them to %1$spurchase the products%2$s they have in their wishlists, you need to use this feature! %1$sSend them an email%2$s: customize its whole content from the option panel and add a coupon they can use in your shop, so that they will know you are offering a unique offer!"
+msgstr "あなたが自分のお気に入りにある %1$s商品の購入%2$s を促すために、ユーザーへ適切な情報を提供したい場合は、この機能を使用する必要があります！%1$sメールを送信%2$s: オプションパネルからコンテンツ全体をカスタマイズし、ショップで使用できるクーポンを追加すると、固有のオファーを提供していることがわかります！"
+
+#: templates/admin/wishlist-panel-premium.php:341
+#: templates/admin/wishlist-panel-premium.php:346
+msgid "PROMOTIONAL EMAIL"
+msgstr "広告配信メール"
+
+#: templates/admin/wishlist-panel-premium.php:334
+msgid "FUNCTIONALITIES"
+msgstr "機能"
+
+#: templates/admin/wishlist-panel-premium.php:331
+msgid "Users have the possibility to search for a wishlist, create a new one or display those already created. Add these %1$sfunctionalities%2$s through the dedicated widgets or show them immediately after \"Wishlist\" table."
+msgstr "ユーザーはお気に入りを検索したり、新しいお気に入りを作成したり、既に作成したお気に入りを表示することができます。これらの %1$s機能性%2$s を専用のウィジェットで追加するか、\"お気に入り\" テーブルの直後に表示することができます。"
+
+#: templates/admin/wishlist-panel-premium.php:329
+msgid "FUNCTIONALITIES IN ONE CLICK"
+msgstr "ワンクリックで使える機能"
+
+#: templates/admin/wishlist-panel-premium.php:320
+msgid "Some products draw customer's attention more than others and they do not hesitate to add products to their wishlist. Table %1$s'Popular'%2$s allows you, as shop administrator, to track products that appear most frequently in their wishlists."
+msgstr "商品の中には、他のものよりも顧客の注意を引くものもあれば、お気に入りに商品を追加することに躊躇しないものもあります。%1$s'人気の'%2$s テーブルは、ショップ管理者として、お気に入りへ最も頻繁に出現する商品の追跡を可能にします。"
+
+#: templates/admin/wishlist-panel-premium.php:313
+#: templates/admin/wishlist-panel-premium.php:318
+msgid "POPULAR TABLE"
+msgstr "人気のテーブル"
+
+#: templates/admin/wishlist-panel-premium.php:306
+msgid "UNLOGGED USERS"
+msgstr "ログインしていないユーザー"
+
+#: templates/admin/wishlist-panel-premium.php:303
+msgid "Invite users that are visiting your shop to login if they want to fully benefit from Wishlist functionalities. Show a %1$scustomised message%2$s and redirect them to \"My Account\" page for registration."
+msgstr "お気に入り機能を十分に活用するには、ショップにアクセスしているユーザーへログインしていただくように誘導してください。%1$sカスタマイズされたメッセージ%2$s を表示し、\"マイアカウント\" ページにリダイレクトして登録を促します。"
+
+#: templates/admin/wishlist-panel-premium.php:301
+msgid "MESSAGE TO UNLOGGED USERS"
+msgstr "ログインしていないユーザーへのメッセージ"
+
+#: templates/admin/wishlist-panel-premium.php:292
+msgid "Favour users that have registered to your shop and disable plugin functionalities for all users that have not. By disabling this option, each time they try to add a product to the wishlist, they will be %1$sredirected%2$s to \"My Account\" page and a message will invite them to log in."
+msgstr "ショップに登録しているユーザーには恩恵を、そうではないすべてのユーザーにはプラグインの機能を停止します。このオプションを無効にすると、お気に入りに商品を追加しようとするたびに \"マイアカウント\" ページに %1$sリダイレクト%2$s され、ログインを促すメッセージが表示されます。"
+
+#: templates/admin/wishlist-panel-premium.php:290
+msgid "DISABLE WISHLIST FOR UNLOGGED USERS"
+msgstr "ログインしていないユーザーのウィッシュリストを無効化"
+
+#: templates/admin/wishlist-panel-premium.php:285
+msgid "DISABLE WISHLIST"
+msgstr "ウィッシュリストを無効にする"
+
+#: templates/admin/wishlist-panel-premium.php:278
+msgid "'ADD TO CART'"
+msgstr "'カートに追加'"
+
+#: templates/admin/wishlist-panel-premium.php:273
+msgid "'ADD TO CART' CHECKBOX"
+msgstr "'カートに追加' チェックボックス"
+
+#: templates/admin/wishlist-panel-premium.php:264
+msgid "How many times have you been looking for the perfect gift for a important event but you had no idea of what to buy? %1$s'Search wishlists'%2$s allows your e-shop users to access public wishlists of anyone, by simply knowing their name or email. This way you can grant %1$shigher visibility%2$s to your products and even encourage users to purchase."
+msgstr "重要なイベントに最適な贈り物を何回も探して、何を買うべきか迷っていませんか？%1$s'お気に入りの検索'%2$s を使用すると、名前やメールを知っているだけでショップのユーザーは、公開されたお気に入りにもアクセスできます。これにより、商品の%1$s認知度を高め%2$sユーザーに購入を促すこともできます。"
+
+#: templates/admin/wishlist-panel-premium.php:257
+#: templates/admin/wishlist-panel-premium.php:262
+msgid "Search Wishlists"
+msgstr "お気に入りの検索"
+
+#: templates/admin/wishlist-panel-premium.php:247
+msgid "Thanks to the useful Admin panel, accessible directly among the WooCommerce submenu pages, you will have total control on users' wishlists. In addition to that, evaluating the degree of appreciation for your products has never been so easy, now that %1$syou can see a useful report,%2$s available directly in the product page, which registers the occurrences of the product in customers' wish lists."
+msgstr "WooCommerce のサブメニューページから直接アクセスできる便利な管理パネルのおかげで、ユーザーのお気に入りを完全にコントロールすることができます。それに加え、以前は商品の評価する度合いを賞味することは決して簡単ではありませんでした。商品ページで直接入手できる %1$s有用なレポートを見ることができ%2$s、顧客のお気に入りで商品の発生も登録されるようになりました。"
+
+#: templates/admin/wishlist-panel-premium.php:245
+#: templates/admin/wishlist-panel-premium.php:250
+msgid "Admin Panel"
+msgstr "管理画面"
+
+#: templates/admin/wishlist-panel-premium.php:236
+msgid "%1$sDo you want to add the possibility to ask for estimates of costs into your catalogue?%3$s Do you want to manage customised packets for faithful customers in your store?%2$s%3$sThanks to the feature \"estimate cost\" of %1$sYITH WooCommerce Wishlist%2$s, each registered user will be able to ask for an estimate of their own products in the wishlist and add a text in the popup window that will open just after clicking. Then, they can confirm the text and send an email with all necessary information directly to the address that you have previously set."
+msgstr "%1$sカタログの商品の見積もり金額を出せるようにしますか？%3$s希望するお客様にパケットをカスタマイズしませんか？%2$s%3$s%1$sYITH WooCommerce ウィッシュリスト%2$sの見積もり費用機能はポップアップの画面にお気に入り一覧から選択して見積もりしたり出来ます。また、見積もりをメールで送ったりすることも出来ます。"
+
+#: templates/admin/wishlist-panel-premium.php:229
+#: templates/admin/wishlist-panel-premium.php:234
+msgid "Estimate Cost"
+msgstr "費用見積もり機能"
+
+#: templates/admin/wishlist-panel-premium.php:218
+msgid "%1$sprivate:%2$s only the wish list creator can see it."
+msgstr "%1$s非公開:%2$sお気に入り一覧を登録した人のみが見ることが出来ます。"
+
+#: templates/admin/wishlist-panel-premium.php:217
+msgid "%1$sshared:%2$s only users possessing a direct link to the wish list page can display it;"
+msgstr "%1$sシェアする:%2$sお気に入り一覧ページに直接リンクを持つユーザーのみが表示できます"
+
+#: templates/admin/wishlist-panel-premium.php:216
+msgid "%1$spublic:%2$s all users can look for your wish list and see it;"
+msgstr "%1$s公開:%2$s全てのユーザーがお気に入り一覧を見ることが出来ます;"
+
+#: templates/admin/wishlist-panel-premium.php:214
+msgid "By enabling the option wishlist, users will also have the possibility to %1$smanage the visibility%2$s of their wish lists according to one of the following options:"
+msgstr "お気に入り一覧のオプションを有効にすることによって、ユーザーは次のいずれかのオプションで%1$s表示管理%2$sが出来ます。"
+
+#: templates/admin/wishlist-panel-premium.php:212
+#: templates/admin/wishlist-panel-premium.php:222
+msgid "Wishlist Private"
+msgstr "お気に入り一覧の非公開"
+
+#: templates/admin/wishlist-panel-premium.php:203
+msgid "%1$sDoes it ever happened to you to have too many wishes for a single wish list?%2$s%3$s The possibility to manage one's wishes is a fundamental feature in a modern e-commerce store and it also lets users' degree of satisfaction increase.%3$sThe option \"multiple wishlist\" of %1$sYITH Wishlist%2$s makes this feature and many others on your online store available, and thanks to this plugin your customers will be able to create, manage and share their own wish lists."
+msgstr "%1$s複数のお気に入りがある場合、一つのリストだけで足りるでしょうか？%2$s%3$s最近のECサイトでは複数のお気に入りをユーザーの希望通りに管理したくなります。%3$s複数のお気に入り一覧を%1$sYITHウィッシュリスト%2$sで利用可能に出来ます。ユーザーが複数のお気に入り一覧を作ったり管理したり出来ます。"
+
+#: templates/admin/wishlist-panel-premium.php:196
+#: templates/admin/wishlist-panel-premium.php:201
+msgid "Multiple Wishlist"
+msgstr "複数のお気に入り一覧"
+
+#: templates/admin/wishlist-panel-premium.php:193
+msgid "Premium Features"
+msgstr "プレミアム機能"
+
+#: templates/admin/wishlist-panel-premium.php:187
+#: templates/admin/wishlist-panel-premium.php:385
+msgid "%1$sUPGRADE%2$s%3$s to the premium version%2$s"
+msgstr "プレミアムバージョン%2$sに%1$sアップグレード%2$s%3$s"
+
+#: templates/admin/wishlist-panel-premium.php:185
+#: templates/admin/wishlist-panel-premium.php:383
+msgid "Upgrade to the %1$spremium version%2$s%3$sof %1$sYITH WooCommerce Wishlist%2$s to benefit from all features!"
+msgstr "すべての機能を利用するために%1$sYITH WooCommerce ウィッシュリスト%2$sの%1$sプレミアムバージョン%2$s%3$sにアップグレードする。"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1052
+msgid "Layout for this %s"
+msgstr "この%sのレイアウト"
+
+#. Author URI of the plugin/theme
+msgid "http://yithemes.com/"
+msgstr "http://yithemes.com/"
+
+#. Description of the plugin/theme
+msgid "YITH WooCommerce Wishlist allows you to add Wishlist functionality to your e-commerce."
+msgstr "YITH WooCommerce Wishlist allows you to add Wishlist functionality to your e-commerce."
+
+#. Plugin URI of the plugin/theme
+msgid "http://yithemes.com/themes/plugins/yith-woocommerce-wishlist/"
+msgstr "http://yithemes.com/themes/plugins/yith-woocommerce-wishlist/n"
+
+#: templates/wishlist-view.php:264 templates/wishlist-view.php:310
+msgid "Ask for an estimate"
+msgstr "見積もりを依頼"
+
+#: templates/wishlist-view.php:256
+msgid "Add the selected products to the cart"
+msgstr "選択した商品をカートに追加"
+
+#: templates/wishlist-view.php:215
+msgid "Public"
+msgstr "公開"
+
+#: templates/wishlist-view.php:212
+msgid "Private"
+msgstr "非公開"
+
+#: templates/wishlist-view.php:209
+msgid "Shared"
+msgstr "シェア"
+
+#: templates/wishlist-view.php:197
+msgid "Move"
+msgstr "移動"
+
+#: templates/wishlist-view.php:185
+msgid "Added on : %s"
+msgstr "追加日: %s"
+
+#: templates/wishlist-view.php:176
+msgid "In Stock"
+msgstr "在庫あり"
+
+#: templates/wishlist-view.php:176
+msgid "Out of Stock"
+msgstr "在庫なし"
+
+#: templates/wishlist-view.php:170
+msgid "Free!"
+msgstr "無料！"
+
+#: templates/wishlist-view.php:152 templates/wishlist-view.php:229
+msgid "Remove this product"
+msgstr "この商品を削除"
+
+#: templates/wishlist-view.php:102
+msgid "Stock Status"
+msgstr "在庫状況"
+
+#: templates/wishlist-view.php:89
+msgid "Unit Price"
+msgstr "商品単価"
+
+#: templates/wishlist-view.php:45
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: templates/wishlist-view.php:41
+msgid "Save"
+msgstr "保存"
+
+#: templates/wishlist-view.php:32
+msgid "Edit title"
+msgstr "タイトル編集"
+
+#: templates/share.php:38
+msgid "Google+"
+msgstr "Google+"
+
+#: templates/share.php:32
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:18
+msgid "Reset Defaults"
+msgstr "デフォルトに戻す"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:100
+msgid "Italic bold"
+msgstr "太斜体"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:99
+msgid "Italic"
+msgstr "斜体"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:98
+msgid "Extra bold"
+msgstr "極太"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:97
+msgid "Bold"
+msgstr "太字"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:96
+msgid "Regular"
+msgstr "標準"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:71
+msgid "Google fonts"
+msgstr "Google フォント"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:59
+#: plugin-fw/templates/metaboxes/types/typography.php:153
+#: plugin-fw/templates/metaboxes/types/typography.php:217
+msgid "Web fonts"
+msgstr "Web フォント"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:45
+msgid "rem"
+msgstr "rem"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:44
+msgid "pt"
+msgstr "pt"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:43
+msgid "em"
+msgstr "em"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:42
+msgid "px"
+msgstr "px"
+
+#: plugin-fw/templates/metaboxes/types/sidebars.php:62
+msgid "Right Sidebar"
+msgstr "右サイドバー"
+
+#: plugin-fw/templates/metaboxes/types/sidebars.php:51
+msgid "Left Sidebar"
+msgstr "左サイドバー"
+
+#: plugin-fw/templates/metaboxes/types/sidebar-layout.php:34
+#: plugin-fw/templates/metaboxes/types/sidebars.php:53
+#: plugin-fw/templates/metaboxes/types/sidebars.php:64
+msgid "Choose a sidebar"
+msgstr "サイドバーを選択"
+
+#: plugin-fw/templates/metaboxes/types/sidebar-layout.php:31
+#: plugin-fw/templates/metaboxes/types/sidebars.php:39
+msgid "Right sidebar"
+msgstr "右サイドバー"
+
+#: plugin-fw/templates/metaboxes/types/sidebar-layout.php:28
+#: plugin-fw/templates/metaboxes/types/sidebars.php:42
+#: plugin-fw/templates/metaboxes/types/sidebars.php:45
+msgid "No sidebar"
+msgstr "サイドバーなし"
+
+#: plugin-fw/templates/metaboxes/types/sidebar-layout.php:25
+#: plugin-fw/templates/metaboxes/types/sidebars.php:36
+msgid "Left sidebar"
+msgstr "左サイドバー"
+
+#: plugin-fw/templates/metaboxes/types/images.php:75
+msgid "Are you sure you want to remove this image?"
+msgstr "この画像を本当に削除してもよいですか ?"
+
+#: plugin-fw/templates/metaboxes/types/images.php:42
+msgid "Upload new images"
+msgstr "新規画像をアップロード"
+
+#: plugin-fw/templates/metaboxes/types/image-gallery.php:45
+msgid "Delete"
+msgstr "削除"
+
+#: plugin-fw/templates/metaboxes/types/image-gallery.php:45
+msgid "Add images"
+msgstr "画像を追加"
+
+#: plugin-fw/templates/metaboxes/types/image-gallery.php:45
+msgid "Add to gallery"
+msgstr "ギャラリーに追加"
+
+#: plugin-fw/templates/metaboxes/types/image-gallery.php:45
+msgid "Add Images to Gallery"
+msgstr "ギャラリーに画像を追加"
+
+#: plugin-fw/templates/metaboxes/types/image-gallery.php:40
+#: plugin-fw/templates/metaboxes/types/image-gallery.php:45
+#: plugin-fw/templates/metaboxes/types/images.php:38
+#: plugin-fw/templates/metaboxes/types/images.php:64
+msgid "Delete image"
+msgstr "画像を削除"
+
+#: plugin-fw/templates/metaboxes/types/icon-list.php:91
+msgid "(Default: <i %s></i> )"
+msgstr "(デフォルト: <i %s></i> )"
+
+#: plugin-fw/templates/metaboxes/types/icon-list.php:89
+msgid "(Default: %s <img src=\"%s\"/>)"
+msgstr "(デフォルト: %s <img src=\"%s\"/>)"
+
+#: plugin-fw/templates/metaboxes/types/customtabs.php:107
+msgid "Do you want to remove the custom tab?"
+msgstr "カスタムタブを削除しますか ?"
+
+#: plugin-fw/templates/metaboxes/types/customtabs.php:65
+msgid "Add custom product tab"
+msgstr "カスタム商品タブを追加"
+
+#: plugin-fw/templates/metaboxes/types/customtabs.php:53
+#: plugin-fw/templates/metaboxes/types/customtabs.php:96
+msgid "Content of the tab. (HTML is supported)"
+msgstr "タブのコンテンツ (HTML 利用可能) 。"
+
+#: plugin-fw/templates/metaboxes/types/customtabs.php:52
+#: plugin-fw/templates/metaboxes/types/customtabs.php:95
+msgid "Value"
+msgstr "値"
+
+#: plugin-fw/templates/metaboxes/types/customtabs.php:28
+msgid "Expand all"
+msgstr "すべて展開"
+
+#: plugin-fw/templates/metaboxes/types/customtabs.php:28
+msgid "Close all"
+msgstr "すべて閉じる"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:247
+#: plugin-fw/templates/metaboxes/types/contactform.php:421
+msgid "Set field length."
+msgstr "フィールドの長さを設定。"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:222
+#: plugin-fw/templates/metaboxes/types/contactform.php:409
+msgid "Width"
+msgstr "幅"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:217
+#: plugin-fw/templates/metaboxes/types/contactform.php:405
+msgid "Insert an icon for more personalization."
+msgstr "さらにパーソナライズするためアイコンを挿入できます。"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:209
+#: plugin-fw/templates/metaboxes/types/contactform.php:397
+#: plugin-fw/templates/metaboxes/types/icon-list.php:75
+#: plugin-fw/templates/metaboxes/types/select-icon.php:39
+msgid "Image preview"
+msgstr "画像のプレビュー"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:203
+#: plugin-fw/templates/metaboxes/types/contactform.php:391
+#: plugin-fw/templates/metaboxes/types/icon-list.php:69
+#: plugin-fw/templates/metaboxes/types/select-icon.php:33
+#: plugin-fw/templates/metaboxes/types/upload.php:21
+#: plugin-fw/templates/panel/types/upload.php:31
+#: plugin-fw/templates/panel/woocommerce/woocommerce-upload.php:40
+msgid "Upload"
+msgstr "アップロード"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:175
+#: plugin-fw/templates/metaboxes/types/contactform.php:367
+msgid "Icon"
+msgstr "アイコン"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:170
+#: plugin-fw/templates/metaboxes/types/contactform.php:362
+msgid "Insert additional class(es) (separated by commas) for more personalization."
+msgstr "さらにカスタマイズするための追加クラス (コンマ区切り) を挿入してください。"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:166
+#: plugin-fw/templates/metaboxes/types/contactform.php:358
+msgid "Class"
+msgstr "クラス"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:161
+#: plugin-fw/templates/metaboxes/types/contactform.php:353
+msgid "Select this if it is the email you can reply to."
+msgstr "このメールが返信可能なアドレスの場合は選択してください。"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:157
+#: plugin-fw/templates/metaboxes/types/contactform.php:349
+msgid "Reply To"
+msgstr "返信先"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:152
+#: plugin-fw/templates/metaboxes/types/contactform.php:344
+msgid "Select this option if the email must be valid."
+msgstr "有効なメールアドレスを必須にする場合は選択してください。"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:143
+#: plugin-fw/templates/metaboxes/types/contactform.php:335
+msgid "Select this option if it must be required."
+msgstr "必須にする場合はこのオプションを選択してください。"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:139
+#: plugin-fw/templates/metaboxes/types/contactform.php:331
+msgid "Required"
+msgstr "必須"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:134
+#: plugin-fw/templates/metaboxes/types/contactform.php:326
+msgid "Insert the error message for validation."
+msgstr "入力規制のエラーメッセージを挿入して下さい。"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:130
+#: plugin-fw/templates/metaboxes/types/contactform.php:322
+msgid "Error Message"
+msgstr "エラーメッセージ"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:124
+#: plugin-fw/templates/metaboxes/types/contactform.php:316
+#: plugin-fw/templates/metaboxes/types/contactform.php:436
+msgid "Delete option"
+msgstr "削除オプション"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:121
+#: plugin-fw/templates/metaboxes/types/contactform.php:313
+#: plugin-fw/templates/metaboxes/types/contactform.php:436
+msgid "Selected"
+msgstr "選択済み"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:118
+#: plugin-fw/templates/metaboxes/types/contactform.php:310
+msgid "Add option"
+msgstr "オプション追加"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:117
+#: plugin-fw/templates/metaboxes/types/contactform.php:309
+msgid "Add options "
+msgstr "オプション追加"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:112
+#: plugin-fw/templates/metaboxes/types/contactform.php:304
+msgid "Select this option if you want this field appears as already checked."
+msgstr "フィールドをチェック済みとして表示したい場合はこのオプションを選択してください。"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:108
+#: plugin-fw/templates/metaboxes/types/contactform.php:300
+msgid "Checked"
+msgstr "チェック済み"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:103
+#: plugin-fw/templates/metaboxes/types/contactform.php:295
+msgid "Select the type for this field."
+msgstr "このフィールドの種類を選択してください。"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:95
+#: plugin-fw/templates/metaboxes/types/contactform.php:287
+msgid "Field Type"
+msgstr "フィールドタイプ"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:90
+#: plugin-fw/templates/metaboxes/types/contactform.php:282
+msgid "REQUIRED: Field identification name to be entered into email body. <strong>Note:</strong>Use only lowercase characters and underscores."
+msgstr "必須: フィールド識別名は、電子メール本文に入力されます。<strong>注意: </strong>英語半角小文字とアンダースコアのみ利用可能です。"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:86
+#: plugin-fw/templates/metaboxes/types/contactform.php:278
+msgid "Data Name"
+msgstr "データ名"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:81
+#: plugin-fw/templates/metaboxes/types/contactform.php:273
+msgid "Insert the title for the field."
+msgstr "フィールドのタイトルを記入してください。"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:77
+#: plugin-fw/templates/metaboxes/types/contactform.php:269
+msgid "Field Title"
+msgstr "フィールドタイトル"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:70
+#: plugin-fw/templates/metaboxes/types/contactform.php:262
+msgid "Click to toggle"
+msgstr "クリックで切り替え"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:69
+#: plugin-fw/templates/metaboxes/types/contactform.php:261
+#: plugin-fw/templates/metaboxes/types/customtabs.php:37
+#: plugin-fw/templates/metaboxes/types/customtabs.php:82
+#: templates/wishlist-view.php:229
+msgid "Remove"
+msgstr "削除"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:60
+msgid "Add field"
+msgstr "フィールド追加"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:49
+#: plugin-fw/templates/metaboxes/types/responsivesliders.php:24
+msgid "None"
+msgstr "なし"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:48
+msgid "Custom Icon"
+msgstr "カスタムアイコン"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:47
+msgid "Theme Icon"
+msgstr "テーマアイコン"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:13
+msgid "File Upload"
+msgstr "ファイルアップロード"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:12
+msgid "Password Field"
+msgstr "パスワード欄"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:11
+msgid "Radio Input"
+msgstr "ラジオボタン"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:10
+msgid "Textarea"
+msgstr "テキストエリア"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:9
+msgid "Select"
+msgstr "選択"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:8
+msgid "Checkbox"
+msgstr "チェックボックス"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:7
+msgid "Text Input"
+msgstr "テキスト入力"
+
+#: plugin-fw/templates/metaboxes/types/categories.php:46
+msgid "Add"
+msgstr "追加"
+
+#: plugin-fw/templates/metaboxes/types/categories.php:42
+msgid "+ Add New Category"
+msgstr "+ 新しいカテゴリーの追加"
+
+#: plugin-fw/templates/metaboxes/types/categories.php:36
+msgid "No categories."
+msgstr "カテゴリーがありません。"
+
+#: plugin-fw/templates/metaboxes/types/ajax-products.php:23
+msgid "Search for a product"
+msgstr "商品を検索"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:190
+msgid "Expired"
+msgstr "期限切れ"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:160
+msgid "Banned"
+msgstr "ブロック中"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:126
+msgid "%1s out of %2s"
+msgstr "%2s件中%1s件"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:147
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:204
+msgid "Renew"
+msgstr "更新"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:95
+msgid "Remaining"
+msgstr "残数"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:92
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:201
+msgid "Expires"
+msgstr "期限"
+
+#: plugin-fw/licence/lib/yit-licence.php:187
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:89
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:167
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:198
+msgid "License Key"
+msgstr "ライセンスキー"
+
+#: plugin-fw/licence/lib/yit-licence.php:186
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:88
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:166
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:197
+#: plugin-fw/templates/metaboxes/types/contactform.php:148
+#: plugin-fw/templates/metaboxes/types/contactform.php:340
+#: templates/share.php:44
+msgid "Email"
+msgstr "メール"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:86
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:164
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:194
+#: templates/wishlist-view.php:82
+msgid "Product Name"
+msgstr "商品名"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:80
+msgid "Activated"
+msgstr "有効化済み"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:61
+msgid "Activate"
+msgstr "有効化"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:29
+msgid "Update license information"
+msgstr "ライセンス情報を更新"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:27
+msgid "Have you updated your licenses? Have you asked for an extension? Update information concerning your products."
+msgstr "ライセンスを更新したり期限を延長した場合は、商品に関する情報を更新してください。"
+
+#: plugin-fw/licence/lib/yit-theme-licence.php:163
+msgid ""
+"If you have purchased one of our products before 27 January 2015, you can benefit from support and updates (the services offered with the license)\n"
+"                    until 27 January 2016 and you do not have to purchase it again to get a new license key, because, before this date, your license used to be activated automatically by our system.\n"
+"                    After 27 January 2016, instead, if you want to benefit from support and updates you have to buy a new license and activate it through the license key you will be\n"
+"                    provided with and that you can find in your YIThemes account, in section \"My licenses\"."
+msgstr ""
+"2015年1月27日までに製品を購入した場合は、2016年1月27日までのサポートと更新 (ライセンスで提供されるサービス)\n"
+"のメリットが得られます。新しいライセンスキーを取得するために購入する必要はありません。この日より前に、お客様のライセンスは当社システムによって自動的に有効化されています。\n"
+"2016年1月27日以降、サポートと更新のメリットを得るには、新しいライセンスを購入し、提供されたライセンスキーを使用してライセンスを有効にする必要があります。\n"
+"また、これは YIThemes アカウントセクションの \"My licenses\" にあります。"
+
+#: plugin-fw/licence/lib/yit-theme-licence.php:159
+msgid "I cannot find the license key for activating the theme I have bought some time ago. Where can I find it?"
+msgstr "以前に購入したテーマのライセンスキーが見つかりません。どこで探したら良いですか？"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:23
+msgid "Yithemes License Activation"
+msgstr "Yithemes ライセンスの有効化"
+
+#: plugin-fw/licence/lib/yit-theme-licence.php:117
+#: plugin-fw/licence/lib/yit-theme-licence.php:118
+msgid "%s"
+msgstr "%s"
+
+#: plugin-fw/licence/lib/yit-plugin-licence.php:67
+#: plugin-fw/licence/lib/yit-plugin-licence.php:68
+#: plugin-fw/licence/lib/yit-theme-licence.php:69
+#: plugin-fw/licence/lib/yit-theme-licence.php:70
+#: plugin-fw/licence/lib/yit-theme-licence.php:109
+#: plugin-fw/licence/lib/yit-theme-licence.php:110
+msgid "License Activation"
+msgstr "ライセンスの有効化"
+
+#: plugin-fw/licence/lib/yit-licence.php:675
+msgid "License key has been banned"
+msgstr "ライセンスキーがブロックされています"
+
+#: plugin-fw/licence/lib/yit-licence.php:674
+msgid "License key has expired"
+msgstr "ライセンスキーが期限切れです"
+
+#: plugin-fw/licence/lib/yit-licence.php:673
+msgid "Invalid security key"
+msgstr "無効なセキュリティキー"
+
+#: plugin-fw/licence/lib/yit-licence.php:672
+msgid "Invalid instance ID"
+msgstr "無効なインスタンス ID"
+
+#: plugin-fw/licence/lib/yit-licence.php:671
+msgid "Maximum number of activations exceeded"
+msgstr "有効化の最大数を超えています"
+
+#: plugin-fw/licence/lib/yit-licence.php:670
+msgid "Software has been deactivated"
+msgstr "ソフトウェアが無効になっています"
+
+#: plugin-fw/licence/lib/yit-licence.php:669
+msgid "Invalid license key"
+msgstr "無効なライセンスキー"
+
+#: plugin-fw/licence/lib/yit-licence.php:668
+msgid "Invalid Request"
+msgstr "無効なリクエスト"
+
+#: plugin-fw/licence/lib/yit-licence.php:185
+msgid "Unable to contact the remote server, please try again later. Thanks!"
+msgstr "リモートサーバーに接続できません。後ほどもう一度お試しください。"
+
+#: plugin-fw/licence/lib/yit-licence.php:184
+msgid "%s and %s fields cannot be empty"
+msgstr "%s および %s 欄は空にはできません"
+
+#: plugin-fw/licence/lib/yit-licence.php:183
+msgctxt "%s = field name"
+msgid "%s field cannot be empty"
+msgstr "%s 欄は空にはできません。"
+
+#: plugin-fw/lib/yit-upgrade.php:537
+msgid "Update Plugin"
+msgstr "プラグインを更新"
+
+#: plugin-fw/lib/yit-upgrade.php:530
+msgid "You do not have sufficient permissions to update the plugins for this site."
+msgstr "このサイトのプラグインを更新するための十分な権限がありません。"
+
+#: plugin-fw/lib/yit-upgrade.php:526
+msgid "You can't update the plugins for this site."
+msgstr "このサイトでプラグインを更新できません。"
+
+#: plugin-fw/lib/yit-upgrade.php:452
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a> or <a href=\"%5$s\">update now</a>."
+msgstr "%1$s の新しいバージョンが利用できます。<a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">バージョン %4$s の詳細を表示</a>または<a href=\"%5$s\">今すぐ更新</a>。"
+
+#: plugin-fw/lib/yit-upgrade.php:450
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a>. <em>Automatic update is unavailable for this plugin, please <a href=\"%5$s\" title=\"License activation\">activate</a> your copy of %6s.</em>"
+msgstr "%1$s の新しいバージョンが利用できます。<a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">バージョン %4$s の詳細を表示</a>。<em>このプラグインの自動更新は利用いただけません。お手持ちの %6s <a href=\"%5$s\" title=\"License activation\">を有効化</a>してください。</em>"
+
+#: plugin-fw/lib/yit-upgrade.php:448
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a>. <em>You have to activate the plugin on a single site of the network to benefit from automatic updates.</em>"
+msgstr "%1$s の新しいバージョンが利用できます。<a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">バージョン %4$s の詳細を表示</a>。<em>自動更新を活用するにはネットワーク内の個別サイトでプラグインを有効化する必要があります</em>。"
+
+#: plugin-fw/lib/yit-upgrade.php:446
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a>."
+msgstr "%1$s の新しいバージョンが利用できます. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">バージョン %4$s の詳細を表示</a>。"
+
+#: plugin-fw/lib/yit-upgrade.php:287
+msgid "Could not create Temporary file."
+msgstr "一時ファイルを作成できませんでした。"
+
+#: plugin-fw/lib/yit-upgrade.php:274
+msgid "Invalid URL Provided."
+msgstr "無効な URL です。"
+
+#: plugin-fw/lib/yit-upgrade.php:240
+msgid "YIThemes Repository"
+msgstr "YIThemes レポジトリ"
+
+#: plugin-fw/lib/yit-upgrade.php:139
+msgid "Update now."
+msgstr "今すぐ更新。"
+
+#: plugin-fw/lib/yit-upgrade.php:138
+msgid "please <a href=\"%activate_link%\">activate</a> your copy of %plugin_name%."
+msgstr "%plugin_name% を<a href=\"%activate_link%\">有効化</a>してください。"
+
+#: plugin-fw/lib/yit-upgrade.php:137
+msgid "Automatic update is unavailable for this plugin,"
+msgstr "このプラグインの自動更新は利用いただけません。"
+
+#: plugin-fw/lib/yit-upgrade.php:136
+msgid "View version %latest% details."
+msgstr "バージョン %latest% の詳細を表示する。"
+
+#: plugin-fw/lib/yit-upgrade.php:135
+msgid "There is a new version of %plugin_name% available."
+msgstr "新しいバージョンの %plugin_name% が利用可能です。"
+
+#: plugin-fw/lib/yit-pointers.php:85
+msgid ""
+"From now on, you can find the option panel of YITH plugins in YITH Plugins menu.\n"
+"                                    Every time one of our plugins is added, a new entry will be added to this menu.\n"
+"                                    For example, after the update, plugin options (such as for YITH WooCommerce Wishlist, YITH WooCommerce Ajax Search, etc.)\n"
+"                                    will be moved from previous location to YITH Plugins tab."
+msgstr ""
+"今後は、YITH プラグインメニューでプラグインすべてのオプションを見つけることができます。\n"
+"プラグインのいずれかが更新されると、常にこのメニューへ新しいエントリーが追加されます。\n"
+"たとえば、更新後プラグインオプション (YITH WooCommerce Wishlist、YITH WooCommerce Ajax Search など) \n"
+"が以前の場所から YITH プラグインタブに移動されます。"
+
+#: plugin-fw/lib/yit-pointers.php:84
+msgid "Plugins Upgraded"
+msgstr "プラグインを更新しました"
+
+#: plugin-fw/lib/yit-pointers.php:74 plugin-fw/lib/yit-pointers.php:90
+msgid "and"
+msgstr "と"
+
+#: plugin-fw/lib/yit-pointers.php:73 plugin-fw/lib/yit-pointers.php:89
+msgid "Discover all our plugins available on:"
+msgstr "利用可能なすべてのプラグインを見つけてください: "
+
+#: plugin-fw/lib/yit-pointers.php:71
+msgid ""
+"From now on, you can find all plugin options in YITH Plugins menu.\n"
+"                                     Plugin customization settings will be available as a new entry in YITH Plugins menu."
+msgstr ""
+"これから、YITHプラグインメニューのすべてのプラグインオプションを見つけることができます。\n"
+"                                     プラグインのカスタマイズ設定はYITH Pluginsメニューの新しい項目として利用できます。"
+
+#: plugin-fw/lib/yit-pointers.php:70
+msgid "Plugins Activated"
+msgstr "プラグイン有効化済み"
+
+#: plugin-fw/lib/yit-plugin-subpanel.php:149
+msgid "If you continue with this action, you will reset all the options in this page."
+msgstr "この操作を続行した場合は、このページのすべてのオプションがリセットされます。"
+
+#: plugin-fw/lib/yit-plugin-panel.php:563
+msgid "Sorting successful."
+msgstr "並べ替え完了。"
+
+#: plugin-fw/lib/yit-plugin-panel.php:562
+msgid "Sorry, import is disabled."
+msgstr "インポート機能は停止中です。"
+
+#: plugin-fw/lib/yit-plugin-panel.php:561
+msgid "The added file is not valid."
+msgstr "追加されたファイルは有効ではありません。"
+
+#: plugin-fw/lib/yit-plugin-panel.php:560
+msgid "An error has occurred during import. Please try again."
+msgstr "インポート中にエラーが発生しました。もう一度お試しください。"
+
+#: plugin-fw/lib/yit-plugin-panel.php:559
+msgid "Database imported correctly."
+msgstr "データベースのインポートを完了しました。"
+
+#: plugin-fw/lib/yit-plugin-panel.php:557
+#: plugin-fw/lib/yit-plugin-panel.php:558
+msgid "Element updated correctly."
+msgstr "要素を更新しました。"
+
+#: plugin-fw/lib/yit-plugin-panel.php:556
+msgid "Element deleted correctly."
+msgstr "要素を削除しました。"
+
+#: plugin-fw/lib/yit-plugin-panel.php:555
+msgid "Settings reset"
+msgstr "設定をリセット"
+
+#: plugin-fw/lib/yit-plugin-panel.php:554
+msgid "Settings saved"
+msgstr "設定を保存"
+
+#: plugin-fw/lib/yit-plugin-panel.php:553
+msgid "The element you have entered already exists. Please, enter another name."
+msgstr "入力した要素がすでに存在しています。他の名前を入力してください。"
+
+#: plugin-fw/lib/yit-plugin-panel.php:357
+#: plugin-fw/lib/yit-plugin-subpanel.php:151
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:19
+msgid "Are you sure?"
+msgstr "本当に実行しますか ?"
+
+#: plugin-fw/lib/yit-plugin-panel.php:357
+#: plugin-fw/lib/yit-plugin-subpanel.php:151
+msgid "Reset to default"
+msgstr "デフォルトに戻す"
+
+#: plugin-fw/lib/yit-plugin-panel.php:355
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:15
+msgid "If you continue with this action, you will reset all options in this page."
+msgstr "操作を続行すると、このページのオプションがすべてリセットされます。"
+
+#: plugin-fw/lib/yit-plugin-panel.php:352
+#: plugin-fw/lib/yit-plugin-subpanel.php:146
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:12
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: plugin-fw/lib/yit-plugin-panel.php:73
+msgid "Plugin Settings"
+msgstr "プラグイン設定"
+
+#: plugin-fw/lib/yit-plugin-panel-wc.php:374
+msgid "The changes you have made will be lost if you leave this page."
+msgstr "このページから離れると変更内容は失われます。"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1633
+msgid "Upload multiple files"
+msgstr "複数のファイルをアップロード"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1631
+msgid "Add %s from images"
+msgstr "画像から %s を追加"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1482
+#: plugin-fw/templates/metaboxes/types/customtabs.php:46
+#: plugin-fw/templates/metaboxes/types/customtabs.php:90
+msgid "Name"
+msgstr "名前"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1475
+msgid "Show frontend of the %s"
+msgstr "%s のフロントエンドを表示"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1222
+#: plugin-fw/lib/yit-cpt-unlimited.php:1235
+msgid "Quick links"
+msgstr "クイックリンク"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1130
+msgid "layout settings"
+msgstr "レイアウト設定"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1089
+msgid "Layout for single page of this portfolio"
+msgstr "このポートフォリオの個別ページのレイアウト"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1088
+msgid "Single layout"
+msgstr "シングルレイアウト"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1083
+msgid "Set univocal name for each category page URL."
+msgstr "カテゴリページ URL ごとに一意の名前を設定します。"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1082
+msgid "Taxonomy Rewrite"
+msgstr "タクソノミーリライト"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1077
+msgid "If you want to use categories in the portfolio, set a name for taxonomy. Name should be a slug (must not contain capital letters nor spaces) and must not be more than 32 characters long (database structure restriction)."
+msgstr "ポートフォリオでカテゴリーを使用する場合は、タクソノミー名を設定します。名前はスラッグ (大文字またはスペースは使用できません) で、32文字 (データベース構造の制限) を超えてはいけません。"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1076
+msgid "Taxonomy"
+msgstr "タクソノミー"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1071
+msgid "Set a label in plural (title of portfolio if empty)"
+msgstr "複数のラベルを設定する (空の場合はポートフォリオのタイトル)"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1070
+msgid "Label in Plural"
+msgstr "複数形ラベル"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1065
+msgid "Set a label in singular (title of portfolio if empty)"
+msgstr "単数形でラベルを設定する (空の場合はポートフォリオのタイトル)"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1064
+msgid "Label in Singular"
+msgstr "単数形ラベル"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1059
+msgid "Univocal identification name in the URL for each product (slug from post if empty)"
+msgstr "各製品の URL の一意の識別名 (空の場合は投稿からのスラッグ)"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1058
+msgid "Rewrite"
+msgstr "リライト"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1051
+msgid "Type"
+msgstr "タイプ"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1042
+msgid "%s Settings"
+msgstr "%s 設定"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:724
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:635
+msgid "Category"
+msgstr "カテゴリー"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:634
+msgid "New Category Name"
+msgstr "新規カテゴリー名"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:633
+msgid "Add New Category"
+msgstr "新規カテゴリーを追加"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:632
+msgid "Update Category"
+msgstr "カテゴリーを更新"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:631
+msgid "Edit Category"
+msgstr "カテゴリーの編集"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:630
+msgid "Parent Category:"
+msgstr "親カテゴリー:"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:629
+msgid "Parent Category"
+msgstr "親カテゴリー"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:628
+msgid "All Categories"
+msgstr "カテゴリー一覧"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:627
+msgid "Search Categories"
+msgstr "カテゴリーを検索"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:626
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr "カテゴリー"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:625
+msgctxt "taxonomy general name"
+msgid "%s Categories"
+msgstr "%s カテゴリー"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:468
+#: plugin-fw/lib/yit-cpt-unlimited.php:582
+msgid "No %s found in Trash"
+msgstr "ゴミ箱に %s は見つかりませんでした"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:467
+#: plugin-fw/lib/yit-cpt-unlimited.php:581
+msgid "No %s found"
+msgstr "%s が見つかりませんでした。"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:466
+#: plugin-fw/lib/yit-cpt-unlimited.php:580
+msgid "Search %s"
+msgstr "%s を検索"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:465
+#: plugin-fw/lib/yit-cpt-unlimited.php:579
+#: plugin-fw/lib/yit-cpt-unlimited.php:1251
+#: plugin-fw/lib/yit-cpt-unlimited.php:1305
+msgid "View %s"
+msgstr "%s を表示"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:464
+#: plugin-fw/lib/yit-cpt-unlimited.php:578
+msgid "All %s"
+msgstr "%s 一覧"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:463
+#: plugin-fw/lib/yit-cpt-unlimited.php:577
+msgid "New %s"
+msgstr "新規 %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:462
+#: plugin-fw/lib/yit-cpt-unlimited.php:576
+#: plugin-fw/lib/yit-cpt-unlimited.php:1267
+#: plugin-fw/lib/yit-cpt-unlimited.php:1304
+msgid "Edit %s"
+msgstr "編集 %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:461
+#: plugin-fw/lib/yit-cpt-unlimited.php:575
+msgid "Add New %s"
+msgstr "新規%sを追加"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:460
+#: plugin-fw/lib/yit-cpt-unlimited.php:574
+#: plugin-fw/lib/yit-cpt-unlimited.php:719
+#: plugin-fw/lib/yit-cpt-unlimited.php:1632
+msgid "Add %s"
+msgstr "%s を追加"
+
+#: init.php:138
+msgid "You can't activate the free version of YITH WooCommerce Wishlist while you are using the premium one."
+msgstr "プレミアムバージョンを使っている間は無料版の YITH WooCommerce Wishlist は使用できません。"
+
+#: init.php:128
+msgid "YITH WooCommerce Wishlist is enabled but not effective. It requires WooCommerce in order to work."
+msgstr " YITH WooCommerce Wishlist は利用可能ですが、機能していません。WooCommerce を有効にする必要があります。"
+
+#: includes/class.yith-wcwl.php:1568
+msgid "An error as occurred."
+msgstr "エラーが発生しました。"
+
+#: includes/class.yith-wcwl.php:1526 templates/wishlist-view.php:239
+msgid "No products were added to the wishlist"
+msgstr "お気に入り一覧に商品がありません。"
+
+#: includes/class.yith-wcwl.php:1522
+msgid "Error. Unable to remove the product from the wishlist."
+msgstr "エラー。お気に入り一覧から商品が削除できません。"
+
+#: includes/class.yith-wcwl.php:1518
+msgid "Product successfully removed."
+msgstr "商品の削除に成功しました。"
+
+#: includes/class.yith-wcwl.php:738
+msgid "You need to log in before creating a new wishlist"
+msgstr "新しいお気に入り一覧を作る前にログインする必要があります"
+
+#: includes/class.yith-wcwl.php:332
+msgid "An error occurred while removing products from the wishlist"
+msgstr "お気に入り一覧から商品を削除するのにエラーが発生しました"
+
+#: includes/class.yith-wcwl.php:285
+msgid "The \"Remove\" option now does not require any parameter"
+msgstr "\"削除\" オプションは今何のパラメーターも必要としません"
+
+#: includes/class.yith-wcwl.php:268
+msgid "An error occurred while adding products to wishlist."
+msgstr "お気に入りに商品を登録する際にエラーが発生しました。"
+
+#: includes/class.yith-wcwl.php:177
+msgid "An error occurred while adding products to the wishlist."
+msgstr "お気に入りに商品を登録する際にエラーが発生しました。"
+
+#: includes/class.yith-wcwl-ui.php:179
+msgid "email"
+msgstr "メール"
+
+#: includes/class.yith-wcwl-ui.php:170 templates/share.php:26
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/class.yith-wcwl-ui.php:167 templates/share.php:20
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/class.yith-wcwl-ui.php:117 includes/class.yith-wcwl-ui.php:199
+msgid "Select options"
+msgstr "オプションを選択"
+
+#: includes/class.yith-wcwl-shortcode.php:259
+#: includes/class.yith-wcwl-ui.php:163
+msgid "Share on:"
+msgstr "シェアする:"
+
+#: includes/class.yith-wcwl-install.php:243
+msgctxt "page_slug"
+msgid "wishlist"
+msgstr "wishlist"
+
+#: includes/class.yith-wcwl-init.php:367
+msgid "Product correctly added to cart"
+msgstr "商品が正しくカートに追加されました"
+
+#: includes/class.yith-wcwl-init.php:366
+msgid "We are sorry, but this feature is available only if cookies are enabled on your browser."
+msgstr "この機能はブラウザーでクッキーが利用可能な場合のみ使えます。"
+
+#: includes/class.yith-wcwl-admin-init.php:1367
+msgid "From now on, you can find all the options of Wishlist under YIT Plugin -> Wishlist instead of WooCommerce -> Settings -> Wishlist, as in the previous version. When one of our plugins is updated, a new voice will be added to this menu. Wishlist has been updated with new available options, <a href=\"%s\">discover the PREMIUM version.</a>"
+msgstr "今から「YITプラグイン -> WooCommerce無しのウィッシュリスト -> 設定 -> ウィッシュリスト」から全てのウィッシュリストのオプションが以前のバージョンのように使えます。プラグインが更新された時、このメニューに新しい言葉が追加されるでしょう。ウィッシュリストは新しい可能なオプションが更新され、<a href=\"%s\">プレミアムバージョンに申込が出来ます。</a>"
+
+#: includes/class.yith-wcwl-admin-init.php:1366
+msgid "Wishlist Updated"
+msgstr "お気に入り一覧を更新しました"
+
+#: includes/class.yith-wcwl-admin-init.php:1355
+msgid "In the YIT Plugin tab you can find the Wishlist options. With this menu, you can access to all the settings of our plugins that you have activated. Wishlist is available in an outstanding PREMIUM version with many new options, <a href=\"%s\">discover it now</a>."
+msgstr "YIT プラグインタブでウィッシュリストのオプションが使えます。このメニューで有効になっているプラグインの設定が出来ます。ウィッシュリストは、多くの新しいオプションで優れたプレミアムバージョンも利用可能です。<a href=\"%s\">こちらから案内</a>"
+
+#: includes/class.yith-wcwl-admin-init.php:1354
+msgid "Wishlist Activated"
+msgstr "ウィッシュリストが使えます"
+
+#: includes/class.yith-wcwl-admin-init.php:1264
+msgid "Background color"
+msgstr "背景色"
+
+#: includes/class.yith-wcwl-admin-init.php:1261
+msgid "Headers"
+msgstr "ヘッダー"
+
+#: includes/class.yith-wcwl-admin-init.php:1252
+msgid "Wishlist table"
+msgstr "お気に入り一覧テーブル"
+
+#: includes/class.yith-wcwl-admin-init.php:1234
+msgid "\"Style 2\" button"
+msgstr "\"Style 2\" ボタン"
+
+#: includes/class.yith-wcwl-admin-init.php:1216
+msgid "\"Style 1\" button"
+msgstr "\"Style 1\" ボタン"
+
+#: includes/class.yith-wcwl-admin-init.php:1198
+msgid "\"Add to Cart\" button"
+msgstr "\"カートに追加\" ボタン"
+
+#: includes/class.yith-wcwl-admin-init.php:1194
+#: includes/class.yith-wcwl-admin-init.php:1212
+#: includes/class.yith-wcwl-admin-init.php:1230
+#: includes/class.yith-wcwl-admin-init.php:1248
+msgid "Border (hover)"
+msgstr "ボーダー (ホバー)"
+
+#: includes/class.yith-wcwl-admin-init.php:1193
+#: includes/class.yith-wcwl-admin-init.php:1211
+#: includes/class.yith-wcwl-admin-init.php:1229
+#: includes/class.yith-wcwl-admin-init.php:1247
+msgid "Text (hover)"
+msgstr "テキスト (ホバー)"
+
+#: includes/class.yith-wcwl-admin-init.php:1192
+#: includes/class.yith-wcwl-admin-init.php:1210
+#: includes/class.yith-wcwl-admin-init.php:1228
+#: includes/class.yith-wcwl-admin-init.php:1246
+msgid "Background (hover)"
+msgstr "背景 (ホバー)"
+
+#: includes/class.yith-wcwl-admin-init.php:1185
+#: includes/class.yith-wcwl-admin-init.php:1203
+#: includes/class.yith-wcwl-admin-init.php:1221
+#: includes/class.yith-wcwl-admin-init.php:1239
+#: includes/class.yith-wcwl-admin-init.php:1257
+msgid "Border"
+msgstr "ボーダー"
+
+#: includes/class.yith-wcwl-admin-init.php:1184
+#: includes/class.yith-wcwl-admin-init.php:1202
+#: includes/class.yith-wcwl-admin-init.php:1220
+#: includes/class.yith-wcwl-admin-init.php:1238
+#: includes/class.yith-wcwl-admin-init.php:1256
+msgid "Text"
+msgstr "テキスト"
+
+#: includes/class.yith-wcwl-admin-init.php:1183
+#: includes/class.yith-wcwl-admin-init.php:1201
+#: includes/class.yith-wcwl-admin-init.php:1219
+#: includes/class.yith-wcwl-admin-init.php:1237
+#: includes/class.yith-wcwl-admin-init.php:1255
+msgid "Background"
+msgstr "背景"
+
+#: includes/class.yith-wcwl-admin-init.php:1180
+msgid "\"Add to wishlist\" button"
+msgstr "\"お気に入りに追加\"ボタン"
+
+#: includes/class.yith-wcwl-admin-init.php:1144
+msgid "Choose to enable product slider in wishlist page with linked products (<a href=\"%s\" class=\"thickbox\">Example</a>). %s"
+msgstr "お気に入り一覧へのリンクを利用可能な商品スライダーを選択(<a href=\"%s\" class=\"thickbox\">例</a>). %s"
+
+#: includes/class.yith-wcwl-admin-init.php:1143
+msgid "Enable slider in wishlist"
+msgstr "お気に入り一覧にスライダーを利用"
+
+#: includes/class.yith-wcwl-admin-init.php:1136
+msgid "YITH WooCommerce Frequently Bought Together Integration"
+msgstr "YITH WooCommerce よく一緒に買う商品を統合"
+
+#: includes/class.yith-wcwl-admin-init.php:1131
+msgid "If you want to take advantage of this feature, you could consider to purchase the %s."
+msgstr "もし、より高度なこの機能を使いたい場合は%sを購入することを検討してください。"
+
+#: includes/class.yith-wcwl-admin-init.php:1116
+msgid "Social image URL"
+msgstr "ソーシャル画像 URL"
+
+#: includes/class.yith-wcwl-admin-init.php:1109
+msgid "It will be used by Twitter and Pinterest. Use <strong>%wishlist_url%</strong> where you want to show the URL of your wishlist."
+msgstr "Twitter や Pinterest で使用されます。<strong>%wishlist_url%</strong> を使用して、お気に入りのURL を表示します。"
+
+#: includes/class.yith-wcwl-admin-init.php:1108
+msgid "Social text"
+msgstr "ソーシャルテキスト"
+
+#: includes/class.yith-wcwl-admin-init.php:1101
+msgid "Social title"
+msgstr "ソーシャルタイトル"
+
+#: includes/class.yith-wcwl-admin-init.php:1095
+msgid "Show \"Share by Email\" button"
+msgstr "\"メールで共有\" ボタンを表示"
+
+#: includes/class.yith-wcwl-admin-init.php:1094
+msgid "Share by Email"
+msgstr "メールで共有"
+
+#: includes/class.yith-wcwl-admin-init.php:1088
+msgid "Show \"Share on Google+\" button"
+msgstr "\"Google+ で共有\" ボタンを表示"
+
+#: includes/class.yith-wcwl-admin-init.php:1087
+msgid "Share on Google+"
+msgstr "Google+ で共有"
+
+#: includes/class.yith-wcwl-admin-init.php:1081
+msgid "Show \"Pin on Pinterest\" button"
+msgstr "\"Pinterest にピン\" ボタンを表示"
+
+#: includes/class.yith-wcwl-admin-init.php:1080
+msgid "Pin on Pinterest"
+msgstr "Pinterest にピン"
+
+#: includes/class.yith-wcwl-admin-init.php:1074
+msgid "Show \"Tweet on Twitter\" button"
+msgstr "\"Twitter にツイート\" ボタンを表示"
+
+#: includes/class.yith-wcwl-admin-init.php:1073
+msgid "Tweet on Twitter"
+msgstr "Twitter にツイート"
+
+#: includes/class.yith-wcwl-admin-init.php:1067
+msgid "Show \"Share on Facebook\" button"
+msgstr "\"Facebook で共有\" ボタンを表示"
+
+#: includes/class.yith-wcwl-admin-init.php:1066
+msgid "Share on Facebook"
+msgstr "Facebook で共有"
+
+#: includes/class.yith-wcwl-admin-init.php:1059
+msgid "Social Networks & Share"
+msgstr "ソーシャルネットワークと共有"
+
+#: includes/class.yith-wcwl-admin-init.php:1041
+msgid "Add an icon to the \"Add to Cart\" button"
+msgstr "\"カートに追加\" ボタンにアイコンを追加"
+
+#: includes/class.yith-wcwl-admin-init.php:1040
+msgid "\"Add to Cart\" icon"
+msgstr "\"カートに追加\" アイコン"
+
+#: includes/class.yith-wcwl-admin-init.php:1030
+msgid "Add an icon to the \"Add to Wishlist\" button"
+msgstr "\"お気に入りに追加\"ボタンにアイコンを追加"
+
+#: includes/class.yith-wcwl-admin-init.php:1029
+msgid "\"Add to Wishlist\" icon"
+msgstr "\"お気に入りに追加\"アイコン"
+
+#: includes/class.yith-wcwl-admin-init.php:1023
+msgid "Make button corners rounded"
+msgstr "ボタンの角を丸くします"
+
+#: includes/class.yith-wcwl-admin-init.php:1022
+msgid "Rounded buttons"
+msgstr "丸いボタン"
+
+#: includes/class.yith-wcwl-admin-init.php:1016
+msgid "Use the theme style."
+msgstr "テーマのスタイルを使う"
+
+#: includes/class.yith-wcwl-admin-init.php:1015
+msgid "Use theme style"
+msgstr "テーマスタイルを使う"
+
+#: includes/class.yith-wcwl-admin-init.php:1008
+msgid "Custom CSS"
+msgstr "カスタム CSS"
+
+#: includes/class.yith-wcwl-admin-init.php:1002
+msgid "Use buttons instead of simple anchors."
+msgstr "代わりにシンプルなアンカーのボタンを使用します。"
+
+#: includes/class.yith-wcwl-admin-init.php:1001
+msgid "Use buttons"
+msgstr "ボタンを使う"
+
+#: includes/class.yith-wcwl-admin-init.php:994
+msgid "Styles"
+msgstr "スタイル"
+
+#: includes/class.yith-wcwl-admin-init.php:979
+msgid "Add a second remove button in the last column, with extended label"
+msgstr "端のカラムの第二の削除ボタンを追加します"
+
+#: includes/class.yith-wcwl-admin-init.php:978
+msgid "Add second remove button"
+msgstr "第二の削除ボタンを追加"
+
+#: includes/class.yith-wcwl-admin-init.php:971
+msgid "Show the date when users have added a product to the wishlist"
+msgstr "商品をお気に入り一覧に追加した日を表示します"
+
+#: includes/class.yith-wcwl-admin-init.php:970
+msgid "Show Date of addition"
+msgstr "追加した日を表示"
+
+#: includes/class.yith-wcwl-admin-init.php:963
+msgid "Show \"In stock\" or \"Out of stock\" label for each product in wishlist"
+msgstr "\"在庫あり\"や\"在庫なし\"をお気に入り一覧に表示する"
+
+#: includes/class.yith-wcwl-admin-init.php:962
+msgid "Show Stock status"
+msgstr "在庫状況を表示"
+
+#: includes/class.yith-wcwl-admin-init.php:955
+msgid "Show \"Add to Cart\" button for each product in wishlist"
+msgstr "\"カートに追加\" ボタンを商品一覧に表示"
+
+#: includes/class.yith-wcwl-admin-init.php:954
+msgid "Show \"Add to Cart\" button"
+msgstr "\"カートに追加\" ボタンを表示"
+
+#: includes/class.yith-wcwl-admin-init.php:947
+msgid "Show unit price for each product in wishlist"
+msgstr "商品一覧にて商品単価を表示"
+
+#: includes/class.yith-wcwl-admin-init.php:946
+msgid "Show Unit price"
+msgstr "商品単価を表示"
+
+#: includes/class.yith-wcwl-admin-init.php:941
+msgid "Add to Cart"
+msgstr "カートに追加"
+
+#: includes/class.yith-wcwl-admin-init.php:939
+msgid "\"Add to Cart\" text"
+msgstr "\"カートに追加\" テキスト"
+
+#: includes/class.yith-wcwl-admin-init.php:934
+#: includes/class.yith-wcwl-ui.php:81
+msgid "Product added!"
+msgstr "お気に入り商品に追加しました！"
+
+#: includes/class.yith-wcwl-admin-init.php:932
+msgid "\"Product added\" text"
+msgstr "\"お気に入り商品に追加しました！\"テキスト"
+
+#: includes/class.yith-wcwl-admin-init.php:927
+#: includes/class.yith-wcwl-ui.php:82
+msgid "The product is already in the wishlist!"
+msgstr "すでにお気に入り一覧に商品があります"
+
+#: includes/class.yith-wcwl-admin-init.php:925
+msgid "\"Product already in wishlist\" text"
+msgstr "\"すでにお気に入り一覧に商品があります\"テキスト"
+
+#: includes/class.yith-wcwl-admin-init.php:920
+#: includes/class.yith-wcwl-ui.php:81 includes/class.yith-wcwl-ui.php:82
+msgid "Browse Wishlist"
+msgstr "お気に入りを表示"
+
+#: includes/class.yith-wcwl-admin-init.php:918
+msgid "\"Browse wishlist\" text"
+msgstr "\"お気に入り一覧を表示\"テキスト"
+
+#: includes/class.yith-wcwl-admin-init.php:913
+msgid "Add to Wishlist"
+msgstr "お気に入りに追加"
+
+#: includes/class.yith-wcwl-admin-init.php:911
+msgid "\"Add to Wishlist\" text"
+msgstr "\"お気に入りに追加\"テキスト"
+
+#: includes/class.yith-wcwl-admin-init.php:905
+msgid "Remove the product from the wishlist if it has been added to the cart."
+msgstr "カートに追加された場合、お気に入り一覧から商品を削除します。"
+
+#: includes/class.yith-wcwl-admin-init.php:904
+msgid "Remove if added to the cart"
+msgstr "カートに追加された場合は削除します"
+
+#: includes/class.yith-wcwl-admin-init.php:898
+msgid "Redirect to cart page if \"Add to cart\" button is clicked in the wishlist page."
+msgstr "お気に入り一覧ページで\"カートに追加\"ボタンをクリックしたらカートに戻る"
+
+#: includes/class.yith-wcwl-admin-init.php:897
+msgid "Redirect to cart"
+msgstr "カートに戻る"
+
+#: includes/class.yith-wcwl-admin-init.php:892
+msgid "Use shortcode"
+msgstr "ショートコードを使う"
+
+#: includes/class.yith-wcwl-admin-init.php:891
+msgid "After summary"
+msgstr "要約の後"
+
+#: includes/class.yith-wcwl-admin-init.php:890
+msgid "After thumbnails"
+msgstr "サムネイルの後"
+
+#: includes/class.yith-wcwl-admin-init.php:889
+msgid "After \"Add to cart\""
+msgstr "\"カートに追加\" の後"
+
+#: includes/class.yith-wcwl-admin-init.php:883
+msgid "You can add the button in variable products only after the \"Add to Cart\" button or using the shortcode [yith_wcwl_add_to_wishlist]."
+msgstr "バリエーションのある商品は \"カートに追加\" の後にしかボタンを追加できません。もしくは、ショートコードの [yith_wcwl_add_to_wishlist] を使ってください。"
+
+#: includes/class.yith-wcwl-admin-init.php:882
+msgid "Position"
+msgstr "位置"
+
+#: includes/class.yith-wcwl-admin-init.php:866
+#: includes/class.yith-wcwl-admin-init.php:867
+#: includes/class.yith-wcwl-admin-init.php:1103
+msgid "My wishlist on %s"
+msgstr "%sのお気に入り商品一覧"
+
+#: includes/class.yith-wcwl-admin-init.php:864
+msgid "Default wishlist title"
+msgstr "どフォルトのお気に入りタイトル"
+
+#: includes/class.yith-wcwl-admin-init.php:858
+msgid "Enable all plugin features. <strong>Be sure to select at least one option in the Wishlist page menu in this settings page.</strong> Also, please read the plugin <a href=\"%s\" target=\"_blank\">documentation</a>."
+msgstr "すべてのプラグインの機能を有効にします。<strong>%s内のウィッシュリストのページメニュー内の少なくとも1つのオプションを選択してください。</strong><a href=\"%s\" target=\"_blank\">プラグインのドキュメント</a>を読んでください。"
+
+#: includes/class.yith-wcwl-admin-init.php:857
+msgid "Enable YITH Wishlist"
+msgstr "YITH Wishlist を有効化"
+
+#: includes/class.yith-wcwl-admin-init.php:850
+msgid "General Settings"
+msgstr "一般設定"
+
+#: includes/class.yith-wcwl-admin-init.php:840
+msgid "By purchasing the premium version of the plugin, you will take advantage of the advanced features of the product and you will get one year of free updates and support through our platform available 24h/24."
+msgstr "プラグインのプレミアムバージョンを購入することにより、製品の拡張機能を活用できるようになります。さらに1年間の無料更新と、当社のプラットフォームを通した24時間サポート (英語) を受けられます。"
+
+#: includes/class.yith-wcwl-admin-init.php:839
+msgid "Get Support and Pro Features"
+msgstr "サポートと Pro 機能を入手"
+
+#: includes/class.yith-wcwl-admin-init.php:833
+msgid "Upgrade to the PREMIUM VERSION of YITH WOOCOMMERCE WISHLIST to benefit from all features!"
+msgstr "プレミアムバージョンにアップグレードの YITH WOOCOMMERCE ウィッシュリストのすべての機能を利用する！"
+
+#: includes/class.yith-wcwl-admin-init.php:832
+msgid "Discover the Advanced Features"
+msgstr "高度な機能を発見"
+
+#. #-#-#-#-#  tmp-yith-woocommerce-wishlist.pot (YITH WooCommerce Wishlist
+#. 2.1.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/class.yith-wcwl-admin-init.php:831
+msgid "YITH WooCommerce Wishlist"
+msgstr "YITH WooCommerce Wishlist"
+
+#: includes/class.yith-wcwl-admin-init.php:828
+msgid "Upgrade to the PREMIUM VERSION"
+msgstr "プレミアムバージョンにアップグレード"
+
+#: includes/class.yith-wcwl-admin-init.php:873
+msgid "Page contents: [yith_wcwl_wishlist]"
+msgstr "ページコンテンツ: [yith_wcwl_wishlist]"
+
+#: includes/class.yith-wcwl-admin-init.php:872
+msgid "Wishlist Page"
+msgstr "お気に入り一覧ページ"
+
+#: includes/class.yith-wcwl-admin-init.php:288
+msgid "Plugin Documentation"
+msgstr "プラグインドキュメント"
+
+#: includes/class.yith-wcwl-admin-init.php:283
+msgid "WARNING: This plugin requires at least WooCommerce 2.2!"
+msgstr "警告: このプラグインは WooCommerce 2.2 以上が必要です !"
+
+#: includes/class.yith-wcwl-admin-init.php:280
+msgid "WARNING: This plugin requires at least WooCommerce 2.2! Please, use this link to update it."
+msgstr "警告: このプラグインは WooCommerce 2.2 以上が必要です ! このリンクを使って更新してください。"
+
+#: includes/class.yith-wcwl-admin-init.php:163
+#: includes/class.yith-wcwl-admin-init.php:255
+msgid "Premium Version"
+msgstr "プレミアムバージョン"
+
+#: includes/class.yith-wcwl-admin-init.php:162
+#: includes/class.yith-wcwl-admin-init.php:236
+msgid "Colors"
+msgstr "カラー"
+
+#: includes/class.yith-wcwl-admin-init.php:161
+#: includes/class.yith-wcwl-admin-init.php:251
+#: plugin-fw/lib/yit-cpt-unlimited.php:1048
+#: plugin-fw/lib/yit-cpt-unlimited.php:1196
+#: plugin-fw/lib/yit-cpt-unlimited.php:1202
+#: plugin-fw/lib/yit-plugin-panel.php:74
+msgid "Settings"
+msgstr "設定"
+
+#: includes/class.yith-wcwl-admin-init.php:159
+#: includes/class.yith-wcwl-admin-init.php:1288
+#: includes/class.yith-wcwl-admin-init.php:1289
+#: includes/class.yith-wcwl-install.php:244
+msgid "Wishlist"
+msgstr "お気に入り"

@@ -1,0 +1,295 @@
+<div class="dt_module dt_m_h2 dt_module_others ui-resizable ui-sortable-handle dt_first" data-name="h2" data-placeholder="H2" style="opacity: 1;"><span class="ico-headings dt_icon"></span>
+						<span class="dt_module_name">H2</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="class" class="class dt_module_setting"></div><div data-option_name="h2_content" class="h2_content dt_module_setting dtthemes_module_content">Titled Boxes</div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_half dt_m_column_has_modules ui-sortable-handle dt_first" data-name="one_half" data-placeholder="1/2 Column" style="opacity: 1; z-index: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name" style="opacity: 1;">1/2 Column</span>
+							<span class="dt_move"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+							</div>
+							<div class="dt_columndata_settings"><div id="column_data"></div></div>
+						</div>
+						<div class="dt_modules_holder dt_modules_holder dt_modules_container ui-droppable ui-sortable"><div class="dt_module dt_m_titled_box dt_module_general  dt_first ui-sortable-handle" data-name="titled_box" data-placeholder="Titled Box" style="opacity: 1;"><span class="ico-box dt_icon"></span>
+						<span class="dt_module_name">Titled Box</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"><span class="title">Blue Titled Box</span></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">titled-box</div><div data-option_name="title" class="title dt_module_setting">Blue Titled Box</div><div data-option_name="icon" class="icon dt_module_setting">fa-cloud</div><div data-option_name="variation" class="variation dt_module_setting">blue</div><div data-option_name="bgcolor" class="bgcolor dt_module_setting"></div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="box_content" class="box_content dt_module_setting dtthemes_module_content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra per inceptos himenaeos.</div></div>
+						</div></div>
+						<div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div>
+					<div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div></div><div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_half dt_m_column_has_modules ui-sortable-handle" data-name="one_half" data-placeholder="1/2 Column" style="opacity: 1; z-index: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name" style="opacity: 1;">1/2 Column</span>
+							<span class="dt_move"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+							</div>
+							<div class="dt_columndata_settings"><div id="column_data"></div></div>
+						</div>
+						<div class="dt_modules_holder dt_modules_holder dt_modules_container ui-droppable ui-sortable"><div class="dt_module dt_m_titled_box dt_module_general  dt_first ui-sortable-handle" data-name="titled_box" data-placeholder="Titled Box" style="opacity: 1;"><span class="ico-box dt_icon"></span>
+						<span class="dt_module_name">Titled Box</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"><span class="title">Orange Titled Box</span></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">titled-box</div><div data-option_name="title" class="title dt_module_setting">Orange Titled Box</div><div data-option_name="icon" class="icon dt_module_setting">fa-magic</div><div data-option_name="variation" class="variation dt_module_setting">orange</div><div data-option_name="bgcolor" class="bgcolor dt_module_setting"></div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="box_content" class="box_content dt_module_setting dtthemes_module_content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra per inceptos himenaeos.</p></div></div>
+						</div></div>
+						<div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div><div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div></div><div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_half dt_m_column_has_modules ui-sortable-handle dt_first" data-name="one_half" data-placeholder="1/2 Column" style="opacity: 1; z-index: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name" style="opacity: 1;">1/2 Column</span>
+							<span class="dt_move"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+							</div>
+							<div class="dt_columndata_settings"><div id="column_data"></div></div>
+						</div>
+						<div class="dt_modules_holder dt_modules_holder dt_modules_container ui-droppable ui-sortable"><div class="dt_module dt_m_titled_box dt_module_general  dt_first ui-sortable-handle" data-name="titled_box" data-placeholder="Titled Box" style="opacity: 1;"><span class="ico-box dt_icon"></span>
+						<span class="dt_module_name">Titled Box</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"><span class="title">Pink Titled Box</span></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">titled-box</div><div data-option_name="title" class="title dt_module_setting">Pink Titled Box</div><div data-option_name="icon" class="icon dt_module_setting"></div><div data-option_name="variation" class="variation dt_module_setting">pink</div><div data-option_name="bgcolor" class="bgcolor dt_module_setting"></div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="box_content" class="box_content dt_module_setting dtthemes_module_content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra per inceptos himenaeos.</p></div></div>
+						</div></div>
+						<div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div><div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div></div><div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_half dt_m_column_has_modules ui-sortable-handle" data-name="one_half" data-placeholder="1/2 Column" style="opacity: 1; z-index: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name" style="opacity: 1;">1/2 Column</span>
+							<span class="dt_move"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+							</div>
+							<div class="dt_columndata_settings"><div id="column_data"></div></div>
+						</div>
+						<div class="dt_modules_holder dt_modules_holder dt_modules_container ui-droppable ui-sortable"><div class="dt_module dt_m_titled_box dt_module_general  dt_first ui-sortable-handle" data-name="titled_box" data-placeholder="Titled Box" style="opacity: 1;"><span class="ico-box dt_icon"></span>
+						<span class="dt_module_name">Titled Box</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"><span class="title">Brown Titled Box</span></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">titled-box</div><div data-option_name="title" class="title dt_module_setting">Brown Titled Box</div><div data-option_name="icon" class="icon dt_module_setting"></div><div data-option_name="variation" class="variation dt_module_setting">brown</div><div data-option_name="bgcolor" class="bgcolor dt_module_setting"></div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="box_content" class="box_content dt_module_setting dtthemes_module_content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra per inceptos himenaeos.</p></div></div>
+						</div></div>
+						<div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div><div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div></div>            <div class="dt_module dt_m_clear dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="clear" data-placeholder="Clear" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Clear</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_hr_invisible dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="hr_invisible" data-placeholder="Whitespace" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Whitespace</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_h2 dt_module_others ui-resizable ui-sortable-handle dt_first" data-name="h2" data-placeholder="H2" style="opacity: 1;"><span class="ico-headings dt_icon"></span>
+						<span class="dt_module_name">H2</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="class" class="class dt_module_setting"></div><div data-option_name="h2_content" class="h2_content dt_module_setting dtthemes_module_content">Notification Boxes</div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_half dt_m_column_has_modules ui-sortable-handle dt_first" data-name="one_half" data-placeholder="1/2 Column" style="opacity: 1; z-index: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name" style="opacity: 1;">1/2 Column</span>
+							<span class="dt_move"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+							</div>
+							<div class="dt_columndata_settings"><div id="column_data"></div></div>
+						</div>
+						<div class="dt_modules_holder dt_modules_holder dt_modules_container ui-droppable ui-sortable"><div class="dt_module dt_m_titled_box dt_module_general  dt_first ui-sortable-handle" data-name="titled_box" data-placeholder="Titled Box" style="opacity: 1;"><span class="ico-box dt_icon"></span>
+						<span class="dt_module_name">Titled Box</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"><span class="title"></span></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">error-box</div><div data-option_name="title" class="title dt_module_setting"></div><div data-option_name="icon" class="icon dt_module_setting"></div><div data-option_name="variation" class="variation dt_module_setting"></div><div data-option_name="bgcolor" class="bgcolor dt_module_setting"></div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="box_content" class="box_content dt_module_setting dtthemes_module_content">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div></div>
+						</div></div>
+						<div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div>
+					<div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div></div><div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_half dt_m_column_has_modules ui-sortable-handle" data-name="one_half" data-placeholder="1/2 Column" style="opacity: 1; z-index: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name" style="opacity: 1;">1/2 Column</span>
+							<span class="dt_move"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+							</div>
+							<div class="dt_columndata_settings"><div id="column_data"></div></div>
+						</div>
+						<div class="dt_modules_holder dt_modules_holder dt_modules_container ui-droppable ui-sortable"><div class="dt_module dt_m_titled_box dt_module_general  dt_first ui-sortable-handle" data-name="titled_box" data-placeholder="Titled Box" style="opacity: 1;"><span class="ico-box dt_icon"></span>
+						<span class="dt_module_name">Titled Box</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"><span class="title"></span></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">warning-box</div><div data-option_name="title" class="title dt_module_setting"></div><div data-option_name="icon" class="icon dt_module_setting"></div><div data-option_name="variation" class="variation dt_module_setting"></div><div data-option_name="bgcolor" class="bgcolor dt_module_setting"></div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="box_content" class="box_content dt_module_setting dtthemes_module_content">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div></div>
+						</div></div>
+						<div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div><div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div></div><div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_half dt_m_column_has_modules ui-sortable-handle dt_first" data-name="one_half" data-placeholder="1/2 Column" style="opacity: 1; z-index: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name" style="opacity: 1;">1/2 Column</span>
+							<span class="dt_move"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+							</div>
+							<div class="dt_columndata_settings"><div id="column_data"></div></div>
+						</div>
+						<div class="dt_modules_holder dt_modules_holder dt_modules_container ui-droppable ui-sortable"><div class="dt_module dt_m_titled_box dt_module_general  dt_first ui-sortable-handle" data-name="titled_box" data-placeholder="Titled Box" style="opacity: 1;"><span class="ico-box dt_icon"></span>
+						<span class="dt_module_name">Titled Box</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"><span class="title"></span></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">success-box</div><div data-option_name="title" class="title dt_module_setting"></div><div data-option_name="icon" class="icon dt_module_setting"></div><div data-option_name="variation" class="variation dt_module_setting"></div><div data-option_name="bgcolor" class="bgcolor dt_module_setting"></div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="box_content" class="box_content dt_module_setting dtthemes_module_content">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div></div>
+						</div></div>
+						<div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div><div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div></div><div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_half dt_m_column_has_modules ui-sortable-handle" data-name="one_half" data-placeholder="1/2 Column" style="opacity: 1; z-index: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name" style="opacity: 1;">1/2 Column</span>
+							<span class="dt_move"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+							</div>
+							<div class="dt_columndata_settings"><div id="column_data"></div></div>
+						</div>
+						<div class="dt_modules_holder dt_modules_holder dt_modules_container ui-droppable ui-sortable"><div class="dt_module dt_m_titled_box dt_module_general  dt_first ui-sortable-handle" data-name="titled_box" data-placeholder="Titled Box" style="opacity: 1;"><span class="ico-box dt_icon"></span>
+						<span class="dt_module_name">Titled Box</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"><span class="title"></span></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">info-box</div><div data-option_name="title" class="title dt_module_setting"></div><div data-option_name="icon" class="icon dt_module_setting"></div><div data-option_name="variation" class="variation dt_module_setting"></div><div data-option_name="bgcolor" class="bgcolor dt_module_setting"></div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="box_content" class="box_content dt_module_setting dtthemes_module_content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p></div></div>
+						</div></div>
+						<div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div><div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div></div>            <div class="dt_module dt_m_clear dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="clear" data-placeholder="Clear" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Clear</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_hr_invisible dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="hr_invisible" data-placeholder="Whitespace" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Whitespace</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_h2 dt_module_others ui-resizable ui-sortable-handle dt_first" data-name="h2" data-placeholder="H2" style="opacity: 1;"><span class="ico-headings dt_icon"></span>
+						<span class="dt_module_name">H2</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="class" class="class dt_module_setting"></div><div data-option_name="h2_content" class="h2_content dt_module_setting dtthemes_module_content">Colored Boxs</div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_third dt_m_column_has_modules ui-sortable-handle dt_first" data-name="one_third" data-placeholder="1/3 Column" style="opacity: 1; z-index: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name" style="opacity: 1;">1/3 Column</span>
+							<span class="dt_move"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+							</div>
+							<div class="dt_columndata_settings"><div id="column_data" data-type="type2"></div></div>
+						</div>
+						<div class="dt_modules_holder dt_modules_holder dt_modules_container ui-droppable ui-sortable"><div class="dt_module dt_m_icon_box_colored dt_module_general  dt_first ui-sortable-handle" data-name="icon_box_colored" data-placeholder="Icon Box Colored" style="opacity: 1;"><span class="ico-iconbox-colored dt_icon"></span>
+						<span class="dt_module_name">Icon Box Colored</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"><span class="title">Well Trained Professionals</span></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">type1</div><div data-option_name="fontawesome_icon" class="fontawesome_icon dt_module_setting">trophy</div><div data-option_name="custom_icon" class="custom_icon dt_module_setting"></div><div data-option_name="title" class="title dt_module_setting">Well Trained Professionals</div><div data-option_name="bgcolor" class="bgcolor dt_module_setting">#087dc2</div><div data-option_name="ibc_content" class="ibc_content dt_module_setting dtthemes_module_content"><p>Nunc at pretium est curabitur commodo leac est venenatis egestas sed aliquet auguevelit.<br>
+[dt_sc_button link='#' size='small' target='_blank']Know More[/dt_sc_button]</p>
+</div></div>
+						</div></div>
+						<div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div>
+					<div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div></div><div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_third dt_m_column_has_modules ui-sortable-handle" data-name="one_third" data-placeholder="1/3 Column" style="opacity: 1; z-index: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name" style="opacity: 1;">1/3 Column</span>
+							<span class="dt_move"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+							</div>
+							<div class="dt_columndata_settings"><div id="column_data" data-type="type2"></div></div>
+						</div>
+						<div class="dt_modules_holder dt_modules_holder dt_modules_container ui-droppable ui-sortable"><div class="dt_module dt_m_icon_box_colored dt_module_general  dt_first ui-sortable-handle" data-name="icon_box_colored" data-placeholder="Icon Box Colored" style="opacity: 1;"><span class="ico-iconbox-colored dt_icon"></span>
+						<span class="dt_module_name">Icon Box Colored</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"><span class="title">Well Trained Professionals</span></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">type1</div><div data-option_name="fontawesome_icon" class="fontawesome_icon dt_module_setting">trophy</div><div data-option_name="custom_icon" class="custom_icon dt_module_setting"></div><div data-option_name="title" class="title dt_module_setting">Well Trained Professionals</div><div data-option_name="bgcolor" class="bgcolor dt_module_setting">#087dc2</div><div data-option_name="ibc_content" class="ibc_content dt_module_setting dtthemes_module_content"><p>Nunc at pretium est curabitur commodo leac est venenatis egestas sed aliquet auguevelit.<br>
+[dt_sc_button link='#' size='small' target='_blank']Know More[/dt_sc_button]</p>
+</div></div>
+						</div></div>
+						<div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div><div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div></div><div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_third dt_m_column_has_modules ui-sortable-handle" data-name="one_third" data-placeholder="1/3 Column" style="opacity: 1; z-index: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name" style="opacity: 1;">1/3 Column</span>
+							<span class="dt_move"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+							</div>
+							<div class="dt_columndata_settings"><div id="column_data" data-type="type2"></div></div>
+						</div>
+						<div class="dt_modules_holder dt_modules_holder dt_modules_container ui-droppable ui-sortable"><div class="dt_module dt_m_icon_box_colored dt_module_general  dt_first ui-sortable-handle" data-name="icon_box_colored" data-placeholder="Icon Box Colored" style="opacity: 1;"><span class="ico-iconbox-colored dt_icon"></span>
+						<span class="dt_module_name">Icon Box Colored</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"><span class="title">Well Trained Professionals</span></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">type1</div><div data-option_name="fontawesome_icon" class="fontawesome_icon dt_module_setting">trophy</div><div data-option_name="custom_icon" class="custom_icon dt_module_setting"></div><div data-option_name="title" class="title dt_module_setting">Well Trained Professionals</div><div data-option_name="bgcolor" class="bgcolor dt_module_setting">#087dc2</div><div data-option_name="ibc_content" class="ibc_content dt_module_setting dtthemes_module_content"><p>Nunc at pretium est curabitur commodo leac est venenatis egestas sed aliquet auguevelit.<br>
+[dt_sc_button link='#' size='small' target='_blank']Know More[/dt_sc_button]</p>
+</div></div>
+						</div></div>
+						<div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div><div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div></div>            <div class="dt_module dt_m_hr_invisible dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="hr_invisible" data-placeholder="Whitespace" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Whitespace</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_third dt_m_column_has_modules ui-sortable-handle dt_first" data-name="one_third" data-placeholder="1/3 Column" style="opacity: 1; z-index: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name" style="opacity: 1;">1/3 Column</span>
+							<span class="dt_move"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+							</div>
+							<div class="dt_columndata_settings"><div id="column_data"></div></div>
+						</div>
+						<div class="dt_modules_holder dt_modules_holder dt_modules_container ui-droppable ui-sortable"><div class="dt_module dt_m_icon_box_colored dt_module_general  ui-resizable dt_first ui-sortable-handle" data-name="icon_box_colored" data-placeholder="Icon Box Colored" style="opacity: 1;"><span class="ico-iconbox-colored dt_icon"></span>
+						<span class="dt_module_name">Icon Box Colored</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"><span class="title">Well Trained Professionals</span></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">type1</div><div data-option_name="fontawesome_icon" class="fontawesome_icon dt_module_setting">trophy</div><div data-option_name="custom_icon" class="custom_icon dt_module_setting"></div><div data-option_name="title" class="title dt_module_setting">Well Trained Professionals</div><div data-option_name="bgcolor" class="bgcolor dt_module_setting">#6dc82b</div><div data-option_name="ibc_content" class="ibc_content dt_module_setting dtthemes_module_content"><p>Nunc at pretium est curabitur commodo leac est venenatis egestas sed aliquet auguevelit.<br> [dt_sc_button link='#' size='small' target='_blank']Know More[/dt_sc_button]</p></div></div></div></div>
+						<div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div>
+					<div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div></div><div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_third dt_m_column_has_modules ui-sortable-handle" data-name="one_third" data-placeholder="1/3 Column" style="opacity: 1; z-index: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name" style="opacity: 1;">1/3 Column</span>
+							<span class="dt_move"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+							</div>
+							<div class="dt_columndata_settings"><div id="column_data"></div></div>
+						</div>
+						<div class="dt_modules_holder dt_modules_holder dt_modules_container ui-droppable ui-sortable"><div class="dt_module dt_m_icon_box_colored dt_module_general  ui-resizable dt_first ui-sortable-handle" data-name="icon_box_colored" data-placeholder="Icon Box Colored" style="opacity: 1;"><span class="ico-iconbox-colored dt_icon"></span>
+						<span class="dt_module_name">Icon Box Colored</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"><span class="title">Well Trained Professionals</span></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">type1</div><div data-option_name="fontawesome_icon" class="fontawesome_icon dt_module_setting">trophy</div><div data-option_name="custom_icon" class="custom_icon dt_module_setting"></div><div data-option_name="title" class="title dt_module_setting">Well Trained Professionals</div><div data-option_name="bgcolor" class="bgcolor dt_module_setting">#6dc82b</div><div data-option_name="ibc_content" class="ibc_content dt_module_setting dtthemes_module_content"><p>Nunc at pretium est curabitur commodo leac est venenatis egestas sed aliquet auguevelit.<br> [dt_sc_button link='#' size='small' target='_blank']Know More[/dt_sc_button]</p></div></div></div></div>
+						<div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div><div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div></div><div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_third dt_m_column_has_modules ui-sortable-handle" data-name="one_third" data-placeholder="1/3 Column" style="opacity: 1; z-index: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name" style="opacity: 1;">1/3 Column</span>
+							<span class="dt_move"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+							</div>
+							<div class="dt_columndata_settings"><div id="column_data"></div></div>
+						</div>
+						<div class="dt_modules_holder dt_modules_holder dt_modules_container ui-droppable ui-sortable"><div class="dt_module dt_m_icon_box_colored dt_module_general  ui-resizable dt_first ui-sortable-handle" data-name="icon_box_colored" data-placeholder="Icon Box Colored" style="opacity: 1;"><span class="ico-iconbox-colored dt_icon"></span>
+						<span class="dt_module_name">Icon Box Colored</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"><span class="title">Well Trained Professionals</span></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">type1</div><div data-option_name="fontawesome_icon" class="fontawesome_icon dt_module_setting">trophy</div><div data-option_name="custom_icon" class="custom_icon dt_module_setting"></div><div data-option_name="title" class="title dt_module_setting">Well Trained Professionals</div><div data-option_name="bgcolor" class="bgcolor dt_module_setting">#6dc82b</div><div data-option_name="ibc_content" class="ibc_content dt_module_setting dtthemes_module_content"><p>Nunc at pretium est curabitur commodo leac est venenatis egestas sed aliquet auguevelit.<br> [dt_sc_button link='#' size='small' target='_blank']Know More[/dt_sc_button]</p></div></div></div></div>
+						<div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div><div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div></div>
+            

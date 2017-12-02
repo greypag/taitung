@@ -1,0 +1,52 @@
+{
+    "repositories": [
+        {
+            "type":"git",
+            "url":"https://github.com/AGolubnichenko/agp-core/"
+        },        
+        {
+            "type": "package",
+            "package": {
+                "name": "agp/agp-fontawesome/src",
+                "version": "4.7.0",
+                "source": {
+                    "url": "https://github.com/FortAwesome/Font-Awesome",
+                    "type": "git",
+                    "reference": "master"
+                }
+            }                        
+        }
+    ],
+    "minimum-stability": "dev",
+    "require" : {
+        "agp/agp-core": "master",
+        "agp/agp-fontawesome/src": "*",
+        "mustangostang/spyc": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Agp\\Plugin\\Fac\\": "classes/"
+        }
+    },    
+    "scripts": {
+        "post-install-cmd": [
+            "rm -rf vendor/**/**/.git", 
+            "grep -rl 'Agp' ./vendor/ | xargs sed -i 's/Agp\\\\Core/Fac\\\\Core/g'",
+            "grep -rl 'Agp' ./vendor/ | xargs sed -i 's/Agp\\\\\\\\Core/Fac\\\\\\\\Core/g'"
+        ],
+        "post-update-cmd": [
+            "rm -rf vendor/**/**/.git", 
+            "grep -rl 'Agp' ./vendor/ | xargs sed -i 's/Agp\\\\Core/Fac\\\\Core/g'",
+            "grep -rl 'Agp' ./vendor/ | xargs sed -i 's/Agp\\\\\\\\Core/Fac\\\\\\\\Core/g'"
+        ],
+        "post-autoload-dump": [
+            "if test -d 'vendor/agp/agp-fontawesome/css'; then rm -rf vendor/agp/agp-fontawesome/css; fi",            
+            "if test -d 'vendor/agp/agp-fontawesome/fonts'; then rm -rf vendor/agp/agp-fontawesome/fonts; fi",            
+            "mv vendor/agp/agp-fontawesome/src/css vendor/agp/agp-fontawesome/css",
+            "mv vendor/agp/agp-fontawesome/src/fonts vendor/agp/agp-fontawesome/fonts",
+            "mv vendor/agp/agp-fontawesome/src/src/icons.yml vendor/agp/agp-fontawesome/icons.yml",
+            "mv vendor/agp/agp-fontawesome/src/component.json vendor/agp/agp-fontawesome/component.json",
+            "rm -r vendor/agp/agp-fontawesome/src"
+        ]        
+    }
+}

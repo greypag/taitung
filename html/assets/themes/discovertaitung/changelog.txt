@@ -1,0 +1,140 @@
+***Trendy Travel WordPress Theme Changelog ***
+
+2016.11.09 - version 3.1
+ * Page builder fix
+
+2016.10.15 - version 3.0
+ * BPanel UI design fixes for Events Calendar update
+
+2016.10.03 - version 2.9
+ * Woocommerce coupon code update css issue fixed
+ * WPML page builder issue fixed
+ * Dummy data content optimized
+ * Mailchimp updated to latest api 3.0
+ * Updated latest version of all third party plugins
+ * Font awesome css updated
+ * Social share links alignment issue fixed
+ * Page Builder UI enhancements
+ * Dummy content importer updated
+ * Unyson importer plugin included
+ * SSL compatible updated
+
+2016.08.17 - version 2.8
+ * WordPress 4.6 Compatible
+ * Visual Composer 4.12 Compatible
+ * Tribe events widget area class updated
+ * Some translation text missing updated
+ * BuddyPress cover image issue fixed
+ * Global sidebar theme option issue updated
+ * Some design issues updated
+
+2016.08.08 - version 2.7
+ * Map jQuery updated with Google map api
+
+2016.07.01 - version 2.6
+ * Latest TGM plugin updated
+ * Latest Responsive Styled Google Maps plugin updated for Google Maps API key request.
+ * Updated latest version of all third party plugins
+ * Little design tweaks fixed
+
+2016.04.21 - version 2.5
+ * WordPress 4.5 Compatible
+ * Updated latest version of all third party plugins
+ * Pagebuilder small issue fixed
+ * Some design issues fixed
+
+2016.03.24 - version 2.4
+ * Updated latest version of all third party plugins
+ * WordPress 4.4.2 Compatible
+ * WPML compatible issue updated
+ * Pagebuilder small issues fixed
+ * Titledbox shortcode updated
+ * Font awesome stylesheet updated
+ * Some translation texts updated
+ * Some design issues fixed
+
+2015.11.20 - version 2.3
+ * All plugins compatible checked
+ * Added retina support option in BPanel
+ * New Hotels list shortcode added
+ * Hotels & Places single page map issue fixed
+ * Some translation text updated
+ * New documentation updated
+ * Font awesome stylesheet updated
+ * WPML compatible issue updated
+ * BPanel media upload option updated
+ * Added global page layout option in BPanel
+ * WordPress 4.3.1 Compatible
+
+2015.07.29 - version 2.2
+ * All plugins compatible checked
+ * Woocommerce category listing fixed
+
+2015.07.10 - version 2.1
+ * One column shortcode issue fixed
+ * Captcha for contact form added
+ * Category option added for timeline shortcode
+ * Some design issues fixed
+ * Logged users rating issue fixed
+
+2015.06.24 - version 2.0
+ * Fixed XSS vulnerability in prettyPhoto jQuery library
+
+2015.04.25 - version 1.9
+ * Fixed XSS vulnerability
+ * Updated to TGM Plugin 2.4.1
+ * WordPress 4.2 Compatible
+ * Updated latest version of all third party plugins
+ * BPanel options issues fixed
+
+2015.03.23 - version 1.8
+ * Added search module disable option
+ * wpml-config.xml file updated
+ * Single post date disable option fixed
+ * Tour package shortcode issue fixed
+ * All plugins compatible checked
+ * Added "order" option in events shortcode
+
+2015.01.12 - version 1.7
+ * New Image Sizes updated
+
+2014.12.27 - version 1.6
+ * Now Retina ready
+ * Documentaion updated
+ * Added placeholder image disable option
+ * Theme & Plugin language files updated
+ * Added demo slider zip file
+ * rtl.css updated
+ * Dummy content file updated
+ * Some responsive issues fixed
+ * Few BPanel files updated
+
+2014.11.29 - version 1.5
+ * Added Hotels Reservation Module
+ * Added category option in Hotels Widget
+ * Added category option in Package List shortcode
+
+2014.10.24 - version 1.4
+ * Added New Page Builder to create pages
+ * All plugins Compatible checked
+ * Social widget class name updated
+
+2014.09.30 - version 1.3
+ * Jquery nice-scroll updated
+
+2014.09.11 - version 1.2
+ * WordPress 4.0 Compatible
+ * WooCommerce 2.2.2 Compatible
+ * Revolution Slider 4.6.0 updated
+ * Some BPanel option issues fixed
+ * Hotel details metabox issues fixed
+ * Included: Disable Loading bar option
+
+2014.08.21 - version 1.1
+ * Archive pages layout option issues fixed
+ * Places category archives page added
+ * BPanel appearance tab font selection updated
+ * rtl.css updated
+
+2014.07.26 - version 1.0
+ * First release!

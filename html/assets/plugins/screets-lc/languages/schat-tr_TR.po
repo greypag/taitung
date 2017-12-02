@@ -1,0 +1,1099 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Screets Chat X\n"
+"POT-Creation-Date: 2016-07-22 19:51+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Screets <support@screets.com>\n"
+"Language-Team: PolaT <omerenator@gmail.com>\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: core/library\n"
+
+#: back-end.php:123 core/options.php:661 core/options.php:662 front-end.php:152
+msgid "Online"
+msgstr "Çevrimiçi Olanlar"
+
+#: back-end.php:124 core/options.php:670 core/options.php:671 front-end.php:153
+msgid "Offline"
+msgstr "Çevrimdışı"
+
+#: back-end.php:125
+msgid "Saved"
+msgstr "Kaydedildi"
+
+#: back-end.php:126 core/templates/chatbox.php:45 front-end.php:151
+msgid "Please wait"
+msgstr "Lütfen bekleyin"
+
+#: back-end.php:127
+msgid "Connected"
+msgstr "Bağlı"
+
+#: back-end.php:128
+msgid "Active"
+msgstr "Aktif"
+
+#: back-end.php:129 front-end.php:142
+msgid "You"
+msgstr "You"
+
+#: back-end.php:130
+msgid "Operator"
+msgstr "Operator"
+
+#: back-end.php:131
+msgid "Web visitor"
+msgstr "Web ziyaretçisi"
+
+#: back-end.php:132 back-end.php:136
+msgid "In chat"
+msgstr "Sohbette"
+
+#: back-end.php:133
+msgid "Join chat"
+msgstr "Sohbete katıl"
+
+#: back-end.php:134
+msgid "Leave chat"
+msgstr "Sohbet terk et"
+
+#: back-end.php:135 core/templates/chatbox.php:158
+msgid "End chat"
+msgstr "Sohbeti sonlandır"
+
+#: back-end.php:137
+msgid "Ignore"
+msgstr "Görmezden gel"
+
+#: back-end.php:138
+msgid "Transfer"
+msgstr "Transfer"
+
+#: back-end.php:139
+msgid "Delete"
+msgstr "Sil"
+
+#: back-end.php:140
+msgid "Looking at"
+msgstr "Bakıyor"
+
+#: back-end.php:141
+msgid "Open"
+msgstr "Aç"
+
+#: back-end.php:142
+msgid "Close"
+msgstr "Kapat"
+
+#: back-end.php:143
+msgid "Popup"
+msgstr "Menü Popup"
+
+#: back-end.php:144
+msgid "Mode"
+msgstr "Mod"
+
+#: back-end.php:145 core/options.php:1069
+msgid "Feedback"
+msgstr "Geribildirim"
+
+#: back-end.php:148 core/templates/console.php:120
+msgid "Chat history"
+msgstr "Sohbet Geçmişi"
+
+#: back-end.php:149 front-end.php:150
+msgid "No internet connection"
+msgstr "İnternet bağlantısı yok"
+
+#: back-end.php:150
+msgid "Remove user"
+msgstr "Kullanıcıyı kaldır"
+
+#: back-end.php:151
+msgid "Are you sure you want to PERMANENTLY delete it?"
+msgstr "KALICI olarak silmek istediğinizden emin misiniz?"
+
+#: back-end.php:152
+msgid "Visitor won't be able to reply. Do you really want to end chat?"
+msgstr ""
+"Ziyaretçinin cevap vermesi mümkün olmayacaktır. Gerçekten sohbet "
+"sonlandırmak istiyor musunuz?"
+
+#: back-end.php:153
+msgid "Your message"
+msgstr "Mesajınız"
+
+#: back-end.php:154
+#, php-format
+msgid ""
+"Your Firebase isn't configured correctly! <a href=\"%s\">Go settings &raquo;"
+"</a>"
+msgstr ""
+"Firebase düzgün yapılandırılmamış! <a href=\"%s\">&raquo; ayarlara git</a>"
+
+#: back-end.php:155 front-end.php:161
+#, php-format
+msgid "%s has joined the chat"
+msgstr "%s sohbete katıldı"
+
+#: back-end.php:156 front-end.php:163
+#, php-format
+msgid "%s is typing"
+msgstr "%s yazıyor"
+
+#: back-end.php:157 front-end.php:162
+#, php-format
+msgid "%s has left the chat"
+msgstr "%s sohbetten ayrıldı"
+
+#: back-end.php:158
+msgid "Are you sure you want to end this chat?"
+msgstr "Sohbeti bitirmek istediğinize emin misiniz?"
+
+#: back-end.php:159
+msgid "Are you sure you want to leave chat?"
+msgstr "Sohbetten ayrılmak istediğinize emin misiniz?"
+
+#: back-end.php:160
+msgid "Are you sure you want to exit? You will be OFFLINE"
+msgstr "Çıkmak istediğinizden emin misiniz? ÇEVRİMDIŞI olacaksınız"
+
+#: back-end.php:161
+#, php-format
+msgid "This visitor is talking with <strong>%s</strong>"
+msgstr "Bu ziyaretçi <strong>%s</strong> ile konuşuyor"
+
+#: back-end.php:162
+msgid "Your chat data will be deleted PERMANENTLY!"
+msgstr "Sohbet verileri KALICI olarak silinecek."
+
+#: back-end.php:163
+msgid "Send a message to initiate chat"
+msgstr "Sohbet başlatmak için bir mesaj gönderin"
+
+#: back-end.php:164
+#, php-format
+msgid "%s is waiting for a reply"
+msgstr "%s cevabın için bekliyor"
+
+#: back-end.php:165
+#, php-format
+msgid "%s is online"
+msgstr "%s online"
+
+#: back-end.php:166
+#, php-format
+msgid "%s desktop notifications activated :) Good luck with sales"
+msgstr "%s masaüstü bildirimlerini aktif :) Satışta İyi şanslar"
+
+#: back-end.php:173 back-end.php:179 front-end.php:170 front-end.php:176
+msgid "1m"
+msgstr "1m"
+
+#: back-end.php:174 back-end.php:180 front-end.php:171 front-end.php:177
+#, php-format
+msgid "%dm"
+msgstr "%dm"
+
+#: back-end.php:175 front-end.php:172
+msgid "1h"
+msgstr "1h"
+
+#: back-end.php:176 front-end.php:173
+#, php-format
+msgid "%dh"
+msgstr "%dh"
+
+#: back-end.php:177 front-end.php:174
+msgid "1d"
+msgstr "1d"
+
+#: back-end.php:178 front-end.php:175
+#, php-format
+msgid "%dd"
+msgstr "%dd"
+
+#: back-end.php:181 front-end.php:178
+msgid "1y"
+msgstr "1y"
+
+#: back-end.php:182 front-end.php:179
+#, php-format
+msgid "%dy"
+msgstr "%dy"
+
+#: back-end.php:407 back-end.php:408 front-end.php:323
+msgid "Chat Console"
+msgstr "Chat Konsolu"
+
+#: back-end.php:452 back-end.php:453 core/fn.options.php:86
+msgid "Support"
+msgstr "Destek"
+
+#: back-end.php:478
+msgid "Operator Options"
+msgstr "Operator Ayarları"
+
+#: back-end.php:479
+msgid ""
+"Click <strong>Restart</strong> button in Chat Console > Settings after "
+"updating operator information"
+msgstr ""
+"Sohbet Konsolu'nda <strong>yeniden başlatın</strong> düğmesini tıklatın > "
+"işleç bilgilerini güncelleştirdikten sonra ayarları"
+
+#: back-end.php:485
+msgid "Operator Name"
+msgstr "Operatör Adı"
+
+#: back-end.php:573 back-end.php:612
+msgid "Category image"
+msgstr "Kategori resmi"
+
+#: back-end.php:574 back-end.php:615
+msgid "Set featured image"
+msgstr "Kapak resmi olarak belirle"
+
+#: back-end.php:578 back-end.php:619
+msgid "Remove image"
+msgstr "Resmi kaldır"
+
+#: core/fn.ajax.php:80 front-end.php:154
+msgid "New message"
+msgstr "Yeni mesaj"
+
+#: core/fn.ajax.php:126
+msgid "Visitor information"
+msgstr "Ziyaretçi bilgileri"
+
+#: core/fn.ajax.php:127
+msgid "Platform"
+msgstr "Platform"
+
+#: core/fn.ajax.php:131
+msgid "Location"
+msgstr "Konum"
+
+#: core/fn.ajax.php:132
+msgid "Current page"
+msgstr "Geçerli sayfa adı"
+
+#: core/fn.ajax.php:143 core/fn.ajax.php:185
+msgid "Successfully sent! Thank you"
+msgstr "Başarıyla gönderildi! Teşekkür ederim"
+
+#: core/fn.ajax.php:162 front-end.php:157
+msgid "No messages found"
+msgstr "Hiçbir mesaj bulunamadı."
+
+#: core/fn.ajax.php:166 front-end.php:156
+msgid "Email is invalid."
+msgstr "Email adresi yanlış."
+
+#: core/fn.ajax.php:172 core/fn.ajax.php:180
+msgid "Chat History"
+msgstr "Sohbet Geçmişi"
+
+#: core/fn.offline.php:53
+msgid "Something went wrong! Please try again"
+msgstr "Bir şeyler ters gitti! Lütfen tekrar deneyin"
+
+#: core/fn.options.php:68
+msgid "Options"
+msgstr "Seçenekler"
+
+#: core/fn.options.php:69
+#, php-format
+msgid "%s Options"
+msgstr "%s ayarları"
+
+#: core/fn.options.php:77
+msgid "General"
+msgstr "Genel"
+
+#: core/fn.options.php:78
+msgid "Site info"
+msgstr "Site hakkında"
+
+#: core/fn.options.php:79
+msgid "Design"
+msgstr "Tasarım"
+
+#: core/fn.options.php:80
+msgid "Popups"
+msgstr "Popuplar"
+
+#: core/fn.options.php:82 core/templates/console.php:110
+msgid "Users"
+msgstr "Kullanıcılar"
+
+#: core/fn.options.php:83
+msgid "Integrations"
+msgstr "Entegrasyon"
+
+#: core/fn.options.php:84
+msgid "Advanced"
+msgstr "Gelişmiş"
+
+#: core/fn.post-types.php:29
+msgid "Offline Messages"
+msgstr "Çevrimdışı Mesajlar"
+
+#: core/fn.post-types.php:30 core/fn.post-types.php:31
+msgid "Offline Message"
+msgstr "Çevrimdışı Mesaj"
+
+#: core/fn.post-types.php:32
+msgid "Parent Offline Message:"
+msgstr "Ana Çevrimdışı Mesaj:"
+
+#: core/fn.post-types.php:33
+msgid "All Offline Messages"
+msgstr "Tüm Çevrimdışı Mesajlar"
+
+#: core/fn.post-types.php:34
+msgid "View Offline Message"
+msgstr "Çevrimdışı Mesaj Görünümü"
+
+#: core/fn.post-types.php:35
+msgid "Add New Offline Message"
+msgstr "Yeni Çevrimdışı Mesaj ekle"
+
+#: core/fn.post-types.php:36
+msgid "New Offline Message"
+msgstr "Yeni Çevrimdışı Mesaj"
+
+#: core/fn.post-types.php:37
+msgid "Edit Offline Message"
+msgstr "Çevrimdışı Mesaj Düzenle"
+
+#: core/fn.post-types.php:38
+msgid "Update Offline Message"
+msgstr "Çevrimdışı Mesaj Güncelleme"
+
+#: core/fn.post-types.php:39
+msgid "Search offline message"
+msgstr "Çevrimdışı mesaj ara"
+
+#: core/fn.post-types.php:40
+msgid "No offline message found"
+msgstr "Çevrimdışı mesaj bulunamadı"
+
+#: core/fn.post-types.php:41
+msgid "No offline message found in Trash"
+msgstr "Çöp Kutusunda Çevrimdışı mesaj bulunamadı"
+
+#: core/fn.skin.php:69
+msgid "Required"
+msgstr "Gerekli"
+
+#: core/fn.topics.php:184
+msgid "No topics found"
+msgstr "Hiç başlık bulunamadı"
+
+#: core/fn.users.php:265
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+#: core/metaboxes.php:43
+msgid "Click action"
+msgstr "Eylemi tıklatın"
+
+#: core/metaboxes.php:44
+msgid "This action will occur when visitor clicks the topic in the list"
+msgstr "Bu eylem ziyaretçi listesinde konuya tıkladığında ortaya çıkar"
+
+#: core/metaboxes.php:46
+msgid "Show topic content"
+msgstr "Konu içeriğini göster"
+
+#: core/metaboxes.php:47
+msgid "Connect to operator"
+msgstr "Operatöre bağlanın"
+
+#: core/options.php:38 core/options.php:1427
+msgid "Enable"
+msgstr "Etkinleştir"
+
+#: core/options.php:39 core/options.php:1028 core/options.php:1144
+msgid "Show"
+msgstr "Göster"
+
+#: core/options.php:40
+msgid "Hidden"
+msgstr "Gizli"
+
+#: core/options.php:41
+msgid ""
+"You can hide chat widget on all website except the specific pages and "
+"categories you select below"
+msgstr ""
+"Aşağıda seçtiğiniz belirli sayfalar ve kategoriler hariç tüm web sitesinde "
+"sohbet aracını gizleyebilirsiniz"
+
+#: core/options.php:48
+msgid "Display"
+msgstr "Göster"
+
+#: core/options.php:48
+#, php-format
+msgid ""
+"<a href='%s' target='_blank'>wp_footer()</a> <span class='scx-ico-new-win'></"
+"span> function has to be located in your theme"
+msgstr ""
+"<a href='%s' target='_blank'>wp_footer()</a> <span class='scx-ico-new-win'></"
+"span>fonksiyonu için temada yer vardır"
+
+#: core/options.php:50
+msgid "Hide on homepage"
+msgstr "Ana sayfada gizle"
+
+#: core/options.php:51
+msgid "Hide when all operators offline"
+msgstr "Tüm operatörler çevrimdışı olduğu zaman gizle"
+
+#: core/options.php:52
+msgid "Disable on mobile devices"
+msgstr "Mobil cihazlarda devre dışı bırak"
+
+#: core/options.php:53
+msgid "Hide from pages that uses SSL"
+msgstr "Kullanan SSL sayfalarını gizle"
+
+#: core/options.php:60
+msgid "Specific pages & categories"
+msgstr "Belirli sayfalar & kategoriler"
+
+#: core/options.php:66
+msgid "Always show on those pages:"
+msgstr "Her zaman bu sayfalarda göster:"
+
+#: core/options.php:73
+msgid "Always show on those categories:"
+msgstr "Her zaman bu kategorilerde göster:"
+
+#: core/options.php:80
+msgid "Who should see chat box?"
+msgstr "Kim sohbet kutusu görmelisiniz?"
+
+#: core/options.php:82
+msgid "Public"
+msgstr "Herkes Görebilir"
+
+#: core/options.php:82
+msgid "Anyone who visits your website"
+msgstr "Web sitenizi ziyaret eden herkes"
+
+#: core/options.php:83
+msgid "Registered users"
+msgstr "Kayıtlı kullanıcılar"
+
+#: core/options.php:83
+msgid "All users who logged in WordPress"
+msgstr "WordPress'te oturum açan tüm kullanıcılar"
+
+#: core/options.php:84
+msgid "Specific user roles"
+msgstr "Özel kullanıcı rolleri"
+
+#: core/options.php:84
+msgid "Users who assigned to some specific roles"
+msgstr "Bazı özel rollere atanan kullanıcılar"
+
+#: core/options.php:85
+msgid "Only admins & operators"
+msgstr "Sadece yöneticiler & operatörler"
+
+#: core/options.php:94
+msgid "Make visible for only those user roles"
+msgstr "Sadece bu kullanıcı rolleri için görünür hale getir"
+
+#: core/options.php:101
+msgid "Screets API Key"
+msgstr "Screets API Anahtarı"
+
+#: core/options.php:102
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\">Get your API key</a>"
+msgstr "<a href=\"%s\" target=\"_blank\">API anahtarı al</a>"
+
+#: core/options.php:102
+msgid ""
+"It is required to activate the plugin and get <strong>free updates</strong>."
+msgstr ""
+"Eklenti etkinleştirme ve <strong>ücretsiz güncellemeleri</strong> almak "
+"gereklidir."
+
+#: core/options.php:102
+msgid ""
+"Note that you might need to re-login WordPress after updating your API key."
+msgstr ""
+"API anahtarınızı güncelledikten sonra WordPress girişi yeniden gerekebilir "
+"unutmayın."
+
+#: core/options.php:115 core/options.php:116
+msgid "Site name"
+msgstr "Site adı"
+
+#: core/options.php:117
+msgid "When needed, we will show this name as your site/company name"
+msgstr ""
+"İhtiyaç duyulduğunda, sitenizin / şirket adı olarak bu isim gösterecektir"
+
+#: core/options.php:123
+msgid "Site url"
+msgstr "Site url"
+
+#: core/options.php:125
+msgid ""
+"We will redirect your visitors to this URL from emails or other platforms"
+msgstr ""
+"E-mail veya diğer platformlardan bu URL'ye ziyaretçi yönlendirmesi yapacağız"
+
+#: core/options.php:132 core/options.php:133
+msgid "Site email address(es)"
+msgstr "Site e-mail adres(leri)"
+
+#: core/options.php:132
+msgid "The plugin notifications will be sent to this email address"
+msgstr "Eklenti bildirimleri bu e-mail adresine gönderilecektir"
+
+#: core/options.php:132
+#, php-format
+msgid ""
+"If you need SMTP configuration, you will want to use %s plugin or other good "
+"one"
+msgstr ""
+"SMTP yapılandırması gerekiyorsa, %s eklenti veya başka birini kullanmak "
+"isteyeceksiniz"
+
+#: core/options.php:134
+msgid "Separate email addresses with comma ','"
+msgstr "E-mail adreslerini Virgül ile ayrı ','"
+
+#: core/options.php:140 core/options.php:141
+msgid "Site reply-to address"
+msgstr "Site Cevap Adresi"
+
+#: core/options.php:140
+msgid "Your visitors will reply to this email"
+msgstr "Ziyaretçiler bu e-maile cevap verecektir"
+
+#: core/options.php:142
+msgid "One email address only"
+msgstr "Sadece bir e-mail adresi"
+
+#: core/options.php:148
+msgid "Site logo"
+msgstr "Site logosu"
+
+#: core/options.php:149
+msgid "Recommended size"
+msgstr "Önerilen boyut"
+
+#: core/options.php:149
+msgid ""
+"Logo will be used in emails (sent to visitors) and other useful places as "
+"well"
+msgstr ""
+"Logo (ziyaretçiler için gönderilen) e-mail ve diğer yararlı yerlerde de "
+"kullanılacak"
+
+#: core/options.php:156
+msgid "Force to use as default operator avatar"
+msgstr "Varsayılan operatör avatar olarak kullanmak için Zorla"
+
+#: core/options.php:162 core/options.php:1026 core/options.php:1142
+msgid "Social links"
+msgstr "Sosyal Bağlantılar:"
+
+#: core/options.php:162
+msgid "Enter full URL (i.e. https://twitter.com/screetscom)"
+msgstr "Tam URL girin (Örn. https://twitter.com/saridolmuscom)"
+
+#: core/options.php:239
+msgid "Primary color"
+msgstr "Ana renk"
+
+#: core/options.php:246
+msgid "Foreground color"
+msgstr "Ön plan rengi"
+
+#: core/options.php:253
+msgid "Link color"
+msgstr "Bağlantı Rengi"
+
+#: core/options.php:260
+msgid "Popup background color"
+msgstr "Popup arka plan rengi"
+
+#: core/options.php:267
+msgid "Border color"
+msgstr "Kenar - Renk"
+
+#: core/options.php:296 core/options.php:299
+msgid "Popup size"
+msgstr "Popup boyutu"
+
+#: core/options.php:309
+msgid "Position"
+msgstr "Pozisyon"
+
+#: core/options.php:310
+msgid "Which side do you want to display chat box"
+msgstr "Hangi tarafta sohbet kutusu görüntülemek istiyorsunuz"
+
+#: core/options.php:313
+msgid "Top"
+msgstr "Üst"
+
+#: core/options.php:314
+msgid "Bottom"
+msgstr "Alt"
+
+#: core/options.php:323
+msgid "Left"
+msgstr "Sol"
+
+#: core/options.php:324
+msgid "Right"
+msgstr "Sağ"
+
+#: core/options.php:331
+msgid "Horizontal offset"
+msgstr "Yatay yerleştir"
+
+#: core/options.php:331
+msgid ""
+"Sets the horizontal distance between the page bottom and the chat widget"
+msgstr "Sayfa altı ve sohbet eklentisi arasındaki yatay mesafeyi ayarlar"
+
+#: core/options.php:340
+msgid "Vertical offset"
+msgstr "Dikey Yerleştir"
+
+#: core/options.php:340
+msgid "Sets the vertical distance between the edge of page and the chat widget"
+msgstr "Sayfanın kenarı ve sohbet eklentisi arasındaki dikey mesafeyi ayarlar"
+
+#: core/options.php:356 core/options.php:357
+msgid "Radius"
+msgstr "Yakınlık"
+
+#: core/options.php:388
+#, php-format
+msgid ""
+"The %s area is the space between the content of the chat box and its border"
+msgstr "%s alan sohbet kutusu içeriği ve sınır arasında yer almaktadır"
+
+#: core/options.php:445
+msgid "Avatar size"
+msgstr "Avatar boyutu"
+
+#: core/options.php:455
+msgid "Avatar radius"
+msgstr "Avatar yarıçapı"
+
+#: core/options.php:456
+msgid ""
+"If avatar size and radius values are the same, the avatar will be circle"
+msgstr "Avatar boyutu ve yarıçap değerleri aynıysa, avatar Daire olacak"
+
+#: core/options.php:466
+msgid "Shadow"
+msgstr "Gölge"
+
+#: core/options.php:469
+msgid "No shadow"
+msgstr "Gölge Yok"
+
+#: core/options.php:470
+msgid "Key light"
+msgstr "Işık Anahtarı"
+
+#: core/options.php:471
+msgid "Ambient light"
+msgstr "Ortam ışığı"
+
+#: core/options.php:472
+msgid "Area light"
+msgstr "Bölge ışığı"
+
+#: core/options.php:479
+msgid "Shadow opacity"
+msgstr "Gölge opaklık"
+
+#: core/options.php:497
+msgid "Typography"
+msgstr "Tipografi"
+
+#: core/options.php:498
+msgid "Select your default font style"
+msgstr "Varsayılan yazı stilini seçin"
+
+#: core/options.php:634
+msgid "White label"
+msgstr "Beyaz etiket"
+
+#: core/options.php:635
+msgid "Show Screets logo"
+msgstr "Göster Screets logosu"
+
+#: core/options.php:635
+msgid ""
+"It will help us to increase the plugin popularity and create better "
+"community. A good community brings lots of benefits like extensions, new "
+"ideas and improvements."
+msgstr ""
+"Bu eklenti popülerliğini artırmak ve daha iyi bir toplum oluşturmamız için "
+"bize yardımcı olacaktır. İyi bir toplum uzantıları, yeni fikirler ve "
+"gelişmeler gibi pek çok faydaları da beraberinde getiriyor."
+
+#: core/options.php:642
+msgid "Chat button"
+msgstr "Sohbet Butonu"
+
+#: core/options.php:652 core/options.php:743 core/options.php:1041
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#: core/options.php:654 core/options.php:745 core/options.php:1043
+#: core/options.php:1429
+msgid "Yes"
+msgstr "Evet"
+
+#: core/options.php:655 core/options.php:746 core/options.php:1044
+#: core/options.php:1430
+msgid "No"
+msgstr "Hayır"
+
+#: core/options.php:661 core/options.php:662 core/options.php:670
+#: core/options.php:671
+msgid "Button title"
+msgstr "Buton başlık"
+
+#: core/options.php:679
+msgid "Button size"
+msgstr "Buton boyutu"
+
+#: core/options.php:680
+msgid "0 (zero): No fixed size"
+msgstr "0 (sıfır): Sabit boyut yok"
+
+#: core/options.php:737
+msgid "Pre-chat popup"
+msgstr "Ön sohbet açılır"
+
+#: core/options.php:752 core/options.php:753 core/options.php:858
+#: core/options.php:859 core/options.php:910 core/options.php:911
+#: core/options.php:1050 core/options.php:1051
+msgid "Title"
+msgstr "Başlık"
+
+#: core/options.php:761 core/options.php:762 core/options.php:919
+#: core/options.php:920 core/options.php:1059 core/options.php:1060
+msgid "Greeting"
+msgstr "karşılama"
+
+#: core/options.php:771 core/options.php:929
+msgid "Form fields"
+msgstr "Form alanları"
+
+#: core/options.php:785 core/options.php:944
+msgid "Required fields"
+msgstr "Gerekli alanlar"
+
+#: core/options.php:786 core/options.php:945
+msgid "Choose required fields"
+msgstr "Gerekli alanları seçin"
+
+#: core/options.php:800 core/options.php:960
+msgid "Translate fields"
+msgstr "Çeviri alanları"
+
+#: core/options.php:844 core/options.php:1010
+msgid "Footer note"
+msgstr "Dipnot"
+
+#: core/options.php:852
+msgid "Online popup"
+msgstr "Online açılan menüsü"
+
+#: core/options.php:867 core/options.php:868
+msgid "Welcome message"
+msgstr "Karşılama mesajı"
+
+#: core/options.php:877 core/options.php:878
+msgid "First automatic reply"
+msgstr "İlk otomatik cevap"
+
+#: core/options.php:886 core/options.php:887
+msgid "Reply box placeholder"
+msgstr "Cevap kutusundaki yer tutucu"
+
+#: core/options.php:895
+msgid "Send button"
+msgstr "Gönder Butonu"
+
+#: core/options.php:896
+msgid "Send"
+msgstr "Gönder"
+
+#: core/options.php:904
+msgid "Offline popup"
+msgstr "Çevrimdışı açılır menüsü"
+
+#: core/options.php:1001 core/options.php:1002
+msgid "Button text"
+msgstr "Buton metni"
+
+#: core/options.php:1018
+msgid "Success message"
+msgstr "Başarılı Mesaj"
+
+#: core/options.php:1029 core/options.php:1145
+msgid "Hide"
+msgstr "Gizle"
+
+#: core/options.php:1035
+msgid "Post-chat popup"
+msgstr "Post-sohbet açılır"
+
+#: core/options.php:1070 core/options.php:1071
+msgid "Rating title"
+msgstr "Değerlendirme Başlığı"
+
+#: core/options.php:1079 core/options.php:1080
+msgid "Like button"
+msgstr "Beğen butonu"
+
+#: core/options.php:1089 core/options.php:1090
+msgid "Dislike button"
+msgstr "Beğenmedim butonu"
+
+#: core/options.php:1099 core/options.php:1100
+msgid "After voting message"
+msgstr "mesajından sonra oylama"
+
+#: core/options.php:1108 core/options.php:1109
+msgid "Email field"
+msgstr "E-posta Alanı"
+
+#: core/options.php:1117
+msgid "Buttons"
+msgstr "Düğmeler"
+
+#: core/options.php:1214
+msgid "Pre-chat form fields"
+msgstr "Ön-sohbet form alanları"
+
+#: core/options.php:1236
+msgid "Offline form fields"
+msgstr "Çevrimdışı form alanları"
+
+#: core/options.php:1277 core/options.php:1278
+msgid "Guest prefix"
+msgstr "Misafir öneki"
+
+#: core/options.php:1279
+msgid ""
+"Visitors who didn't provide name or email will take guest name. For example, "
+"\"Guest-1234\""
+msgstr ""
+"adını veya e-mailini vermeyen ziyaretçiler konuk adını alacaktır. Örneğin, "
+"\"Misafir-1234\""
+
+#: core/options.php:1287
+msgid "Operators"
+msgstr "Operatörler"
+
+#: core/options.php:1292
+msgid "List Operators"
+msgstr "Liste Operatörleri"
+
+#: core/options.php:1292
+msgid "Add New Operator"
+msgstr "Yeni Operatör Ekle"
+
+#: core/options.php:1298
+msgid "Operator capabilities"
+msgstr "Operatör yetenekleri"
+
+#: core/options.php:1298
+#, php-format
+msgid ""
+"To add more capabilities to CX Operators, consider to use %s plugin or other "
+"good one"
+msgstr ""
+"CX Operatörleri daha fazla yetenekleri eklemek için, %s eklentisi veya "
+"diğerlerini kullanmak için düşünün"
+
+#: core/options.php:1300
+msgid "Use chat console and answer visitors"
+msgstr "Sohbet konsolu ile ziyaretçilere cevabı kullanın"
+
+#: core/options.php:1301
+msgid "See chat logs"
+msgstr "sohbet günlüklerine bakın"
+
+#: core/options.php:1302
+msgid "Manage chat options"
+msgstr "Sohbet seçeneklerini yönet"
+
+#: core/options.php:1327
+#, php-format
+msgid ""
+"Create new project with <a href=\"%s\" target=\"_blank\">Google Firebase "
+"API</a>"
+msgstr ""
+"<a href=\"%s\" target=\"_blank\">Google üssü API</a> ile yeni bir proje "
+"oluşturma"
+
+#: core/options.php:1427
+msgid ""
+"Install Pushover to your mobile device or desktop (Mac or PC) and receive "
+"notifications from the plugin"
+msgstr ""
+"Mobil cihazınızdan ya da masaüstü (Mac veya PC) için Kolay kullanım kurun ve "
+"eklenti gelen bildirimleri alın"
+
+#: core/options.php:1428
+msgid "Enable this application"
+msgstr "Bu uygulamayı etkinleştir"
+
+#: core/options.php:1435
+msgid ""
+"Use that image below as \"App Icon\" when creating your Pushover application:"
+"<br><a href=\""
+msgstr ""
+"Kolay kullanım uygulaması oluştururken \"Uygulama Simgesi\" olarak aşağıda "
+"resim kullanın:<br><a href=\""
+
+#: core/options.php:1441 core/options.php:1442
+msgid "User key"
+msgstr "Kullanıcı anahtarı"
+
+#: core/options.php:1443
+msgid "Create an application and get your keys"
+msgstr "Bir uygulama oluştur ve anahtarlarını al"
+
+#: core/options.php:1450
+msgid "After creating application, you will see the key"
+msgstr "Uygulamayı oluşturduktan sonra, anahtar göreceksiniz"
+
+#: core/options.php:1477 core/options.php:1478
+msgid "Reverse proxy IPs"
+msgstr "Geri proxy IP'leri"
+
+#: core/options.php:1479
+msgid ""
+"If your server is behind a reverse proxy, you must whitelist the proxy IP "
+"addresses from which WordPress should trust the HTTP_X_FORWARDED_FOR header "
+"in order to properly identify the visitor's IP address. Comma-delimited, e."
+"g. '10.0.1.200,10.0.1.201'"
+msgstr ""
+"Sunucu bir geri proxy arkasında ise, WordPress düzgün ziyaretçinin IP "
+"adresini belirlemek amacıyla hangi proxy IP adresleri beyaz listeye gerekir "
+"HTTP_X_FORWARDED_FOR başlığına güvenin . Virgülle ayrılmış, örneğin "
+"'10 .0.1.200,10.0.1.201 '"
+
+#: core/options.php:1485 core/options.php:1486
+msgid "Custom CSS"
+msgstr "Özel CSS kodu"
+
+#: core/templates/chatbox.php:38 core/templates/console.php:75
+#: front-end.php:149
+msgid "Connecting"
+msgstr "Baglanıyor"
+
+#: core/templates/chatbox.php:106 core/templates/chatbox.php:144
+msgid ""
+"Operators cannot test the plugin from here. Please use other browser or "
+"computer to test the plugin"
+msgstr ""
+"Operatörler buradan eklentiyi test edemez. Eklentiyi test etmek için başka "
+"bir tarayıcı veya bilgisayar kullanın"
+
+#: core/templates/chatbox.php:200
+msgid "Your feedback"
+msgstr "Görüşleriniz"
+
+#: core/templates/console.php:27
+msgid "Operator Settings"
+msgstr "Operatör Ayarları"
+
+#: core/templates/console.php:33
+msgid "Pushover Device Name"
+msgstr "Kolay Kullanım Cihaz Adı"
+
+#: core/templates/console.php:35
+msgid "Separate multiple devices by a comma \",\""
+msgstr "Birden fazla cihaz ise virgül ile ayırın\",\""
+
+#: core/templates/console.php:39
+msgid "Notifications"
+msgstr "Bildirimler"
+
+#: core/templates/console.php:43
+msgid "Disable new visitor notifications"
+msgstr "Yeni ziyaretçi bildirimlerini devre dışı bırak"
+
+#: core/templates/console.php:48
+msgid "Disable new message notifications"
+msgstr "Yeni ileti bildirimlerini devre dışı bırak"
+
+#: core/templates/console.php:55
+msgid ""
+"It is helpful if something wrong in chat connections or chat transmissions. "
+"It doesn't delete chat data"
+msgstr ""
+"Sohbet bağlantıları veya sohbet yayınlarında yanlış bir şey varsa size "
+"yararlı olur. Bu sohbet verileri silinmez"
+
+#: core/templates/console.php:55
+msgid "Restart"
+msgstr "Yeniden Başlat"
+
+#: core/templates/console.php:76
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: core/templates/console.php:93
+msgid "Get notified of new messages"
+msgstr "Yeni Mesajlardan haberdar olun"
+
+#: core/templates/console.php:94
+msgid "Turn on desktop notifications"
+msgstr "Masaüstü bildirimlerini açın"
+
+#: core/templates/console.php:114
+msgid "Web visitors"
+msgstr "Web ziyaretçisi"
+
+#: core/templates/console.php:122
+msgid "Search in chats"
+msgstr "sohbetlerde Ara"
+
+#: front-end.php:155
+msgid "Please fill out all required fields."
+msgstr "Gerekli tüm alanları doldurun."
+
+#: front-end.php:158
+msgid "We're online!"
+msgstr "Online olduk!"
+
+#: front-end.php:159
+msgid "We're offline now"
+msgstr "Şuan Çevrimdışıyız"
+
+#: front-end.php:160
+msgid "Are you sure you want to end chat?"
+msgstr "Sohbeti bitirmek istediğinize emin misiniz?"

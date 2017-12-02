@@ -1,0 +1,3 @@
+#wp-admin-bar-view-store, #wp-admin-bar-vc_inline-admin-bar-link, #vc_load-inline-editor, .custom-box.meta-fields, .sub-title.custom-box {
+    display: none;
+}

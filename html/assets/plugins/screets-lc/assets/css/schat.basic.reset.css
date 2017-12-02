@@ -1,0 +1,234 @@
+/*!
+ * Screets Live Chat - Reset stylesheet
+ * Author: @screetscom
+ *
+ * COPYRIGHT © 2016 Screets d.o.o. All rights reserved.
+ * This  is  commercial  software,  only  users  who have purchased a valid
+ * license  and  accept  to the terms of the  License Agreement can install
+ * and use this program.
+ */
+
+@charset "UTF-8";
+
+/**
+ * Reset
+ * ------------------------------
+ */
+ 	#schat-widget {
+		-webkit-font-smoothing: subpixel-antialiased;
+ 	}
+
+	#schat-widget, #schat-widget h1, #schat-widget h2, #schat-widget h3,
+	#schat-widget h4, #schat-widget h5, #schat-widget h6, #schat-widget p,
+	#schat-widget td, #schat-widget dl, #schat-widget tr, #schat-widget dt,
+	#schat-widget ol, #schat-widget form, #schat-widget select,
+	#schat-widget option, #schat-widget pre, #schat-widget div,
+	#schat-widget table, #schat-widget th, #schat-widget tbody,
+	#schat-widget tfoot, #schat-widget caption, #schat-widget thead,
+	#schat-widget ul, #schat-widget li, #schat-widget address,
+	#schat-widget blockquote, #schat-widget dd, #schat-widget fieldset,
+	#schat-widget li, #schat-widget iframe, #schat-widget strong,
+	#schat-widget legend, #schat-widget em, #schat-widget s,
+	#schat-widget cite, #schat-widget span, #schat-widget input,
+	#schat-widget sup, #schat-widget label, #schat-widget dfn,
+	#schat-widget object, #schat-widget big, #schat-widget q,
+	#schat-widget font, #schat-widget samp, #schat-widget acronym,
+	#schat-widget small, #schat-widget img, #schat-widget strike,
+	#schat-widget code, #schat-widget sub, #schat-widget ins,
+	#schat-widget textarea, #schat-widget var, #schat-widget a,
+	#schat-widget abbr, #schat-widget applet, #schat-widget del,
+	#schat-widget kbd, #schat-widget tt, #schat-widget b, #schat-widget i,
+	#schat-widget hr, #schat-widget article, #schat-widget aside,
+	#schat-widget dialog, #schat-widget figure, #schat-widget footer,
+	#schat-widget header, #schat-widget hgroup, #schat-widget menu,
+	#schat-widget nav, #schat-widget section, #schat-widget time,
+	#schat-widget mark, #schat-widget audio, #schat-widget video {
+		background-attachment: scroll;
+		background-color: transparent;
+		background-image: none;
+		background-position: 0 0;
+		background-repeat: repeat;
+		border-color: black;
+		border-style: none;
+		border-width: medium;
+		clear: none;
+		clip: auto;
+		color: inherit;
+		counter-increment: none;
+		counter-reset: none;
+		direction: inherit;
+		display: inline;
+		float: none;
+		font-family: inherit;
+		font-size: inherit;
+		font-style: inherit;
+		font-variant: normal;
+		font-weight: inherit;
+		height: auto;
+		letter-spacing: normal;
+		line-height: inherit;
+		list-style-type: inherit;
+		list-style-position: inside;
+		list-style-image: none;
+		margin: 0;
+		max-height: none;
+		max-width: none;
+		outline: invert none medium;
+		overflow: visible;
+		padding: 0;
+		position: static;
+		quotes: "" "";
+		table-layout: auto;
+		text-align: inherit;
+		text-decoration: inherit;
+		text-transform: none;
+		unicode-bidi: normal;
+		vertical-align: baseline;
+		visibility: visible;
+		white-space: normal;
+		width: auto;
+		word-spacing: normal;
+		border-radius: 0;
+		-moz-border-radius: 0;
+		-webkit-border-radius: 0;
+		opacity: 1;
+		z-index: auto;
+	}
+
+	#schat-widget, #schat-widget th, #schat-widget table,
+	#schat-widget h3, #schat-widget h5, #schat-widget p, #schat-widget h1,
+	#schat-widget td, #schat-widget dl, #schat-widget tr, #schat-widget dt,
+	#schat-widget h6, #schat-widget ol, #schat-widget form,
+	#schat-widget select, #schat-widget option, #schat-widget pre,
+	#schat-widget div, #schat-widget tbody, #schat-widget h2,
+	#schat-widget tfoot, #schat-widget caption, #schat-widget thead,
+	#schat-widget h4, #schat-widget ul, #schat-widget address,
+	#schat-widget blockquote, #schat-widget dd, #schat-widget fieldset,
+	#schat-widget textarea, #schat-widget hr, #schat-widget article,
+	#schat-widget aside, #schat-widget dialog, #schat-widget figure,
+	#schat-widget footer, #schat-widget header, #schat-widget hgroup,
+	#schat-widget menu, #schat-widget nav, #schat-widget section {
+		display: block;
+	}
+
+	#schat-widget nav ul, #schat-widget nav ol { list-style-type: none }
+
+	#schat-widget h1, #schat-widget h2,
+	#schat-widget h3, #schat-widget h4 {
+		font-weight: bold;
+	}
+
+	#schat-widget h1 {
+		font-size: 1.2em;
+    	margin-bottom: 10px;
+    	line-height: 1.2em;
+	}
+
+	#schat-widget h2, 
+	#schat-widget h3 {
+		font-size: 1.05em;
+    	margin-bottom: 5px;
+    	line-height: 1.3em; 
+    }
+
+	#schat-widget li {
+		display: list-item;
+		min-height: auto;
+		min-width: auto
+	}
+
+	#schat-widget a, #schat-widget a *, #schat-widget input[type=submit],
+	#schat-widget button, #schat-widget input[type=radio], #schat-widget input[type=checkbox],
+	#schat-widget select {
+		cursor: pointer;
+		/*-webkit-transition: color .3s, background-color .3s, border-color .3s;
+			 -o-transition: color .3s, background-color .3s, border-color .3s;
+				transition: color .3s, background-color .3s, border-color .3s;*/
+	}
+
+	#schat-widget input[type=hidden] { display: none; }
+
+	#schat-widget input, #schat-widget select {
+		vertical-align: middle
+	}
+
+	#schat-widget select, #schat-widget textarea, #schat-widget input {
+		border: 1px solid #ccc
+	}
+
+	#schat-widget table {
+		border-collapse: collapse;
+		border-spacing: 0
+	}
+
+	#schat-widget hr {
+		display: block;
+		height: 1px;
+		border: 0;
+		border-top: 1px solid #ccc;
+		margin: 1em 0
+	}
+
+	#schat-widget *[dir=rtl] {
+		direction: rtl
+	}
+
+	#schat-widget mark {
+		background-color: #ff9;
+		color: black;
+		font-style: italic;
+		font-weight: bold
+	}
+
+	#schat-widget input[type=submit], #schat-widget_base button {
+		width: auto;
+		font-size: 12px;
+		padding: 3px 10px;
+		margin: 5px 0 10px 0;
+		border-radius: 3px;
+		min-height: 0;
+		clear: both
+	}
+
+	#schat-widget button:disabled {
+		cursor: inherit
+	}
+
+	#schat-widget input[type="text"],
+	#schat-widget input[type="email"],
+	#schat-widget input[type="password"],
+	#schat-widget input[type="url"],
+	#schat-widget input[type="number"],
+	#schat-widget input[type="file"],
+	#schat-widget textarea {
+		border: none;
+		background-color: #fff;
+		border-color: transparent;
+		border-width: 0;
+		border-style: none;
+		border-collapse: collapse;
+  		border-spacing: 0;
+		outline: none;
+		resize: none;
+		text-shadow: none;
+		text-transform: none;
+		height: inherit;
+		-webkit-border-radius: 0;
+		   -moz-border-radius: 0;
+		        border-radius: 0;
+		-webkit-box-shadow: none;
+		   -moz-box-shadow: none;
+		        box-shadow: none;
+		-webkit-transition: border .2s, background-color .3s;
+		   -moz-transition: border .2s, background-color .3s;
+		     -o-transition: border .2s, background-color .3s;
+		        transition: border .2s, background-color .3s;
+		-webkit-font-smoothing: subpixel-antialiased;
+	}
+
+	#schat-widget input::-webkit-input-placeholder,
+	#schat-widget isindex::-webkit-input-placeholder,
+	#schat-widget textarea::-webkit-input-placeholder {
+		color: #ccc;
+	}
+

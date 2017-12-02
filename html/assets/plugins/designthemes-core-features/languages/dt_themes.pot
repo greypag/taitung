@@ -1,0 +1,2161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DT Core Plugin\n"
+"POT-Creation-Date: 2016-10-01 11:08+0530\n"
+"PO-Revision-Date: 2016-10-01 11:08+0530\n"
+"Last-Translator: Ramamoorthi <ram@iamdesigning.com>\n"
+"Language-Team: DesignThemes <ram@iamdesigning.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_html_e;esc_html__;"
+"esc_attr_e;esc_attr__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../functions.php:11
+#, php-format
+msgid ""
+"%1$s in %2$s comes with major update. In order to make your existing pages "
+"(created with page builder) to work properly click %3$s button in %4$s"
+msgstr ""
+
+#: ../custom-post-types/dt-gallery-post-type.php:65
+#: ../custom-post-types/dt-gallery-post-type.php:77
+msgid "Galleries"
+msgstr ""
+
+#: ../custom-post-types/dt-gallery-post-type.php:66
+msgid "All Galleries"
+msgstr ""
+
+#: ../custom-post-types/dt-gallery-post-type.php:67
+msgid "Gallery"
+msgstr ""
+
+#: ../custom-post-types/dt-gallery-post-type.php:68
+#: ../custom-post-types/dt-hotels-post-type.php:68
+#: ../custom-post-types/dt-places-post-type.php:68
+#: ../custom-post-types/dt-rooms-post-type.php:68
+msgid "Add New"
+msgstr ""
+
+#: ../custom-post-types/dt-gallery-post-type.php:69
+msgid "Add New Gallery"
+msgstr ""
+
+#: ../custom-post-types/dt-gallery-post-type.php:70
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../custom-post-types/dt-gallery-post-type.php:71
+msgid "New Gallery"
+msgstr ""
+
+#: ../custom-post-types/dt-gallery-post-type.php:72
+msgid "View Gallery"
+msgstr ""
+
+#: ../custom-post-types/dt-gallery-post-type.php:73
+msgid "Search Galleries"
+msgstr ""
+
+#: ../custom-post-types/dt-gallery-post-type.php:74
+msgid "No Galleries found"
+msgstr ""
+
+#: ../custom-post-types/dt-gallery-post-type.php:75
+msgid "No Galleries found in Trash"
+msgstr ""
+
+#: ../custom-post-types/dt-gallery-post-type.php:76
+msgid "Parent Gallery:"
+msgstr ""
+
+#: ../custom-post-types/dt-gallery-post-type.php:124
+#: ../custom-post-types/dt-hotels-post-type.php:150
+#: ../custom-post-types/dt-places-post-type.php:125
+#: ../custom-post-types/dt-rooms-post-type.php:114
+msgid "Default Options"
+msgstr ""
+
+#: ../custom-post-types/dt-hotels-post-type.php:65
+msgid "Hotels"
+msgstr ""
+
+#: ../custom-post-types/dt-hotels-post-type.php:66
+msgid "All Hotels"
+msgstr ""
+
+#: ../custom-post-types/dt-hotels-post-type.php:67
+msgid "Hotel"
+msgstr ""
+
+#: ../custom-post-types/dt-hotels-post-type.php:69
+msgid "Add New Hotel"
+msgstr ""
+
+#: ../custom-post-types/dt-hotels-post-type.php:70
+msgid "Edit Hotel"
+msgstr ""
+
+#: ../custom-post-types/dt-hotels-post-type.php:71
+msgid "New Hotel"
+msgstr ""
+
+#: ../custom-post-types/dt-hotels-post-type.php:72
+msgid "View Hotel"
+msgstr ""
+
+#: ../custom-post-types/dt-hotels-post-type.php:73
+msgid "Search Hotels"
+msgstr ""
+
+#: ../custom-post-types/dt-hotels-post-type.php:74
+msgid "No Hotels found"
+msgstr ""
+
+#: ../custom-post-types/dt-hotels-post-type.php:75
+msgid "No Hotels found in Trash"
+msgstr ""
+
+#: ../custom-post-types/dt-hotels-post-type.php:76
+msgid "Parent Hotel:"
+msgstr ""
+
+#: ../custom-post-types/dt-hotels-post-type.php:77
+msgid "Hotels Booking"
+msgstr ""
+
+#: ../custom-post-types/dt-hotels-post-type.php:124
+msgid "Search Locations"
+msgstr ""
+
+#: ../custom-post-types/dt-hotels-post-type.php:125
+msgid "All Locations"
+msgstr ""
+
+#: ../custom-post-types/dt-hotels-post-type.php:126
+msgid "Parent Location"
+msgstr ""
+
+#: ../custom-post-types/dt-hotels-post-type.php:127
+msgid "Parent Location:"
+msgstr ""
+
+#: ../custom-post-types/dt-hotels-post-type.php:128
+msgid "Edit Location"
+msgstr ""
+
+#: ../custom-post-types/dt-hotels-post-type.php:129
+msgid "Update Location"
+msgstr ""
+
+#: ../custom-post-types/dt-hotels-post-type.php:130
+msgid "Add New Location"
+msgstr ""
+
+#: ../custom-post-types/dt-hotels-post-type.php:131
+msgid "New Location Name"
+msgstr ""
+
+#: ../custom-post-types/dt-hotels-post-type.php:132
+msgid "Locations"
+msgstr ""
+
+#: ../custom-post-types/dt-places-post-type.php:65
+#: ../custom-post-types/dt-places-post-type.php:77
+msgid "Places"
+msgstr ""
+
+#: ../custom-post-types/dt-places-post-type.php:66
+msgid "All Places"
+msgstr ""
+
+#: ../custom-post-types/dt-places-post-type.php:67
+msgid "Place"
+msgstr ""
+
+#: ../custom-post-types/dt-places-post-type.php:69
+msgid "Add New Place"
+msgstr ""
+
+#: ../custom-post-types/dt-places-post-type.php:70
+msgid "Edit Place"
+msgstr ""
+
+#: ../custom-post-types/dt-places-post-type.php:71
+msgid "New Place"
+msgstr ""
+
+#: ../custom-post-types/dt-places-post-type.php:72
+msgid "View Place"
+msgstr ""
+
+#: ../custom-post-types/dt-places-post-type.php:73
+msgid "Search Places"
+msgstr ""
+
+#: ../custom-post-types/dt-places-post-type.php:74
+msgid "No Places found"
+msgstr ""
+
+#: ../custom-post-types/dt-places-post-type.php:75
+msgid "No Places found in Trash"
+msgstr ""
+
+#: ../custom-post-types/dt-places-post-type.php:76
+msgid "Parent Place:"
+msgstr ""
+
+#: ../custom-post-types/dt-rooms-post-type.php:65
+#: ../custom-post-types/dt-rooms-post-type.php:77
+msgid "Rooms"
+msgstr ""
+
+#: ../custom-post-types/dt-rooms-post-type.php:66
+msgid "All Rooms"
+msgstr ""
+
+#: ../custom-post-types/dt-rooms-post-type.php:67
+msgid "Room"
+msgstr ""
+
+#: ../custom-post-types/dt-rooms-post-type.php:69
+msgid "Add New Room"
+msgstr ""
+
+#: ../custom-post-types/dt-rooms-post-type.php:70
+msgid "Edit Room"
+msgstr ""
+
+#: ../custom-post-types/dt-rooms-post-type.php:71
+msgid "New Room"
+msgstr ""
+
+#: ../custom-post-types/dt-rooms-post-type.php:72
+msgid "View Room"
+msgstr ""
+
+#: ../custom-post-types/dt-rooms-post-type.php:73
+msgid "Search Rooms"
+msgstr ""
+
+#: ../custom-post-types/dt-rooms-post-type.php:74
+msgid "No Rooms found"
+msgstr ""
+
+#: ../custom-post-types/dt-rooms-post-type.php:75
+msgid "No Rooms found in Trash"
+msgstr ""
+
+#: ../custom-post-types/dt-rooms-post-type.php:76
+msgid "Parent Room:"
+msgstr ""
+
+#: ../custom-post-types/dt-rooms-post-type.php:159
+msgid "No Image"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_gallery_default_metabox.php:9
+msgid "Organizer"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_gallery_default_metabox.php:14
+msgid "You can given your organizer name"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_gallery_default_metabox.php:18
+msgid "Location"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_gallery_default_metabox.php:23
+msgid "You can given your client location"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_gallery_default_metabox.php:27
+msgid "Website"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_gallery_default_metabox.php:32
+msgid "You can given your client's project url"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_gallery_default_metabox.php:38
+msgid "Title Background"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_gallery_default_metabox.php:43
+#: ../page-builder/functions.php:449 ../page-builder/functions.php:630
+#: ../page-builder/functions.php:748
+msgid "Upload"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_gallery_default_metabox.php:44
+msgid "Remove"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_gallery_default_metabox.php:46
+msgid "Upload an image for the sub title background"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_gallery_default_metabox.php:55
+#: ../page-builder/modules.php:197
+msgid "Background Repeat"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_gallery_default_metabox.php:59
+#: ../custom-post-types/metaboxes/dt_gallery_default_metabox.php:72
+#: ../page-builder/functions.php:428 ../page-builder/functions.php:609
+#: ../page-builder/functions.php:721
+msgid "Select"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_gallery_default_metabox.php:64
+msgid "Select how would you like to repeat the background image "
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_gallery_default_metabox.php:68
+#: ../page-builder/modules.php:203
+msgid "Background Position"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_gallery_default_metabox.php:77
+msgid "Select how would you like to position the background"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_gallery_default_metabox.php:81
+#: ../page-builder/modules.php:176 ../page-builder/modules.php:427
+#: ../page-builder/modules.php:554 ../page-builder/modules.php:945
+#: ../page-builder/modules.php:1031 ../page-builder/modules.php:1129
+#: ../page-builder/modules.php:1160 ../page-builder/modules.php:1192
+#: ../page-builder/modules.php:1224
+msgid "Background Color"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_gallery_default_metabox.php:84
+msgid "Select background color for sub title section e.g. #f2d607"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_gallery_default_metabox.php:97
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:47
+#: ../custom-post-types/metaboxes/dt_place_default_metabox.php:47
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:8
+msgid "Layout"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_gallery_default_metabox.php:117
+msgid "You can choose between a left, right or full width."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_gallery_default_metabox.php:126
+msgid "Show Related Projects"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_gallery_default_metabox.php:136
+msgid "Would you like to show the related projects at the bottom"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_gallery_default_metabox.php:144
+msgid "Show Social Share"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_gallery_default_metabox.php:153
+msgid "Would you like to show the social share at the bottom"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_gallery_default_metabox.php:161
+msgid "Allow Comments"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_gallery_default_metabox.php:173
+msgid "YES! to allow comments on this page."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_gallery_default_metabox.php:181
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:263
+#: ../custom-post-types/metaboxes/dt_place_default_metabox.php:261
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:150
+msgid "Images"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_gallery_default_metabox.php:185
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:267
+#: ../custom-post-types/metaboxes/dt_place_default_metabox.php:265
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:154
+msgid "Click Here to Add Images"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_gallery_default_metabox.php:186
+msgid "Click Here to Add Video"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:9
+msgid "Address of Hotel"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:15
+#: ../custom-post-types/metaboxes/dt_place_default_metabox.php:15
+msgid "Get Map Values"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:18
+#: ../custom-post-types/metaboxes/dt_place_default_metabox.php:18
+msgid "Put address and click button to get following values."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:18
+#: ../custom-post-types/metaboxes/dt_place_default_metabox.php:18
+msgid " Note: It returns approximate value. Try "
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:26
+#: ../custom-post-types/metaboxes/dt_place_default_metabox.php:26
+msgid "Latitude"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:31
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:40
+#: ../custom-post-types/metaboxes/dt_place_default_metabox.php:31
+#: ../custom-post-types/metaboxes/dt_place_default_metabox.php:40
+msgid ""
+"Put the location latitude value. ( Use finder: https://ctrlq.org/maps/"
+"address/ )"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:35
+#: ../custom-post-types/metaboxes/dt_place_default_metabox.php:35
+msgid "Longitude"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:64
+#: ../custom-post-types/metaboxes/dt_place_default_metabox.php:64
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:25
+msgid "You can choose between a left, right or no sidebar layout."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:83
+#: ../custom-post-types/metaboxes/dt_place_default_metabox.php:83
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:44
+msgid "Disable Every Where Sidebar Left"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:90
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:127
+#: ../custom-post-types/metaboxes/dt_place_default_metabox.php:90
+#: ../custom-post-types/metaboxes/dt_place_default_metabox.php:127
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:51
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:88
+msgid "Yes! to hide \"Every Where Sidebar\" on this page."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:96
+#: ../custom-post-types/metaboxes/dt_place_default_metabox.php:96
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:57
+msgid "Choose Widget Area - Left Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:120
+#: ../custom-post-types/metaboxes/dt_place_default_metabox.php:120
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:81
+msgid "Disable Every Where Sidebar Right"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:133
+#: ../custom-post-types/metaboxes/dt_place_default_metabox.php:133
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:94
+msgid "Choose Widget Area - Right Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:159
+msgid "Starting Price"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:164
+msgid "Put the value of starting pricing."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:168
+msgid "Special Offer"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:172
+msgid "10% Special Offer"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:173
+msgid "Put the special offer value."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:181
+msgid "For Whome"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:185
+msgid "Only For Families"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:186
+msgid "Put the text of specially for whome."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:190
+msgid "Show Book Now"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:200
+msgid "Would you like to show the book now section"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:208
+msgid "Show Ratings"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:218
+msgid "Would you like to show the rating section"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:222
+#: ../custom-post-types/metaboxes/dt_place_default_metabox.php:225
+msgid "Show Reviews"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:232
+msgid "Would you like to show the reviews section"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:239
+msgid "Choose Rooms"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_hotel_default_metabox.php:256
+msgid "You can choose room under a hotel in the booking page."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_place_default_metabox.php:9
+msgid "Address of Place"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_place_default_metabox.php:159
+msgid "Show Hotels & Dest"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_place_default_metabox.php:169
+msgid "Would you like to show the hotels list & popular destinations"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_place_default_metabox.php:177
+msgid "Choose Hotels"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_place_default_metabox.php:193
+msgid "You can choose hotels to show in this place page."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_place_default_metabox.php:201
+msgid "Choose Destinations"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_place_default_metabox.php:217
+msgid "You can choose destinations to show in this place page."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_place_default_metabox.php:235
+msgid "Would you like to show the reviews & ratings"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_place_default_metabox.php:243
+msgid "Show Recommends"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_place_default_metabox.php:253
+msgid "Would you like to show the recommendations"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:120
+#: ../custom-post-types/templates/single-dt_rooms.php:64
+msgid "Occupancy"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:124
+msgid "Person(s)"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:125
+msgid "Put no.of persons occupancy for this room."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:129
+#: ../page-builder/modules.php:1588
+msgid "Price"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:134
+msgid "Put price of this room."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:138
+#: ../custom-post-types/templates/single-dt_rooms.php:65
+msgid "Room Size"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:143
+msgid "Put size of this room."
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_galleries.php:30
+msgid "Previous"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_galleries.php:35
+msgid "Next"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_hotels.php:17
+msgid "No Rating Yet"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_hotels.php:17
+msgid "Very Poor"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_hotels.php:17
+msgid "Not that bad"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_hotels.php:17
+msgid "Average"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_hotels.php:17
+msgid "Good"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_hotels.php:17
+msgid "Perfect"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_hotels.php:23
+msgid "Here we are"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_hotels.php:48
+#: ../custom-post-types/templates/single-dt_places.php:46
+msgid "Average "
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_hotels.php:48
+#: ../custom-post-types/templates/single-dt_places.php:46
+msgid " of "
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_hotels.php:48
+#: ../custom-post-types/templates/single-dt_places.php:46
+#: ../custom-post-types/templates/single-dt_places.php:78
+#: ../custom-post-types/templates/single-dt_places.php:108
+#: ../custom-post-types/templates/inc/hotel-archive-layout.php:70
+msgid " Ratings"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_hotels.php:51
+#: ../custom-post-types/templates/single-dt_places.php:123
+#: ../custom-post-types/templates/single-dt_rooms.php:58
+#: ../custom-post-types/templates/inc/gallery-single-layout-one.php:37
+#: ../custom-post-types/templates/inc/gallery-single-layout-two.php:39
+msgid "Pages:"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_hotels.php:52
+#: ../custom-post-types/templates/single-dt_places.php:124
+#: ../custom-post-types/templates/single-dt_rooms.php:59
+#: ../custom-post-types/templates/inc/gallery-single-layout-one.php:38
+#: ../custom-post-types/templates/inc/gallery-single-layout-two.php:40
+msgid "Edit"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_hotels.php:55
+#: ../custom-post-types/templates/single-dt_rooms.php:40
+#: ../custom-post-types/templates/inc/hotel-archive-layout.php:53
+#: ../custom-post-types/templates/inc/hotel-archive-layout.php:55
+msgid "Book Now"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_hotels.php:70
+msgid "&nbsp;People have Rated"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_hotels.php:79
+msgid "Stars"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_hotels.php:95
+msgid "Based on Ratings from"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_hotels.php:95
+msgid "People"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_hotels.php:96
+msgid "Write a Review"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_places.php:22
+msgid "Map of "
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_places.php:66
+msgid "Hotels to Stay"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_places.php:79
+#: ../custom-post-types/templates/single-dt_places.php:109
+#: ../custom-post-types/templates/single-dt_places.php:160
+#: ../custom-post-types/templates/inc/hotel-archive-layout.php:72
+#: ../custom-post-types/templates/inc/place-archive-layout.php:42
+msgid "View on Map"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_places.php:86
+msgid "No Hotels Found."
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_places.php:87
+msgid "Choose hotels from back-end to show in this section."
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_places.php:96
+msgid "Popular Destinations"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_places.php:116
+msgid "No Destinations Found."
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_places.php:117
+msgid "Choose destinations from back-end to show in this section."
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_places.php:129
+msgid "Write a Review about "
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_places.php:134
+msgid "Our Recommendations"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_places.php:161
+#: ../custom-post-types/templates/inc/place-archive-layout.php:43
+msgid "View details"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_rooms.php:39
+msgid "Per Night"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_rooms.php:62
+msgid "Room Information"
+msgstr ""
+
+#: ../custom-post-types/templates/taxonomy-gallery_entries.php:9
+#: ../custom-post-types/templates/taxonomy-hotel_entries.php:9
+#: ../custom-post-types/templates/taxonomy-place_entries.php:9
+msgid "Category Archives of : "
+msgstr ""
+
+#: ../custom-post-types/templates/inc/gallery-archive-layout.php:97
+#: ../custom-post-types/templates/inc/hotel-archive-layout.php:113
+#: ../custom-post-types/templates/inc/place-archive-layout.php:57
+msgid "Nothing Found."
+msgstr ""
+
+#: ../custom-post-types/templates/inc/gallery-archive-layout.php:98
+#: ../custom-post-types/templates/inc/hotel-archive-layout.php:114
+#: ../custom-post-types/templates/inc/place-archive-layout.php:58
+msgid "Apologies, but no results were found for the requested archive."
+msgstr ""
+
+#: ../custom-post-types/templates/inc/gallery-single-layout-one.php:39
+#: ../custom-post-types/templates/inc/gallery-single-layout-two.php:41
+msgid "Posted In:"
+msgstr ""
+
+#: ../custom-post-types/templates/inc/gallery-single-layout-one.php:43
+#: ../custom-post-types/templates/inc/gallery-single-layout-two.php:45
+msgid "Other Details"
+msgstr ""
+
+#: ../custom-post-types/templates/inc/gallery-single-layout-one.php:45
+#: ../custom-post-types/templates/inc/gallery-single-layout-two.php:47
+msgid "Organizer : "
+msgstr ""
+
+#: ../custom-post-types/templates/inc/gallery-single-layout-one.php:46
+#: ../custom-post-types/templates/inc/gallery-single-layout-two.php:48
+msgid "Location : "
+msgstr ""
+
+#: ../custom-post-types/templates/inc/gallery-single-layout-one.php:47
+#: ../custom-post-types/templates/inc/gallery-single-layout-two.php:49
+msgid "Website : "
+msgstr ""
+
+#: ../custom-post-types/templates/inc/gallery-single-layout-one.php:48
+#: ../custom-post-types/templates/inc/gallery-single-layout-two.php:50
+msgid "Submitted On : "
+msgstr ""
+
+#: ../custom-post-types/templates/inc/hotel-archive-layout.php:57
+msgid "View Details"
+msgstr ""
+
+#: ../custom-post-types/templates/inc/hotel-archive-layout.php:75
+msgid "Starts From"
+msgstr ""
+
+#: ../custom-post-types/templates/inc/hotel-archive-layout.php:92
+msgid "Name (required)"
+msgstr ""
+
+#: ../custom-post-types/templates/inc/hotel-archive-layout.php:93
+msgid "Email (required)"
+msgstr ""
+
+#: ../custom-post-types/templates/inc/hotel-archive-layout.php:94
+msgid "Date of Arrival (required)"
+msgstr ""
+
+#: ../custom-post-types/templates/inc/hotel-archive-layout.php:95
+#: ../page-builder/modules.php:1703 ../page-builder/modules.php:2025
+msgid "Phone"
+msgstr ""
+
+#: ../custom-post-types/templates/inc/hotel-archive-layout.php:96
+msgid "Message"
+msgstr ""
+
+#: ../custom-post-types/templates/inc/hotel-archive-layout.php:97
+msgid "Send"
+msgstr ""
+
+#: ../custom-post-types/templates/inc/hotel-archive-layout.php:99
+msgid "Thanks for Booking us, We will call back to you soon."
+msgstr ""
+
+#: ../custom-post-types/templates/inc/hotel-archive-layout.php:100
+msgid "Sorry your message not sent, Try again Later."
+msgstr ""
+
+#: ../importer/import.php:266
+msgid "Please select data to import."
+msgstr ""
+
+#: ../importer/import.php:274
+msgid "All done. Have fun!"
+msgstr ""
+
+#: ../importer/parsers.php:42 ../importer/parsers.php:72
+#: ../importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../importer/parsers.php:84 ../importer/parsers.php:89
+#: ../importer/parsers.php:306 ../importer/parsers.php:495
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../importer/wordpress-importer.php:132
+#: ../importer/wordpress-importer.php:141
+#: ../importer/wordpress-importer.php:192
+#: ../importer/wordpress-importer.php:196
+#: ../importer/wordpress-importer.php:205
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../importer/wordpress-importer.php:133
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../importer/wordpress-importer.php:176
+msgid "All done."
+msgstr ""
+
+#: ../importer/wordpress-importer.php:176
+msgid "Have fun!"
+msgstr ""
+
+#: ../importer/wordpress-importer.php:177
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../importer/wordpress-importer.php:197
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../importer/wordpress-importer.php:213
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../importer/wordpress-importer.php:238
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../importer/wordpress-importer.php:264
+msgid "Assign Authors"
+msgstr ""
+
+#: ../importer/wordpress-importer.php:265
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: ../importer/wordpress-importer.php:267
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../importer/wordpress-importer.php:277
+msgid "Import Attachments"
+msgstr ""
+
+#: ../importer/wordpress-importer.php:280
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../importer/wordpress-importer.php:284
+msgid "Submit"
+msgstr ""
+
+#: ../importer/wordpress-importer.php:297
+msgid "Import author:"
+msgstr ""
+
+#: ../importer/wordpress-importer.php:308
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../importer/wordpress-importer.php:311
+msgid "as a new user:"
+msgstr ""
+
+#: ../importer/wordpress-importer.php:319
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../importer/wordpress-importer.php:321
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../importer/wordpress-importer.php:322
+msgid "- Select -"
+msgstr ""
+
+#: ../importer/wordpress-importer.php:372
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../importer/wordpress-importer.php:424
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../importer/wordpress-importer.php:467
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../importer/wordpress-importer.php:516
+#: ../importer/wordpress-importer.php:738
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../importer/wordpress-importer.php:605
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../importer/wordpress-importer.php:642
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../importer/wordpress-importer.php:704
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../importer/wordpress-importer.php:869
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../importer/wordpress-importer.php:876
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../importer/wordpress-importer.php:939
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../importer/wordpress-importer.php:952
+msgid "Invalid file type"
+msgstr ""
+
+#: ../importer/wordpress-importer.php:996
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../importer/wordpress-importer.php:1002
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../importer/wordpress-importer.php:1009
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../importer/wordpress-importer.php:1014
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../importer/wordpress-importer.php:1020
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../importer/wordpress-importer.php:1119
+msgid "Import WordPress"
+msgstr ""
+
+#: ../importer/wordpress-importer.php:1126
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../importer/wordpress-importer.php:1141
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../importer/wordpress-importer.php:1142
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../importer/wordpress-importer.php:1216
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: ../page-builder/config.php:11
+msgid "Wordpress Editor"
+msgstr ""
+
+#: ../page-builder/config.php:54
+msgid "Permanently delete this module?"
+msgstr ""
+
+#: ../page-builder/config.php:55
+msgid "Permanently delete all modules?"
+msgstr ""
+
+#: ../page-builder/config.php:56
+msgid "Permanently delete this layout?"
+msgstr ""
+
+#: ../page-builder/config.php:57
+msgid "Layout Name"
+msgstr ""
+
+#: ../page-builder/config.php:58
+msgid "Create"
+msgstr ""
+
+#: ../page-builder/config.php:59
+msgid "Cancel"
+msgstr ""
+
+#: ../page-builder/config.php:60
+msgid "* new layout will appear under the Sample Layout tab after page update"
+msgstr ""
+
+#: ../page-builder/config.php:61
+msgid "Yes"
+msgstr ""
+
+#: ../page-builder/config.php:62
+msgid "No"
+msgstr ""
+
+#: ../page-builder/config.php:63 ../page-builder/metabox.php:58
+msgid "Saving..."
+msgstr ""
+
+#: ../page-builder/config.php:64
+msgid "Layout Saved."
+msgstr ""
+
+#: ../page-builder/config.php:65
+msgid "Custom CSS Saved."
+msgstr ""
+
+#: ../page-builder/config.php:66
+msgid "Column Options Saved."
+msgstr ""
+
+#: ../page-builder/config.php:67
+msgid "Section Options Saved."
+msgstr ""
+
+#: ../page-builder/functions.php:13 ../page-builder/modules.php:1344
+#: ../page-builder/modules.php:1368 ../page-builder/modules.php:1398
+#: ../page-builder/modules.php:1434 ../page-builder/modules.php:1541
+msgid "Columns"
+msgstr ""
+
+#: ../page-builder/functions.php:39
+msgid "Sample Layouts"
+msgstr ""
+
+#: ../page-builder/functions.php:75 ../page-builder/functions.php:92
+msgid "Add Module"
+msgstr ""
+
+#: ../page-builder/functions.php:370 ../page-builder/functions.php:533
+msgid "Settings"
+msgstr ""
+
+#: ../page-builder/functions.php:486 ../page-builder/functions.php:538
+#: ../page-builder/functions.php:652 ../page-builder/functions.php:777
+#: ../page-builder/functions.php:837
+msgid "Save Changes"
+msgstr ""
+
+#: ../page-builder/functions.php:576
+msgid "Column Options"
+msgstr ""
+
+#: ../page-builder/functions.php:677
+msgid "Fullwidth Section Options"
+msgstr ""
+
+#: ../page-builder/functions.php:799 ../page-builder/metabox.php:44
+msgid "Add Modules"
+msgstr ""
+
+#: ../page-builder/functions.php:834 ../page-builder/metabox.php:24
+msgid "Add Custom CSS"
+msgstr ""
+
+#: ../page-builder/metabox.php:17
+msgid "Clear All"
+msgstr ""
+
+#: ../page-builder/metabox.php:20
+msgid "Create Sample Layout"
+msgstr ""
+
+#: ../page-builder/metabox.php:45
+msgid "Add Sample Layouts"
+msgstr ""
+
+#: ../page-builder/modules.php:64
+msgid "ID"
+msgstr ""
+
+#: ../page-builder/modules.php:69 ../page-builder/modules.php:398
+#: ../page-builder/modules.php:454 ../page-builder/modules.php:500
+#: ../page-builder/modules.php:542 ../page-builder/modules.php:649
+#: ../page-builder/modules.php:700 ../page-builder/modules.php:742
+#: ../page-builder/modules.php:772 ../page-builder/modules.php:924
+#: ../page-builder/modules.php:964 ../page-builder/modules.php:1009
+#: ../page-builder/modules.php:1101 ../page-builder/modules.php:2067
+msgid "Type"
+msgstr ""
+
+#: ../page-builder/modules.php:75 ../page-builder/modules.php:224
+#: ../page-builder/modules.php:271
+msgid "CSS Class"
+msgstr ""
+
+#: ../page-builder/modules.php:80 ../page-builder/modules.php:578
+#: ../page-builder/modules.php:613 ../page-builder/modules.php:654
+#: ../page-builder/modules.php:705
+msgid "Style"
+msgstr ""
+
+#: ../page-builder/modules.php:87
+msgid "1 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:92
+msgid "1/2 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:97
+msgid "1/3 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:102
+msgid "1/4 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:107
+msgid "1/5 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:112
+msgid "1/6 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:117
+msgid "2/3 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:122
+msgid "2/5 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:127
+msgid "2/6 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:132
+msgid "3/4 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:137
+msgid "3/5 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:142
+msgid "3/6 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:147
+msgid "4/5 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:152
+msgid "4/6 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:157
+msgid "5/6 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:162
+msgid "Resizable Column"
+msgstr ""
+
+#: ../page-builder/modules.php:171
+msgid "Fullwidth Section"
+msgstr ""
+
+#: ../page-builder/modules.php:181 ../page-builder/modules.php:256
+msgid "Background Image"
+msgstr ""
+
+#: ../page-builder/modules.php:186
+msgid "Background Opacity"
+msgstr ""
+
+#: ../page-builder/modules.php:191
+msgid "Parallax Effect"
+msgstr ""
+
+#: ../page-builder/modules.php:209
+msgid "Padding Top"
+msgstr ""
+
+#: ../page-builder/modules.php:214
+msgid "Padding Bottom"
+msgstr ""
+
+#: ../page-builder/modules.php:219 ../page-builder/modules.php:431
+#: ../page-builder/modules.php:472 ../page-builder/modules.php:518
+#: ../page-builder/modules.php:559 ../page-builder/modules.php:1035
+#: ../page-builder/modules.php:1133
+msgid "Text Color"
+msgstr ""
+
+#: ../page-builder/modules.php:232
+msgid "Fullwidth Section Video"
+msgstr ""
+
+#: ../page-builder/modules.php:236
+msgid "MP4"
+msgstr ""
+
+#: ../page-builder/modules.php:241
+msgid "WEBM"
+msgstr ""
+
+#: ../page-builder/modules.php:246
+msgid "OGV"
+msgstr ""
+
+#: ../page-builder/modules.php:251
+msgid "Poster Image"
+msgstr ""
+
+#: ../page-builder/modules.php:261
+msgid "Padding Top (in px)"
+msgstr ""
+
+#: ../page-builder/modules.php:266
+msgid "Padding Bottom (in px)"
+msgstr ""
+
+#: ../page-builder/modules.php:284
+msgid "Add Any Content Here"
+msgstr ""
+
+#: ../page-builder/modules.php:289 ../page-builder/modules.php:302
+#: ../page-builder/modules.php:332 ../page-builder/modules.php:373
+#: ../page-builder/modules.php:486 ../page-builder/modules.php:528
+#: ../page-builder/modules.php:594 ../page-builder/modules.php:630
+#: ../page-builder/modules.php:660 ../page-builder/modules.php:711
+#: ../page-builder/modules.php:813 ../page-builder/modules.php:835
+#: ../page-builder/modules.php:857 ../page-builder/modules.php:910
+#: ../page-builder/modules.php:950 ../page-builder/modules.php:995
+#: ../page-builder/modules.php:1039 ../page-builder/modules.php:1053
+#: ../page-builder/modules.php:1077 ../page-builder/modules.php:1137
+#: ../page-builder/modules.php:1251 ../page-builder/modules.php:1265
+#: ../page-builder/modules.php:1279 ../page-builder/modules.php:1305
+#: ../page-builder/modules.php:1779 ../page-builder/modules.php:1799
+#: ../page-builder/modules.php:1819 ../page-builder/modules.php:1839
+#: ../page-builder/modules.php:1859 ../page-builder/modules.php:1879
+#: ../page-builder/modules.php:1939 ../page-builder/modules.php:1953
+#: ../page-builder/modules.php:2001 ../page-builder/modules.php:2035
+#: ../page-builder/modules.php:2073 ../page-builder/modules.php:2110
+msgid "Content"
+msgstr ""
+
+#: ../page-builder/modules.php:297
+msgid "Accordion Framed"
+msgstr ""
+
+#: ../page-builder/modules.php:327
+msgid "Accordion Default"
+msgstr ""
+
+#: ../page-builder/modules.php:357
+msgid "Animation"
+msgstr ""
+
+#: ../page-builder/modules.php:362
+msgid "Choose Effect"
+msgstr ""
+
+#: ../page-builder/modules.php:368
+msgid "Delay"
+msgstr ""
+
+#: ../page-builder/modules.php:382
+msgid "Button"
+msgstr ""
+
+#: ../page-builder/modules.php:387
+msgid "Size"
+msgstr ""
+
+#: ../page-builder/modules.php:393 ../page-builder/modules.php:905
+#: ../page-builder/modules.php:970 ../page-builder/modules.php:1118
+#: ../page-builder/modules.php:2020
+msgid "Link"
+msgstr ""
+
+#: ../page-builder/modules.php:404
+msgid "Icon Style"
+msgstr ""
+
+#: ../page-builder/modules.php:410 ../page-builder/modules.php:980
+#: ../page-builder/modules.php:1986
+msgid "Icon"
+msgstr ""
+
+#: ../page-builder/modules.php:415 ../page-builder/modules.php:985
+#: ../page-builder/modules.php:1123
+msgid "Target"
+msgstr ""
+
+#: ../page-builder/modules.php:421 ../page-builder/modules.php:466
+#: ../page-builder/modules.php:548 ../page-builder/modules.php:584
+#: ../page-builder/modules.php:619 ../page-builder/modules.php:1025
+msgid "Variation"
+msgstr ""
+
+#: ../page-builder/modules.php:435 ../page-builder/modules.php:590
+#: ../page-builder/modules.php:625 ../page-builder/modules.php:991
+msgid "Class"
+msgstr ""
+
+#: ../page-builder/modules.php:440 ../page-builder/modules.php:564
+#: ../page-builder/modules.php:758 ../page-builder/modules.php:798
+#: ../page-builder/modules.php:1175 ../page-builder/modules.php:1207
+#: ../page-builder/modules.php:1239 ../page-builder/modules.php:2054
+#: ../page-builder/modules.php:2097
+msgid "Text"
+msgstr ""
+
+#: ../page-builder/modules.php:449
+msgid "Blockquote"
+msgstr ""
+
+#: ../page-builder/modules.php:460 ../page-builder/modules.php:506
+#: ../page-builder/modules.php:1773 ../page-builder/modules.php:1793
+#: ../page-builder/modules.php:1813 ../page-builder/modules.php:1833
+#: ../page-builder/modules.php:1853 ../page-builder/modules.php:1873
+msgid "Align"
+msgstr ""
+
+#: ../page-builder/modules.php:476
+msgid "Cite"
+msgstr ""
+
+#: ../page-builder/modules.php:481
+msgid "Role"
+msgstr ""
+
+#: ../page-builder/modules.php:495
+msgid "Pullquote"
+msgstr ""
+
+#: ../page-builder/modules.php:512
+msgid "Show Icon"
+msgstr ""
+
+#: ../page-builder/modules.php:523
+msgid "Cite Name"
+msgstr ""
+
+#: ../page-builder/modules.php:537
+msgid "Dropcap"
+msgstr ""
+
+#: ../page-builder/modules.php:538
+msgid "Use this module to add dropcap"
+msgstr ""
+
+#: ../page-builder/modules.php:573
+msgid "Unordered Lists"
+msgstr ""
+
+#: ../page-builder/modules.php:608
+msgid "Ordered Lists"
+msgstr ""
+
+#: ../page-builder/modules.php:644
+msgid "Pricing Table"
+msgstr ""
+
+#: ../page-builder/modules.php:695
+msgid "Pricing Table Two"
+msgstr ""
+
+#: ../page-builder/modules.php:737
+msgid "Progress Bar"
+msgstr ""
+
+#: ../page-builder/modules.php:748 ../page-builder/modules.php:788
+msgid "Color"
+msgstr ""
+
+#: ../page-builder/modules.php:753 ../page-builder/modules.php:793
+#: ../page-builder/modules.php:1991
+msgid "Value"
+msgstr ""
+
+#: ../page-builder/modules.php:767
+msgid "Infographic Bar"
+msgstr ""
+
+#: ../page-builder/modules.php:778 ../page-builder/modules.php:885
+#: ../page-builder/modules.php:1020 ../page-builder/modules.php:1903
+#: ../page-builder/modules.php:2049 ../page-builder/modules.php:2087
+msgid "Fontawesome Icon"
+msgstr ""
+
+#: ../page-builder/modules.php:783
+msgid "Icon Size"
+msgstr ""
+
+#: ../page-builder/modules.php:807
+msgid "Tabs - Horizontal"
+msgstr ""
+
+#: ../page-builder/modules.php:830
+msgid "Tabs Vertical"
+msgstr ""
+
+#: ../page-builder/modules.php:852
+msgid "Tabs Vertical Icon"
+msgstr ""
+
+#: ../page-builder/modules.php:874
+msgid "Icon Box"
+msgstr ""
+
+#: ../page-builder/modules.php:875
+msgid "Use this module to add icon box"
+msgstr ""
+
+#: ../page-builder/modules.php:879
+msgid "Types"
+msgstr ""
+
+#: ../page-builder/modules.php:890 ../page-builder/modules.php:1972
+msgid "Icon Color"
+msgstr ""
+
+#: ../page-builder/modules.php:895
+msgid "Custom Icon"
+msgstr ""
+
+#: ../page-builder/modules.php:900 ../page-builder/modules.php:940
+#: ../page-builder/modules.php:1015 ../page-builder/modules.php:1155
+#: ../page-builder/modules.php:1187 ../page-builder/modules.php:1219
+#: ../page-builder/modules.php:1893 ../page-builder/modules.php:1967
+#: ../page-builder/modules.php:1996 ../page-builder/modules.php:2015
+#: ../page-builder/modules.php:2092
+msgid "Title"
+msgstr ""
+
+#: ../page-builder/modules.php:919
+msgid "Icon Box Colored"
+msgstr ""
+
+#: ../page-builder/modules.php:930
+msgid "Fontawesome Icons"
+msgstr ""
+
+#: ../page-builder/modules.php:935
+msgid "Custom Icons"
+msgstr ""
+
+#: ../page-builder/modules.php:959
+msgid "Callout Box"
+msgstr ""
+
+#: ../page-builder/modules.php:975
+msgid "Button Label"
+msgstr ""
+
+#: ../page-builder/modules.php:1004
+msgid "Titled Box"
+msgstr ""
+
+#: ../page-builder/modules.php:1048
+msgid "Toggle Default"
+msgstr ""
+
+#: ../page-builder/modules.php:1072
+msgid "Toggle Framed"
+msgstr ""
+
+#: ../page-builder/modules.php:1096
+msgid "Tooltip"
+msgstr ""
+
+#: ../page-builder/modules.php:1107
+msgid "Tooltip Text"
+msgstr ""
+
+#: ../page-builder/modules.php:1112
+msgid "Position"
+msgstr ""
+
+#: ../page-builder/modules.php:1150
+msgid "Donut Chart Small"
+msgstr ""
+
+#: ../page-builder/modules.php:1151 ../page-builder/modules.php:1183
+#: ../page-builder/modules.php:1215
+msgid "Use this module to add donutchart"
+msgstr ""
+
+#: ../page-builder/modules.php:1165 ../page-builder/modules.php:1197
+#: ../page-builder/modules.php:1229
+msgid "Foreground Color"
+msgstr ""
+
+#: ../page-builder/modules.php:1170 ../page-builder/modules.php:1202
+#: ../page-builder/modules.php:1234
+msgid "Percent"
+msgstr ""
+
+#: ../page-builder/modules.php:1182
+msgid "Donut Chart Medium"
+msgstr ""
+
+#: ../page-builder/modules.php:1214
+msgid "Donut Chart Large"
+msgstr ""
+
+#: ../page-builder/modules.php:1246
+msgid "Team"
+msgstr ""
+
+#: ../page-builder/modules.php:1260
+msgid "Testimonial"
+msgstr ""
+
+#: ../page-builder/modules.php:1261
+msgid "Use this module to add testimonial"
+msgstr ""
+
+#: ../page-builder/modules.php:1274
+msgid "Testimonial Carousel"
+msgstr ""
+
+#: ../page-builder/modules.php:1275
+msgid "Use this module to add testimonial carousel"
+msgstr ""
+
+#: ../page-builder/modules.php:1294
+msgid "Client Testimonial"
+msgstr ""
+
+#: ../page-builder/modules.php:1295
+msgid "Use this module to add client testimonial"
+msgstr ""
+
+#: ../page-builder/modules.php:1299 ../page-builder/modules.php:1423
+#: ../page-builder/modules.php:1453 ../page-builder/modules.php:1503
+#: ../page-builder/modules.php:1522
+msgid "Carousel"
+msgstr ""
+
+#: ../page-builder/modules.php:1318
+msgid "Recent Posts"
+msgstr ""
+
+#: ../page-builder/modules.php:1319
+msgid "Use this module to display recent posts"
+msgstr ""
+
+#: ../page-builder/modules.php:1323 ../page-builder/modules.php:1393
+#: ../page-builder/modules.php:1459
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../page-builder/modules.php:1328
+msgid "Show Meta"
+msgstr ""
+
+#: ../page-builder/modules.php:1334 ../page-builder/modules.php:1358
+#: ../page-builder/modules.php:1388 ../page-builder/modules.php:1418
+#: ../page-builder/modules.php:1448 ../page-builder/modules.php:1472
+#: ../page-builder/modules.php:1536 ../page-builder/modules.php:1555
+msgid "Limit"
+msgstr ""
+
+#: ../page-builder/modules.php:1339 ../page-builder/modules.php:1560
+msgid "Post Categories"
+msgstr ""
+
+#: ../page-builder/modules.php:1353
+msgid "Recent Gallery Items"
+msgstr ""
+
+#: ../page-builder/modules.php:1354
+msgid "Use this module to add recent gallery items"
+msgstr ""
+
+#: ../page-builder/modules.php:1363
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../page-builder/modules.php:1374
+msgid "Show Filter"
+msgstr ""
+
+#: ../page-builder/modules.php:1383
+msgid "Upcoming Events"
+msgstr ""
+
+#: ../page-builder/modules.php:1384
+msgid "Use this module to list upcoming events"
+msgstr ""
+
+#: ../page-builder/modules.php:1404
+msgid "Order"
+msgstr ""
+
+#: ../page-builder/modules.php:1413
+msgid "Recent Packages"
+msgstr ""
+
+#: ../page-builder/modules.php:1414
+msgid "Use this module to list packages"
+msgstr ""
+
+#: ../page-builder/modules.php:1429
+msgid "Package Categories"
+msgstr ""
+
+#: ../page-builder/modules.php:1443
+msgid "Recent Tour Packages"
+msgstr ""
+
+#: ../page-builder/modules.php:1444
+msgid "Use this module to list tour packages"
+msgstr ""
+
+#: ../page-builder/modules.php:1467
+msgid "Latest Hotel Reviews"
+msgstr ""
+
+#: ../page-builder/modules.php:1468
+msgid "Use this module to list hotel reviews"
+msgstr ""
+
+#: ../page-builder/modules.php:1480
+msgid "Best Destination Place"
+msgstr ""
+
+#: ../page-builder/modules.php:1481
+msgid "Use this module to add best destination place"
+msgstr ""
+
+#: ../page-builder/modules.php:1485
+msgid "Place ID"
+msgstr ""
+
+#: ../page-builder/modules.php:1493
+msgid "Places Carousel"
+msgstr ""
+
+#: ../page-builder/modules.php:1494
+msgid "Use this module to add places carousel"
+msgstr ""
+
+#: ../page-builder/modules.php:1498
+msgid "Place IDs"
+msgstr ""
+
+#: ../page-builder/modules.php:1512
+msgid "Hotels List"
+msgstr ""
+
+#: ../page-builder/modules.php:1513
+msgid "Use this module to add hotels list"
+msgstr ""
+
+#: ../page-builder/modules.php:1517
+msgid "Hotels IDs"
+msgstr ""
+
+#: ../page-builder/modules.php:1531
+msgid "Recommended Places"
+msgstr ""
+
+#: ../page-builder/modules.php:1532
+msgid "Use this module for recommended places"
+msgstr ""
+
+#: ../page-builder/modules.php:1550
+msgid "Timeline Blog Posts"
+msgstr ""
+
+#: ../page-builder/modules.php:1551
+msgid "Use this module to list timeline blog posts"
+msgstr ""
+
+#: ../page-builder/modules.php:1568
+msgid "Hotel Room"
+msgstr ""
+
+#: ../page-builder/modules.php:1569
+msgid "Use this module to add hotel room"
+msgstr ""
+
+#: ../page-builder/modules.php:1573
+msgid "Room Type"
+msgstr ""
+
+#: ../page-builder/modules.php:1578
+msgid "Persons"
+msgstr ""
+
+#: ../page-builder/modules.php:1583
+msgid "Facilities"
+msgstr ""
+
+#: ../page-builder/modules.php:1593
+msgid "Available"
+msgstr ""
+
+#: ../page-builder/modules.php:1605
+msgid "Clear"
+msgstr ""
+
+#: ../page-builder/modules.php:1606
+msgid "Add this module to add space between contents"
+msgstr ""
+
+#: ../page-builder/modules.php:1612
+msgid "Bordered Horizontal Rule"
+msgstr ""
+
+#: ../page-builder/modules.php:1613
+msgid "Use this module to add bordered horizontal rule"
+msgstr ""
+
+#: ../page-builder/modules.php:1619
+msgid "Horizontal Rule"
+msgstr ""
+
+#: ../page-builder/modules.php:1620
+msgid "Use this module to add horizontal rule"
+msgstr ""
+
+#: ../page-builder/modules.php:1626
+msgid "Horizontal Rule Medium"
+msgstr ""
+
+#: ../page-builder/modules.php:1627
+msgid "Use this module to add medium horizontal rule"
+msgstr ""
+
+#: ../page-builder/modules.php:1633
+msgid "Horizontal Rule Large"
+msgstr ""
+
+#: ../page-builder/modules.php:1634
+msgid "Use this module to add large horizontal rule"
+msgstr ""
+
+#: ../page-builder/modules.php:1640
+msgid "Horizontal Rule With Top Link"
+msgstr ""
+
+#: ../page-builder/modules.php:1641
+msgid "Use this module to add horizontal rule with top link"
+msgstr ""
+
+#: ../page-builder/modules.php:1647
+msgid "Whitespace"
+msgstr ""
+
+#: ../page-builder/modules.php:1648
+msgid "Use this module to add whitespace"
+msgstr ""
+
+#: ../page-builder/modules.php:1654
+msgid "Whitespace Small"
+msgstr ""
+
+#: ../page-builder/modules.php:1655
+msgid "Use this module to add small whitespace"
+msgstr ""
+
+#: ../page-builder/modules.php:1661
+msgid "Whitespace Medium"
+msgstr ""
+
+#: ../page-builder/modules.php:1662
+msgid "Use this module to add medium whitespace"
+msgstr ""
+
+#: ../page-builder/modules.php:1668
+msgid "Whitespace Large"
+msgstr ""
+
+#: ../page-builder/modules.php:1669
+msgid "Use this module to add large whitespace"
+msgstr ""
+
+#: ../page-builder/modules.php:1675
+msgid "Address"
+msgstr ""
+
+#: ../page-builder/modules.php:1676
+msgid "Use this module to add address"
+msgstr ""
+
+#: ../page-builder/modules.php:1680
+msgid "Line 1"
+msgstr ""
+
+#: ../page-builder/modules.php:1685
+msgid "Line 2"
+msgstr ""
+
+#: ../page-builder/modules.php:1690
+msgid "Line 3"
+msgstr ""
+
+#: ../page-builder/modules.php:1695
+msgid "Line 4"
+msgstr ""
+
+#: ../page-builder/modules.php:1704
+msgid "Use this module to add phone"
+msgstr ""
+
+#: ../page-builder/modules.php:1708
+msgid "Phone No"
+msgstr ""
+
+#: ../page-builder/modules.php:1716
+msgid "Mobile"
+msgstr ""
+
+#: ../page-builder/modules.php:1717
+msgid "Use this module to add mobile"
+msgstr ""
+
+#: ../page-builder/modules.php:1721
+msgid "Mobile No"
+msgstr ""
+
+#: ../page-builder/modules.php:1729
+msgid "Fax"
+msgstr ""
+
+#: ../page-builder/modules.php:1730
+msgid "Use this module to add fax"
+msgstr ""
+
+#: ../page-builder/modules.php:1734
+msgid "Fax No"
+msgstr ""
+
+#: ../page-builder/modules.php:1742
+msgid "Email"
+msgstr ""
+
+#: ../page-builder/modules.php:1743
+msgid "Use this module to add email"
+msgstr ""
+
+#: ../page-builder/modules.php:1747
+msgid "Mail ID"
+msgstr ""
+
+#: ../page-builder/modules.php:1755
+msgid "Web"
+msgstr ""
+
+#: ../page-builder/modules.php:1756
+msgid "Use this module to add website"
+msgstr ""
+
+#: ../page-builder/modules.php:1760
+msgid "URL"
+msgstr ""
+
+#: ../page-builder/modules.php:1768
+msgid "H1"
+msgstr ""
+
+#: ../page-builder/modules.php:1788
+msgid "H2"
+msgstr ""
+
+#: ../page-builder/modules.php:1808
+msgid "H3"
+msgstr ""
+
+#: ../page-builder/modules.php:1828
+msgid "H4"
+msgstr ""
+
+#: ../page-builder/modules.php:1848
+msgid "H5"
+msgstr ""
+
+#: ../page-builder/modules.php:1868
+msgid "H6"
+msgstr ""
+
+#: ../page-builder/modules.php:1888
+msgid "Title with Icon"
+msgstr ""
+
+#: ../page-builder/modules.php:1898
+msgid "Sub Title"
+msgstr ""
+
+#: ../page-builder/modules.php:1911
+msgid "Contact Form"
+msgstr ""
+
+#: ../page-builder/modules.php:1912
+msgid "Use this module to display contact form"
+msgstr ""
+
+#: ../page-builder/modules.php:1916
+msgid "Recipient Email"
+msgstr ""
+
+#: ../page-builder/modules.php:1921
+msgid "Success Message"
+msgstr ""
+
+#: ../page-builder/modules.php:1926
+msgid "Error Message"
+msgstr ""
+
+#: ../page-builder/modules.php:1934
+msgid "Social Profile"
+msgstr ""
+
+#: ../page-builder/modules.php:1935
+msgid "Use this module to add social icons"
+msgstr ""
+
+#: ../page-builder/modules.php:1948
+msgid "Welcome Text"
+msgstr ""
+
+#: ../page-builder/modules.php:1949
+msgid "Use this module to add welcome text"
+msgstr ""
+
+#: ../page-builder/modules.php:1962
+msgid "Map Marker"
+msgstr ""
+
+#: ../page-builder/modules.php:1963
+msgid "Use this module to use map marker"
+msgstr ""
+
+#: ../page-builder/modules.php:1981
+msgid "Counting Number"
+msgstr ""
+
+#: ../page-builder/modules.php:1982
+msgid "Use this module to add number count"
+msgstr ""
+
+#: ../page-builder/modules.php:2010
+msgid "Support Section"
+msgstr ""
+
+#: ../page-builder/modules.php:2011
+msgid "Use this module to add support section"
+msgstr ""
+
+#: ../page-builder/modules.php:2030
+msgid "Image"
+msgstr ""
+
+#: ../page-builder/modules.php:2044
+msgid "Feature Icon"
+msgstr ""
+
+#: ../page-builder/modules.php:2045
+msgid "Use this module to add feature icon"
+msgstr ""
+
+#: ../page-builder/modules.php:2062
+msgid "Intro Text"
+msgstr ""
+
+#: ../page-builder/modules.php:2063
+msgid "Use this module to add introduction text"
+msgstr ""
+
+#: ../page-builder/modules.php:2082
+msgid "Theme Icon Box"
+msgstr ""
+
+#: ../page-builder/modules.php:2083
+msgid "Use this module to add theme icon box"
+msgstr ""
+
+#: ../page-builder/modules.php:2105
+msgid "Image Map & Pointers"
+msgstr ""
+
+#: ../page-builder/modules.php:2106
+msgid "Use this module to add image map & pointers"
+msgstr ""
+
+#: ../page-builder/pagebuilder.php:70
+#: ../page-builder/register-page-builder.php:117
+msgid " Page Builder"
+msgstr ""
+
+#: ../page-builder/pagebuilder.php:241
+msgid "Enable page builder"
+msgstr ""
+
+#: ../shortcodes/register-shortcodes.php:230
+msgid "File size should be less than 800 KB "
+msgstr ""
+
+#: ../shortcodes/register-shortcodes.php:233
+msgid "Please upload image only ( png / jpeg ) "
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:709
+msgid "Purchase Now"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:997
+msgid "top"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:1216
+msgid "Heading"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:1220 ../shortcodes/shortcodes.php:1266
+msgid "Buy Now"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:1416 ../shortcodes/shortcodes.php:1417
+msgid "Please specify image url"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:1446
+msgid "im available here"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:1794
+msgid "There is no portfolio item with id :"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:1799
+msgid "Please give portfolio post id"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:1889
+msgid "No portfolios in given category"
+msgstr ""

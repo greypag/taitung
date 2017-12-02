@@ -1,0 +1,98 @@
+<div class="dt_module dt_m_h2 dt_module_others ui-resizable ui-sortable-handle dt_first" data-name="h2" data-placeholder="H2" style="opacity: 1;"><span class="ico-headings dt_icon"></span>
+						<span class="dt_module_name">H2</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="class" class="class dt_module_setting"></div><div data-option_name="h2_content" class="h2_content dt_module_setting dtthemes_module_content">Pricing Table : Type 1</div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_pricing_table_two dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="pricing_table_two" data-placeholder="Pricing Table Two" style="opacity: 1;"><span class="ico-pricingtable dt_icon"></span>
+						<span class="dt_module_name">Pricing Table Two</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="space" class="space dt_module_setting">space</div><div data-option_name="pt_content" class="pt_content dt_module_setting dtthemes_module_content"><p>[dt_sc_one_third first]<br>
+[dt_sc_pricing_table_item_two heading='Summer stay for Single couple @ $250.00 for 2 Nights' thumb_image='http://placehold.it/1170x800&amp;text=Packages' subtitle='Comfy Catherenes Home @ Genes Block Travanza' logo='http://dummy.wedesignthemes.com/trendy-travel/wp-content/uploads/2014/06/pricing-logo1.png' color='purple' button_size='too-small' button_text='Buy Now' button_link='#']</p>
+<p>Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit and seltd tasm cursus nunc.</p>
+<p>[/dt_sc_pricing_table_item_two]<br>
+[/dt_sc_one_third]<br>
+[dt_sc_one_third]<br>
+[dt_sc_pricing_table_item_two heading='Summer stay for Single couple @ $250.00 for 2 Nights' thumb_image='http://placehold.it/1170x800&amp;text=Packages' subtitle='Comfy Catherenes Home @ Genes Block Travanza' logo='http://dummy.wedesignthemes.com/trendy-travel/wp-content/uploads/2014/06/pricing-logo2.png' color='gold' button_size='too-small' button_text='Buy Now' button_link='#' ]</p>
+<p>Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit and seltd tasm cursus nunc.</p>
+<p>[/dt_sc_pricing_table_item_two]<br>
+[/dt_sc_one_third]<br>
+[dt_sc_one_third]<br>
+[dt_sc_pricing_table_item_two heading='Summer stay for Single couple @ $250.00 for 2 Nights' thumb_image='http://placehold.it/1170x800&amp;text=Packages' subtitle='Comfy Catherenes Home @ Genes Block Travanza' logo='http://dummy.wedesignthemes.com/trendy-travel/wp-content/uploads/2014/06/pricing-logo3.png' color='pink' button_size='too-small' button_text='Buy Now' button_link='#' ]</p>
+<p>Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit and seltd tasm cursus nunc.</p>
+<p>[/dt_sc_pricing_table_item_two]<br>
+[/dt_sc_one_third]</p>
+</div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_hr_invisible_medium dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="hr_invisible_medium" data-placeholder="Whitespace Medium" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Whitespace Medium</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_h2 dt_module_others ui-resizable ui-sortable-handle dt_first" data-name="h2" data-placeholder="H2" style="opacity: 1;"><span class="ico-headings dt_icon"></span>
+						<span class="dt_module_name">H2</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="class" class="class dt_module_setting"></div><div data-option_name="h2_content" class="h2_content dt_module_setting dtthemes_module_content">Pricing Table : Type 2</div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_pricing_table dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="pricing_table" data-placeholder="Pricing Table" style="opacity: 1;"><span class="ico-pricingtable dt_icon"></span>
+						<span class="dt_module_name">Pricing Table</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="space" class="space dt_module_setting">space</div><div data-option_name="pt_content" class="pt_content dt_module_setting dtthemes_module_content"><p>[dt_sc_one_fourth first]<br>
+[dt_sc_pricing_table_item heading='Basic' button_text='Buy Now' button_link='#' price='$20' per='month']</p>
+<ul><li>5 Projects</li>
+<li>10GB Storage</li>
+<li>No Time Tracking</li>
+<li>Enhanced Security</li>
+<li>Unlimited Bandwidth</li>
+</ul><p>[/dt_sc_pricing_table_item]<br>
+[/dt_sc_one_fourth]<br>
+[dt_sc_one_fourth]<br>
+[dt_sc_pricing_table_item heading='Standard' button_text='Buy Now' button_link='#' price='$40' per='month' selected]</p>
+<ul><li>10 Projects</li>
+<li>100GB Storage</li>
+<li>No Time Tracking</li>
+<li>Enhanced Security</li>
+<li>Unlimited Bandwidth</li>
+</ul><p>[/dt_sc_pricing_table_item]<br>
+[/dt_sc_one_fourth]<br>
+[dt_sc_one_fourth]<br>
+[dt_sc_pricing_table_item heading='Premium' button_text='Buy Now' button_link='#' price='$60' per='month' ]</p>
+<ul><li>20 Projects</li>
+<li>200GB Storage</li>
+<li>No Time Tracking</li>
+<li>Enhanced Security</li>
+<li>Unlimited Bandwidth</li>
+</ul><p>[/dt_sc_pricing_table_item]<br>
+[/dt_sc_one_fourth]<br>
+[dt_sc_one_fourth]<br>
+[dt_sc_pricing_table_item heading='Ultimate' button_text='Buy Now' button_link='#' price='$80' per='month' ]</p>
+<ul><li>30 Projects</li>
+<li>300GB Storage</li>
+<li>No Time Tracking</li>
+<li>Enhanced Security</li>
+<li>Unlimited Bandwidth</li>
+</ul><p>[/dt_sc_pricing_table_item]<br>
+[/dt_sc_one_fourth]</p>
+</div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_hr_invisible_medium dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="hr_invisible_medium" data-placeholder="Whitespace Medium" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Whitespace Medium</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div></div><div class="dt_module dt_m_h2 dt_module_others ui-resizable ui-sortable-handle dt_first" data-name="h2" data-placeholder="H2" style="opacity: 1;"><span class="ico-headings dt_icon"></span>
+						<span class="dt_module_name">H2</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="class" class="class dt_module_setting">alignleft</div><div data-option_name="h2_content" class="h2_content dt_module_setting dtthemes_module_content">Pricing Table : Type 3</div></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_pricing_table dt_module_general ui-resizable ui-sortable-handle dt_first" data-name="pricing_table" data-placeholder="Pricing Table" style="opacity: 1;"><span class="ico-pricingtable dt_icon"></span>
+						<span class="dt_module_name">Pricing Table</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="space" class="space dt_module_setting">no-space</div><div data-option_name="pt_content" class="pt_content dt_module_setting dtthemes_module_content"><p>[dt_sc_one_fourth first]<br> [dt_sc_pricing_table_item heading='Basic' button_text='Buy Now' button_link='#' price='$20' per='month']</p><ul><li>5 Projects</li><li>10GB Storage</li><li>No Time Tracking</li><li>Enhanced Security</li><li>Unlimited Bandwidth</li></ul><p>[/dt_sc_pricing_table_item]<br> [/dt_sc_one_fourth]<br> [dt_sc_one_fourth]<br> [dt_sc_pricing_table_item heading='Standard' button_text='Buy Now' button_link='#' price='$40' per='month' selected]</p><ul><li>10 Projects</li><li>100GB Storage</li><li>No Time Tracking</li><li>Enhanced Security</li><li>Unlimited Bandwidth</li></ul><p>[/dt_sc_pricing_table_item]<br> [/dt_sc_one_fourth]<br> [dt_sc_one_fourth]<br> [dt_sc_pricing_table_item heading='Premium' button_text='Buy Now' button_link='#' price='$60' per='month' ]</p><ul><li>20 Projects</li><li>200GB Storage</li><li>No Time Tracking</li><li>Enhanced Security</li><li>Unlimited Bandwidth</li></ul><p>[/dt_sc_pricing_table_item]<br> [/dt_sc_one_fourth]<br> [dt_sc_one_fourth]<br> [dt_sc_pricing_table_item heading='Ultimate' button_text='Buy Now' button_link='#' price='$80' per='month' ]</p><ul><li>30 Projects</li><li>300GB Storage</li><li>No Time Tracking</li><li>Enhanced Security</li><li>Unlimited Bandwidth</li></ul><p>[/dt_sc_pricing_table_item]<br> [/dt_sc_one_fourth]</p></div></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div>
+         

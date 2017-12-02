@@ -1,0 +1,148 @@
+<div class="dt_module dt_m_h2 dt_module_others ui-resizable ui-sortable-handle dt_first" data-name="h2" data-placeholder="H2" style="opacity: 1;"><span class="ico-headings dt_icon"></span>
+						<span class="dt_module_name">H2</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="class" class="class dt_module_setting"></div><div data-option_name="h2_content" class="h2_content dt_module_setting dtthemes_module_content">Hotels</div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_hotel_room dt_module_unique ui-resizable ui-sortable-handle dt_first" data-name="hotel_room" data-placeholder="Hotel Room" style="opacity: 1;"><span class="ico-events dt_icon"></span>
+						<span class="dt_module_name">Hotel Room</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="room_type" class="room_type dt_module_setting">Normal Room (AC)</div><div data-option_name="persons" class="persons dt_module_setting">3</div><div data-option_name="facilities" class="facilities dt_module_setting">Television, Phone, Attenders, Hospitality, Valet Parking, Swimming Pool</div><div data-option_name="price" class="price dt_module_setting">$119.99</div><div data-option_name="available" class="available dt_module_setting">For Childs</div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_hotel_room dt_module_unique ui-resizable ui-sortable-handle dt_first" data-name="hotel_room" data-placeholder="Hotel Room" style="opacity: 1;"><span class="ico-events dt_icon"></span>
+						<span class="dt_module_name">Hotel Room</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="room_type" class="room_type dt_module_setting">Super Delux Room (AC)</div><div data-option_name="persons" class="persons dt_module_setting">4</div><div data-option_name="facilities" class="facilities dt_module_setting">Television, Phone, Attenders, Hospitality, Valet Parking, Swimming Pool, Tour Guide, Presentation Hall</div><div data-option_name="price" class="price dt_module_setting">$219.99</div><div data-option_name="available" class="available dt_module_setting">For Couples</div></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_hotel_room dt_module_unique ui-resizable ui-sortable-handle dt_first" data-name="hotel_room" data-placeholder="Hotel Room" style="opacity: 1;"><span class="ico-events dt_icon"></span>
+						<span class="dt_module_name">Hotel Room</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="room_type" class="room_type dt_module_setting">Presidential Room (AC)</div><div data-option_name="persons" class="persons dt_module_setting">10</div><div data-option_name="facilities" class="facilities dt_module_setting">Television, Phone, Attenders, Hospitality, Tour Guide, Presentation Hall</div><div data-option_name="price" class="price dt_module_setting">$319.99</div><div data-option_name="available" class="available dt_module_setting">For Families</div></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_hr_invisible dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="hr_invisible" data-placeholder="Whitespace" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Whitespace</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_h2 dt_module_others ui-resizable ui-sortable-handle dt_first" data-name="h2" data-placeholder="H2" style="opacity: 1;"><span class="ico-headings dt_icon"></span>
+						<span class="dt_module_name">H2</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="class" class="class dt_module_setting"></div><div data-option_name="h2_content" class="h2_content dt_module_setting dtthemes_module_content"><p>Feature Icon</p></div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div><div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_third dt_m_column_has_modules ui-sortable-handle dt_first" data-name="one_third" data-placeholder="1/3 Column" style="opacity: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name" style="opacity: 1;">1/3 Column</span>
+							<span class="dt_move"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+							</div>
+							<div class="dt_columndata_settings"><div id="column_data"></div></div>
+						</div>
+						<div class="dt_modules_holder dt_modules_holder dt_modules_container ui-droppable ui-sortable"><div class="dt_module dt_m_feature_icon dt_module_others  dt_first ui-sortable-handle" data-name="feature_icon" data-placeholder="Feature Icon" style="opacity: 1;"><span class="ico-iconbox dt_icon"></span>
+						<span class="dt_module_name">Feature Icon</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="icon" class="icon dt_module_setting">leaf</div><div data-option_name="text" class="text dt_module_setting">Clean &amp; Elegant Design</div></div>
+						</div><div class="dt_module dt_m_feature_icon dt_module_others  dt_first ui-sortable-handle" data-name="feature_icon" data-placeholder="Feature Icon" style="opacity: 1;"><span class="ico-iconbox dt_icon"></span>
+						<span class="dt_module_name">Feature Icon</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="icon" class="icon dt_module_setting">volume-up</div><div data-option_name="text" class="text dt_module_setting">Audio post Available</div></div></div><div class="dt_module dt_m_feature_icon dt_module_others  dt_first ui-sortable-handle" data-name="feature_icon" data-placeholder="Feature Icon" style="opacity: 1;"><span class="ico-iconbox dt_icon"></span>
+						<span class="dt_module_name">Feature Icon</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="icon" class="icon dt_module_setting">font</div><div data-option_name="text" class="text dt_module_setting">Creative Google font Selection</div></div></div><div class="dt_module dt_m_feature_icon dt_module_others  dt_first ui-sortable-handle" data-name="feature_icon" data-placeholder="Feature Icon" style="opacity: 1;"><span class="ico-iconbox dt_icon"></span>
+						<span class="dt_module_name">Feature Icon</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="icon" class="icon dt_module_setting">image</div><div data-option_name="text" class="text dt_module_setting">Different Types of Gallery</div></div></div><div class="dt_module dt_m_feature_icon dt_module_others  dt_first ui-sortable-handle" data-name="feature_icon" data-placeholder="Feature Icon" style="opacity: 1;"><span class="ico-iconbox dt_icon"></span>
+						<span class="dt_module_name">Feature Icon</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="icon" class="icon dt_module_setting">quote-left</div><div data-option_name="text" class="text dt_module_setting">Quote post Available</div></div></div></div>
+						<div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div>
+					<div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div></div><div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_third dt_m_column_has_modules ui-sortable-handle" data-name="one_third" data-placeholder="1/3 Column" style="opacity: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name" style="opacity: 1;">1/3 Column</span>
+							<span class="dt_move"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+							</div>
+							<div class="dt_columndata_settings"><div id="column_data"></div></div>
+						</div>
+						<div class="dt_modules_holder dt_modules_holder dt_modules_container ui-droppable ui-sortable"><div class="dt_module dt_m_feature_icon dt_module_others  dt_first ui-sortable-handle" data-name="feature_icon" data-placeholder="Feature Icon" style="opacity: 1;"><span class="ico-iconbox dt_icon"></span>
+						<span class="dt_module_name">Feature Icon</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="icon" class="icon dt_module_setting">camera</div><div data-option_name="text" class="text dt_module_setting">As a Photography Website</div></div>
+						</div><div class="dt_module dt_m_feature_icon dt_module_others  dt_first ui-sortable-handle" data-name="feature_icon" data-placeholder="Feature Icon" style="opacity: 1;"><span class="ico-iconbox dt_icon"></span>
+						<span class="dt_module_name">Feature Icon</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="icon" class="icon dt_module_setting">gavel</div><div data-option_name="text" class="text dt_module_setting">Customization Tool Available</div></div></div><div class="dt_module dt_m_feature_icon dt_module_others  dt_first ui-sortable-handle" data-name="feature_icon" data-placeholder="Feature Icon" style="opacity: 1;"><span class="ico-iconbox dt_icon"></span>
+						<span class="dt_module_name">Feature Icon</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="icon" class="icon dt_module_setting">desktop</div><div data-option_name="text" class="text dt_module_setting">As a Photography Website</div></div></div><div class="dt_module dt_m_feature_icon dt_module_others  dt_first ui-sortable-handle" data-name="feature_icon" data-placeholder="Feature Icon" style="opacity: 1;"><span class="ico-iconbox dt_icon"></span>
+						<span class="dt_module_name">Feature Icon</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="icon" class="icon dt_module_setting">taxi</div><div data-option_name="text" class="text dt_module_setting">Customization Tool Available</div></div></div><div class="dt_module dt_m_feature_icon dt_module_others  dt_first ui-sortable-handle" data-name="feature_icon" data-placeholder="Feature Icon" style="opacity: 1;"><span class="ico-iconbox dt_icon"></span>
+						<span class="dt_module_name">Feature Icon</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="icon" class="icon dt_module_setting">paper-plane</div><div data-option_name="text" class="text dt_module_setting">As a Photography</div></div></div></div>
+						<div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div><div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div></div><div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_third dt_m_column_has_modules ui-sortable-handle" data-name="one_third" data-placeholder="1/3 Column" style="opacity: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name" style="opacity: 1;">1/3 Column</span>
+							<span class="dt_move"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+							</div>
+							<div class="dt_columndata_settings"><div id="column_data"></div></div>
+						</div>
+						<div class="dt_modules_holder dt_modules_holder dt_modules_container ui-droppable ui-sortable"><div class="dt_module dt_m_feature_icon dt_module_others  dt_first ui-sortable-handle" data-name="feature_icon" data-placeholder="Feature Icon" style="opacity: 1;"><span class="ico-iconbox dt_icon"></span>
+						<span class="dt_module_name">Feature Icon</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="icon" class="icon dt_module_setting">leaf</div><div data-option_name="text" class="text dt_module_setting">Clean &amp; Elegant Design</div></div>
+						</div><div class="dt_module dt_m_feature_icon dt_module_others  dt_first ui-sortable-handle" data-name="feature_icon" data-placeholder="Feature Icon" style="opacity: 1;"><span class="ico-iconbox dt_icon"></span>
+						<span class="dt_module_name">Feature Icon</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="icon" class="icon dt_module_setting">volume-up</div><div data-option_name="text" class="text dt_module_setting">Audio post Available</div></div></div><div class="dt_module dt_m_feature_icon dt_module_others  dt_first ui-sortable-handle" data-name="feature_icon" data-placeholder="Feature Icon" style="opacity: 1;"><span class="ico-iconbox dt_icon"></span>
+						<span class="dt_module_name">Feature Icon</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="icon" class="icon dt_module_setting">font</div><div data-option_name="text" class="text dt_module_setting">Creative Google font Selection</div></div></div><div class="dt_module dt_m_feature_icon dt_module_others  dt_first ui-sortable-handle" data-name="feature_icon" data-placeholder="Feature Icon" style="opacity: 1;"><span class="ico-iconbox dt_icon"></span>
+						<span class="dt_module_name">Feature Icon</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="icon" class="icon dt_module_setting">image</div><div data-option_name="text" class="text dt_module_setting">Different Types of Gallery</div></div></div><div class="dt_module dt_m_feature_icon dt_module_others  dt_first ui-sortable-handle" data-name="feature_icon" data-placeholder="Feature Icon" style="opacity: 1;"><span class="ico-iconbox dt_icon"></span>
+						<span class="dt_module_name">Feature Icon</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="icon" class="icon dt_module_setting">quote-left</div><div data-option_name="text" class="text dt_module_setting">Quote post Available</div></div></div></div>
+						<div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div><div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div></div>
+          

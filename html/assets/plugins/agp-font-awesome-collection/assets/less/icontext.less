@@ -1,0 +1,39 @@
+@id : '';
+@icon_color : '';
+@shape_bg : '';
+@icon_color_hover : '';
+@shape_bg_hover : '';
+@text_color : '';
+@text_color_hover : '';
+
+#@{id} .fac-shape {
+    .icon_color (@icon_color) when not (@icon_color=~'') {
+        color: @icon_color!important;
+    } .icon_color (@icon_color);    
+    
+    .shape_bg (@shape_bg) when not (@shape_bg=~'') {
+        background: @shape_bg!important;
+    } .shape_bg (@shape_bg);    
+}
+
+#@{id} .fac-shape:hover {
+    .icon_color_hover (@icon_color_hover) when not (@icon_color_hover=~'') {
+        color: @icon_color_hover!important;
+    } .icon_color_hover (@icon_color_hover);    
+    
+    .shape_bg_hover (@shape_bg_hover) when not (@shape_bg_hover=~'') {
+        background: @shape_bg_hover!important;
+    } .shape_bg_hover (@shape_bg_hover);    
+}    
+
+#@{id} .fac-text {
+    .text_color (@text_color) when not (@text_color=~'') {
+        color: @text_color!important;
+    } .text_color (@text_color);            
+}
+
+#@{id} .fac-text:hover {
+    .text_color_hover (@text_color_hover) when not (@text_color_hover=~'') {
+        color: @text_color_hover!important;
+     } .text_color_hover (@text_color_hover);            
+}    

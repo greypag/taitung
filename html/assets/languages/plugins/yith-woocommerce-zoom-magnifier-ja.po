@@ -1,0 +1,1217 @@
+# Translation of Plugins - YITH WooCommerce Zoom Magnifier - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - YITH WooCommerce Zoom Magnifier - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-12 00:49:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - YITH WooCommerce Zoom Magnifier - Stable (latest release)\n"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:97
+msgid "Club Subscription"
+msgstr "クラブ定期購読"
+
+#: plugin-fw/licence/lib/yit-licence.php:676
+msgid "Current product is not included in your YITH Club Subscription key"
+msgstr "現在の商品は YITH クラブのサブスクリプションキーに含まれていません"
+
+#: plugin-fw/lib/yit-plugin-panel.php:297
+#: plugin-fw/lib/yit-plugin-panel.php:300
+msgid "How to install premium version"
+msgstr "プレミアム版のインストール方法"
+
+#: plugin-fw/lib/yit-plugin-panel-sidebar.php:424
+#: plugin-fw/templates/panel/sidebar/sidebar.php:3
+msgid "Hide sidebar"
+msgstr "サイドバーを非表示にする"
+
+#: plugin-fw/lib/yit-plugin-panel-sidebar.php:425
+#: plugin-fw/templates/panel/sidebar/sidebar.php:3
+msgid "Show sidebar"
+msgstr "サイドバーを表示する"
+
+#: plugin-fw/templates/panel/sidebar/widgets/widgets.php:34
+msgid "Important Links"
+msgstr "重要なリンク"
+
+#: plugin-fw/templates/panel/sidebar/widgets/widgets.php:17
+msgid "Join the club"
+msgstr "クラブへ入会"
+
+#: plugin-fw/templates/panel/sidebar/widgets/widgets.php:24
+msgid "Despacho Theme - 100% FREE"
+msgstr "Despacho テーマ - 100% 無料"
+
+#: plugin-fw/templates/panel/sidebar/widgets/widgets.php:28
+msgid "FREE!"
+msgstr "無料 !"
+
+#. Author of the plugin/theme
+msgid "YITHEMES"
+msgstr "YITHEMES"
+
+#: plugin-fw/templates/panel/types/upload.php:32
+msgid "Reset"
+msgstr "リセット"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:228
+msgid "Renew license"
+msgstr "ライセンスを更新"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:226
+msgid "Order again"
+msgstr "再注文"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:142
+msgid "Deactivate"
+msgstr "無効化"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:101
+msgid "License Actions"
+msgstr "ライセンスアクション"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:42
+msgid "Product to activate"
+msgid_plural "Products to activate"
+msgstr[0] "有効化する商品"
+
+#: plugin-fw/licence/lib/yit-licence.php:678
+msgid "License key deactivated for website"
+msgstr "サイトのライセンスキーを無効化しました"
+
+#: plugin-fw/licence/lib/yit-licence.php:677
+msgid "License successfully activated"
+msgstr "ライセンスを有効化しました"
+
+#: plugin-fw/licence/lib/yit-licence.php:677
+msgid "Great"
+msgstr "すばらしい"
+
+#: plugin-fw/licence/lib/yit-licence.php:188
+msgid "Are you sure you want to deactivate the license for current site?"
+msgstr "本当に現在のサイトのライセンスを無効化してもよいですか ?"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1052
+msgid "Layout for this %s"
+msgstr "この%sのレイアウト"
+
+#. Author URI of the plugin/theme
+msgid "http://yithemes.com/"
+msgstr "http://yithemes.com/"
+
+#. Plugin URI of the plugin/theme
+msgid "http://yithemes.com/themes/plugins/yith-woocommerce-zoom-magnifier/"
+msgstr "http://yithemes.com/themes/plugins/yith-woocommerce-zoom-magnifier/"
+
+#: yit-common/yith-panel.php:529
+msgid "Click to preview"
+msgstr "クリックしてプレビュー"
+
+#: yit-common/yith-panel.php:495
+msgid "Select a font family"
+msgstr "フォントファミリーを選択"
+
+#: yit-common/yith-panel.php:431 yit-common/yith-panel.php:432
+msgid "Minutes"
+msgstr "分"
+
+#: yit-common/yith-panel.php:430
+msgid "Hours"
+msgstr "時"
+
+#: yit-common/yith-panel.php:429
+msgid "Select a date"
+msgstr "日付を選択"
+
+#: templates/admin/premium.php:240
+msgid "EXCLUDE PRODUCTS"
+msgstr "除外商品"
+
+#: templates/admin/premium.php:225
+msgid "Just one click and the product image will appear in a bigger size in a modal window. A further chance to let users analyze in a better way what you sell."
+msgstr "ワンクリックで製品イメージがより大きなサイズでモーダルウィンドウに表示されます。あなたが販売しているものをユーザーがより良い方法で分析できるようにするチャンスです。"
+
+#: templates/admin/premium.php:223
+msgid "ENLARGE THE IMAGES"
+msgstr "画像を拡大"
+
+#: templates/admin/premium.php:210
+msgid "ZOOM BOX POSITION"
+msgstr "ズームボックスの位置"
+
+#: templates/admin/premium.php:202
+msgid "%1$sPremium Features%2$s"
+msgstr "%1$s プレミアム機能 %2$s"
+
+#: plugin-options/general-options.php:225
+msgid "Get Support and Pro Features"
+msgstr "サポートと Pro 機能を入手"
+
+#: plugin-options/general-options.php:223
+msgid "See YITH WooCommerce Zoom Magnifier plugin with full premium features in action"
+msgstr "完全なプレミアム機能を備えた YITH WooCommerce Zoom Magnifier のプラグインをご覧ください"
+
+#: plugin-options/general-options.php:219
+msgid "Upgrade to the PREMIUM VERSION of YITH WOOCOMMERCE ZOOM MAGNIFIER to benefit from all features!"
+msgstr "すべての機能を利用するには、YITH WOOCOMMERCE ZOOM MAGNIFIER PREMIUM VERSION にアップグレードしてください !"
+
+#: plugin-options/general-options.php:218
+msgid "Discover The Advanced Features"
+msgstr "高度な機能を発見"
+
+#: plugin-options/general-options.php:214
+msgid "Upgrade to the PREMIUM VERSION"
+msgstr "プレミアムバージョンにアップグレード"
+
+#: plugin-options/general-options.php:195
+msgid "Infinite carousel"
+msgstr "無限カルーセル"
+
+#: plugin-options/general-options.php:188
+msgid "It defines whether the carousel should be circular."
+msgstr "カルーセルを円形にするかどうかを定義します。"
+
+#: plugin-options/general-options.php:187
+msgid "Circular carousel"
+msgstr "円形カルーセル"
+
+#: plugin-options/general-options.php:177
+msgid "Number of items to show"
+msgstr "表示するアイテム数"
+
+#: plugin-options/general-options.php:176
+msgid "Items"
+msgstr "アイテム"
+
+#: plugin-options/general-options.php:168
+msgid "Activate Responsive Slider"
+msgstr "レスポンシブスライダーの有効化"
+
+#: plugin-options/general-options.php:161
+msgid "Activate Thumbnail Slider."
+msgstr "サムネイルスライダーの有効化"
+
+#: plugin-options/general-options.php:160
+msgid "Activate Slider"
+msgstr "スライダーの有効化"
+
+#: plugin-options/general-options.php:154
+msgid "Slider Settings"
+msgstr "スライダー設定"
+
+#: plugin-options/general-options.php:143
+msgid "Add a blur effect to the small image on mouse hover."
+msgstr "マウスのホバー上の小さな画像にぼかし効果を追加します。"
+
+#: plugin-options/general-options.php:142
+msgid "Blur"
+msgstr "ブラー"
+
+#: plugin-options/general-options.php:131
+msgid "Lens Opacity"
+msgstr "レンズの不透明度"
+
+#: plugin-options/general-options.php:125
+#: plugin-options/general-options.php:126
+msgid "Loading..."
+msgstr "読み込んでいます..."
+
+#: plugin-options/general-options.php:122
+msgid "Loading label"
+msgstr "ローディング中のラベル"
+
+#: plugin-options/general-options.php:118
+msgid "Disable"
+msgstr "無効化"
+
+#: plugin-options/general-options.php:116
+msgid "Default"
+msgstr "デフォルト"
+
+#: plugin-options/general-options.php:109
+msgid "Zoom Box Position for mobile devices"
+msgstr "モバイルデバイス用のズームボックスの位置"
+
+#: plugin-options/general-options.php:105
+#: plugin-options/general-options.php:117
+msgid "Inside"
+msgstr "内側"
+
+#: plugin-options/general-options.php:104
+msgid "Right"
+msgstr "右"
+
+#: plugin-options/general-options.php:98
+msgid "The magnifier position"
+msgstr "拡大鏡の位置"
+
+#: plugin-options/general-options.php:97
+msgid "Zoom Box Position"
+msgstr "ズームボックスの位置"
+
+#: plugin-options/general-options.php:89
+msgid "The height of the magnifier box (default: auto)"
+msgstr "拡大鏡ボックスの高さ (デフォルト: auto)"
+
+#: plugin-options/general-options.php:88
+msgid "Zoom Box Height"
+msgstr "ズームボックスの高さ"
+
+#: plugin-options/general-options.php:81
+msgid "The width of the magnifier box (default: auto)"
+msgstr "拡大鏡ボックスの幅 (デフォルト: auto)"
+
+#: plugin-options/general-options.php:80
+msgid "Zoom Box Width"
+msgstr "ズームボックスの幅"
+
+#: plugin-options/general-options.php:74
+msgid "Magnifier Settings"
+msgstr "拡大鏡の設定"
+
+#: plugin-options/general-options.php:59
+msgid "Forced Image Size"
+msgstr "画像サイズを強制する"
+
+#: plugin-options/general-options.php:51
+msgid "Set if zoom and slider functionalities should be shown also on mobile devices."
+msgstr "ズーム機能とスライダー機能をモバイル端末にも表示する場合に設定します。"
+
+#: plugin-options/general-options.php:50
+msgid "Activate on mobile device"
+msgstr "モバイルデバイスで有効にする"
+
+#: plugin-options/general-options.php:43
+msgid "Activate the plugin or use the WooCommerce default product image."
+msgstr "プラグインを有効にするか、WooCommerce のデフォルトの商品画像を使用します。"
+
+#: plugin-options/general-options.php:42
+msgid "Activate YITH WooCommerce Zoom Magnifier"
+msgstr "YITH WooCommerce Zoom Magnifier の有効化"
+
+#: plugin-options/general-options.php:36
+msgid "General Settings"
+msgstr "一般設定"
+
+#: plugin-options/general-options.php:16
+msgid "Image size"
+msgstr "画像サイズ"
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:18
+msgid "Reset Defaults"
+msgstr "デフォルトに戻す"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:100
+#: yit-common/yith-panel.php:513
+msgid "Italic bold"
+msgstr "太斜体"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:99
+#: yit-common/yith-panel.php:511
+msgid "Italic"
+msgstr "斜体"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:98
+#: yit-common/yith-panel.php:509
+msgid "Extra bold"
+msgstr "極太"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:97
+#: yit-common/yith-panel.php:507
+msgid "Bold"
+msgstr "太字"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:96
+#: yit-common/yith-panel.php:505
+msgid "Regular"
+msgstr "標準"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:71
+msgid "Google fonts"
+msgstr "Google フォント"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:59
+#: plugin-fw/templates/metaboxes/types/typography.php:153
+#: plugin-fw/templates/metaboxes/types/typography.php:217
+msgid "Web fonts"
+msgstr "Web フォント"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:45
+#: yit-common/yith-panel.php:483
+msgid "rem"
+msgstr "rem"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:44
+#: yit-common/yith-panel.php:481
+msgid "pt"
+msgstr "pt"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:43
+#: yit-common/yith-panel.php:479
+msgid "em"
+msgstr "em"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:42
+#: yit-common/yith-panel.php:477
+msgid "px"
+msgstr "px"
+
+#: plugin-fw/templates/metaboxes/types/sidebars.php:62
+msgid "Right Sidebar"
+msgstr "右サイドバー"
+
+#: plugin-fw/templates/metaboxes/types/sidebars.php:51
+msgid "Left Sidebar"
+msgstr "左サイドバー"
+
+#: plugin-fw/templates/metaboxes/types/sidebar-layout.php:34
+#: plugin-fw/templates/metaboxes/types/sidebars.php:53
+#: plugin-fw/templates/metaboxes/types/sidebars.php:64
+msgid "Choose a sidebar"
+msgstr "サイドバーを選択"
+
+#: plugin-fw/templates/metaboxes/types/sidebar-layout.php:31
+#: plugin-fw/templates/metaboxes/types/sidebars.php:39
+msgid "Right sidebar"
+msgstr "右サイドバー"
+
+#: plugin-fw/templates/metaboxes/types/sidebar-layout.php:28
+#: plugin-fw/templates/metaboxes/types/sidebars.php:42
+#: plugin-fw/templates/metaboxes/types/sidebars.php:45
+msgid "No sidebar"
+msgstr "サイドバーなし"
+
+#: plugin-fw/templates/metaboxes/types/sidebar-layout.php:25
+#: plugin-fw/templates/metaboxes/types/sidebars.php:36
+msgid "Left sidebar"
+msgstr "左サイドバー"
+
+#: plugin-fw/templates/metaboxes/types/images.php:75
+msgid "Are you sure you want to remove this image?"
+msgstr "この画像を本当に削除してもよいですか ?"
+
+#: plugin-fw/templates/metaboxes/types/images.php:42
+msgid "Upload new images"
+msgstr "新規画像をアップロード"
+
+#: plugin-fw/templates/metaboxes/types/image-gallery.php:45
+msgid "Delete"
+msgstr "削除"
+
+#: plugin-fw/templates/metaboxes/types/image-gallery.php:45
+msgid "Add images"
+msgstr "画像を追加"
+
+#: plugin-fw/templates/metaboxes/types/image-gallery.php:45
+msgid "Add to gallery"
+msgstr "ギャラリーに追加"
+
+#: plugin-fw/templates/metaboxes/types/image-gallery.php:45
+msgid "Add Images to Gallery"
+msgstr "ギャラリーに画像を追加"
+
+#: plugin-fw/templates/metaboxes/types/image-gallery.php:40
+#: plugin-fw/templates/metaboxes/types/image-gallery.php:45
+#: plugin-fw/templates/metaboxes/types/images.php:38
+#: plugin-fw/templates/metaboxes/types/images.php:64
+msgid "Delete image"
+msgstr "画像を削除"
+
+#: plugin-fw/templates/metaboxes/types/icon-list.php:91
+msgid "(Default: <i %s></i> )"
+msgstr "(デフォルト: <i %s></i> )"
+
+#: plugin-fw/templates/metaboxes/types/icon-list.php:89
+msgid "(Default: %s <img src=\"%s\"/>)"
+msgstr "(デフォルト: %s <img src=\"%s\"/>)"
+
+#: plugin-fw/templates/metaboxes/types/customtabs.php:107
+msgid "Do you want to remove the custom tab?"
+msgstr "カスタムタブを削除しますか ?"
+
+#: plugin-fw/templates/metaboxes/types/customtabs.php:65
+msgid "Add custom product tab"
+msgstr "カスタム商品タブを追加"
+
+#: plugin-fw/templates/metaboxes/types/customtabs.php:53
+#: plugin-fw/templates/metaboxes/types/customtabs.php:96
+msgid "Content of the tab. (HTML is supported)"
+msgstr "タブのコンテンツ (HTML 利用可能) 。"
+
+#: plugin-fw/templates/metaboxes/types/customtabs.php:52
+#: plugin-fw/templates/metaboxes/types/customtabs.php:95
+msgid "Value"
+msgstr "値"
+
+#: plugin-fw/templates/metaboxes/types/customtabs.php:28
+msgid "Expand all"
+msgstr "すべて展開"
+
+#: plugin-fw/templates/metaboxes/types/customtabs.php:28
+msgid "Close all"
+msgstr "すべて閉じる"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:247
+#: plugin-fw/templates/metaboxes/types/contactform.php:421
+msgid "Set field length."
+msgstr "フィールドの長さを設定。"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:222
+#: plugin-fw/templates/metaboxes/types/contactform.php:409
+msgid "Width"
+msgstr "幅"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:217
+#: plugin-fw/templates/metaboxes/types/contactform.php:405
+msgid "Insert an icon for more personalization."
+msgstr "さらにパーソナライズするためアイコンを挿入できます。"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:209
+#: plugin-fw/templates/metaboxes/types/contactform.php:397
+#: plugin-fw/templates/metaboxes/types/icon-list.php:75
+#: plugin-fw/templates/metaboxes/types/select-icon.php:39
+msgid "Image preview"
+msgstr "画像のプレビュー"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:203
+#: plugin-fw/templates/metaboxes/types/contactform.php:391
+#: plugin-fw/templates/metaboxes/types/icon-list.php:69
+#: plugin-fw/templates/metaboxes/types/select-icon.php:33
+#: plugin-fw/templates/metaboxes/types/upload.php:21
+#: plugin-fw/templates/panel/types/upload.php:31
+#: plugin-fw/templates/panel/woocommerce/woocommerce-upload.php:40
+#: yit-common/yith-panel.php:440
+msgid "Upload"
+msgstr "アップロード"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:175
+#: plugin-fw/templates/metaboxes/types/contactform.php:367
+msgid "Icon"
+msgstr "アイコン"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:170
+#: plugin-fw/templates/metaboxes/types/contactform.php:362
+msgid "Insert additional class(es) (separated by commas) for more personalization."
+msgstr "さらにカスタマイズするための追加クラス (コンマ区切り) を挿入してください。"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:166
+#: plugin-fw/templates/metaboxes/types/contactform.php:358
+msgid "Class"
+msgstr "クラス"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:161
+#: plugin-fw/templates/metaboxes/types/contactform.php:353
+msgid "Select this if it is the email you can reply to."
+msgstr "このメールが返信可能なアドレスの場合は選択してください。"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:157
+#: plugin-fw/templates/metaboxes/types/contactform.php:349
+msgid "Reply To"
+msgstr "返信先"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:152
+#: plugin-fw/templates/metaboxes/types/contactform.php:344
+msgid "Select this option if the email must be valid."
+msgstr "有効なメールアドレスを必須にする場合は選択してください。"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:143
+#: plugin-fw/templates/metaboxes/types/contactform.php:335
+msgid "Select this option if it must be required."
+msgstr "必須にする場合はこのオプションを選択してください。"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:139
+#: plugin-fw/templates/metaboxes/types/contactform.php:331
+msgid "Required"
+msgstr "必須"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:134
+#: plugin-fw/templates/metaboxes/types/contactform.php:326
+msgid "Insert the error message for validation."
+msgstr "入力規制のエラーメッセージを挿入して下さい。"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:130
+#: plugin-fw/templates/metaboxes/types/contactform.php:322
+msgid "Error Message"
+msgstr "エラーメッセージ"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:124
+#: plugin-fw/templates/metaboxes/types/contactform.php:316
+#: plugin-fw/templates/metaboxes/types/contactform.php:436
+msgid "Delete option"
+msgstr "削除オプション"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:121
+#: plugin-fw/templates/metaboxes/types/contactform.php:313
+#: plugin-fw/templates/metaboxes/types/contactform.php:436
+msgid "Selected"
+msgstr "選択済み"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:118
+#: plugin-fw/templates/metaboxes/types/contactform.php:310
+msgid "Add option"
+msgstr "オプション追加"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:117
+#: plugin-fw/templates/metaboxes/types/contactform.php:309
+msgid "Add options "
+msgstr "オプション追加"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:112
+#: plugin-fw/templates/metaboxes/types/contactform.php:304
+msgid "Select this option if you want this field appears as already checked."
+msgstr "フィールドをチェック済みとして表示したい場合はこのオプションを選択してください。"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:108
+#: plugin-fw/templates/metaboxes/types/contactform.php:300
+msgid "Checked"
+msgstr "チェック済み"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:103
+#: plugin-fw/templates/metaboxes/types/contactform.php:295
+msgid "Select the type for this field."
+msgstr "このフィールドの種類を選択してください。"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:95
+#: plugin-fw/templates/metaboxes/types/contactform.php:287
+msgid "Field Type"
+msgstr "フィールドタイプ"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:90
+#: plugin-fw/templates/metaboxes/types/contactform.php:282
+msgid "REQUIRED: Field identification name to be entered into email body. <strong>Note:</strong>Use only lowercase characters and underscores."
+msgstr "必須: フィールド識別名は、電子メール本文に入力されます。<strong>注意: </strong>英語半角小文字とアンダースコアのみ利用可能です。"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:86
+#: plugin-fw/templates/metaboxes/types/contactform.php:278
+msgid "Data Name"
+msgstr "データ名"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:81
+#: plugin-fw/templates/metaboxes/types/contactform.php:273
+msgid "Insert the title for the field."
+msgstr "フィールドのタイトルを記入してください。"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:77
+#: plugin-fw/templates/metaboxes/types/contactform.php:269
+msgid "Field Title"
+msgstr "フィールドタイトル"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:70
+#: plugin-fw/templates/metaboxes/types/contactform.php:262
+msgid "Click to toggle"
+msgstr "クリックで切り替え"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:69
+#: plugin-fw/templates/metaboxes/types/contactform.php:261
+#: plugin-fw/templates/metaboxes/types/customtabs.php:37
+#: plugin-fw/templates/metaboxes/types/customtabs.php:82
+msgid "Remove"
+msgstr "削除"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:60
+msgid "Add field"
+msgstr "フィールド追加"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:49
+#: plugin-fw/templates/metaboxes/types/responsivesliders.php:24
+msgid "None"
+msgstr "なし"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:48
+msgid "Custom Icon"
+msgstr "カスタムアイコン"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:47
+msgid "Theme Icon"
+msgstr "テーマアイコン"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:13
+msgid "File Upload"
+msgstr "ファイルアップロード"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:12
+msgid "Password Field"
+msgstr "パスワード欄"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:11
+msgid "Radio Input"
+msgstr "ラジオボタン"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:10
+msgid "Textarea"
+msgstr "テキストエリア"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:9
+msgid "Select"
+msgstr "選択"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:8
+msgid "Checkbox"
+msgstr "チェックボックス"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:7
+msgid "Text Input"
+msgstr "テキスト入力"
+
+#: plugin-fw/templates/metaboxes/types/categories.php:46
+msgid "Add"
+msgstr "追加"
+
+#: plugin-fw/templates/metaboxes/types/categories.php:42
+msgid "+ Add New Category"
+msgstr "+ 新しいカテゴリーの追加"
+
+#: plugin-fw/templates/metaboxes/types/categories.php:36
+msgid "No categories."
+msgstr "カテゴリーがありません。"
+
+#: plugin-fw/templates/metaboxes/types/ajax-products.php:23
+msgid "Search for a product"
+msgstr "商品を検索"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:190
+msgid "Expired"
+msgstr "期限切れ"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:160
+msgid "Banned"
+msgstr "ブロック中"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:126
+msgid "%1s out of %2s"
+msgstr "%2s件中%1s件"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:147
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:204
+msgid "Renew"
+msgstr "更新"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:95
+msgid "Remaining"
+msgstr "残数"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:92
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:201
+msgid "Expires"
+msgstr "期限"
+
+#: plugin-fw/licence/lib/yit-licence.php:187
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:89
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:167
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:198
+msgid "License Key"
+msgstr "ライセンスキー"
+
+#: plugin-fw/licence/lib/yit-licence.php:186
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:88
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:166
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:197
+#: plugin-fw/templates/metaboxes/types/contactform.php:148
+#: plugin-fw/templates/metaboxes/types/contactform.php:340
+msgid "Email"
+msgstr "メール"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:86
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:164
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:194
+msgid "Product Name"
+msgstr "商品名"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:80
+msgid "Activated"
+msgstr "有効化済み"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:61
+msgid "Activate"
+msgstr "有効化"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:29
+msgid "Update license information"
+msgstr "ライセンス情報を更新"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:27
+msgid "Have you updated your licenses? Have you asked for an extension? Update information concerning your products."
+msgstr "ライセンスを更新したり期限を延長した場合は、商品に関する情報を更新してください。"
+
+#: plugin-fw/licence/lib/yit-theme-licence.php:163
+msgid ""
+"If you have purchased one of our products before 27 January 2015, you can benefit from support and updates (the services offered with the license)\n"
+"                    until 27 January 2016 and you do not have to purchase it again to get a new license key, because, before this date, your license used to be activated automatically by our system.\n"
+"                    After 27 January 2016, instead, if you want to benefit from support and updates you have to buy a new license and activate it through the license key you will be\n"
+"                    provided with and that you can find in your YIThemes account, in section \"My licenses\"."
+msgstr ""
+"2015年1月27日までに製品を購入した場合は、2016年1月27日までのサポートと更新 (ライセンスで提供されるサービス)\n"
+"のメリットが得られます。新しいライセンスキーを取得するために購入する必要はありません。この日より前に、お客様のライセンスは当社システムによって自動的に有効化されています。\n"
+"2016年1月27日以降、サポートと更新のメリットを得るには、新しいライセンスを購入し、提供されたライセンスキーを使用してライセンスを有効にする必要があります。\n"
+"また、これは YIThemes アカウントセクションの \"My licenses\" にあります。"
+
+#: plugin-fw/licence/lib/yit-theme-licence.php:159
+msgid "I cannot find the license key for activating the theme I have bought some time ago. Where can I find it?"
+msgstr "以前に購入したテーマのライセンスキーが見つかりません。どこで探したら良いですか？"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:23
+msgid "Yithemes License Activation"
+msgstr "Yithemes ライセンスの有効化"
+
+#: plugin-fw/licence/lib/yit-theme-licence.php:117
+#: plugin-fw/licence/lib/yit-theme-licence.php:118
+msgid "%s"
+msgstr "%s"
+
+#: plugin-fw/licence/lib/yit-plugin-licence.php:67
+#: plugin-fw/licence/lib/yit-plugin-licence.php:68
+#: plugin-fw/licence/lib/yit-theme-licence.php:69
+#: plugin-fw/licence/lib/yit-theme-licence.php:70
+#: plugin-fw/licence/lib/yit-theme-licence.php:109
+#: plugin-fw/licence/lib/yit-theme-licence.php:110
+msgid "License Activation"
+msgstr "ライセンスの有効化"
+
+#: plugin-fw/licence/lib/yit-licence.php:675
+msgid "License key has been banned"
+msgstr "ライセンスキーがブロックされています"
+
+#: plugin-fw/licence/lib/yit-licence.php:674
+msgid "License key has expired"
+msgstr "ライセンスキーが期限切れです"
+
+#: plugin-fw/licence/lib/yit-licence.php:673
+msgid "Invalid security key"
+msgstr "無効なセキュリティキー"
+
+#: plugin-fw/licence/lib/yit-licence.php:672
+msgid "Invalid instance ID"
+msgstr "無効なインスタンス ID"
+
+#: plugin-fw/licence/lib/yit-licence.php:671
+msgid "Maximum number of activations exceeded"
+msgstr "有効化の最大数を超えています"
+
+#: plugin-fw/licence/lib/yit-licence.php:670
+msgid "Software has been deactivated"
+msgstr "ソフトウェアが無効になっています"
+
+#: plugin-fw/licence/lib/yit-licence.php:669
+msgid "Invalid license key"
+msgstr "無効なライセンスキー"
+
+#: plugin-fw/licence/lib/yit-licence.php:668
+msgid "Invalid Request"
+msgstr "無効なリクエスト"
+
+#: plugin-fw/licence/lib/yit-licence.php:185
+msgid "Unable to contact the remote server, please try again later. Thanks!"
+msgstr "リモートサーバーに接続できません。後ほどもう一度お試しください。"
+
+#: plugin-fw/licence/lib/yit-licence.php:184
+msgid "%s and %s fields cannot be empty"
+msgstr "%s および %s 欄は空にはできません"
+
+#: plugin-fw/licence/lib/yit-licence.php:183
+msgctxt "%s = field name"
+msgid "%s field cannot be empty"
+msgstr "%s 欄は空にはできません。"
+
+#: plugin-fw/lib/yit-upgrade.php:537
+msgid "Update Plugin"
+msgstr "プラグインを更新"
+
+#: plugin-fw/lib/yit-upgrade.php:530
+msgid "You do not have sufficient permissions to update the plugins for this site."
+msgstr "このサイトのプラグインを更新するための十分な権限がありません。"
+
+#: plugin-fw/lib/yit-upgrade.php:526
+msgid "You can't update the plugins for this site."
+msgstr "このサイトでプラグインを更新できません。"
+
+#: plugin-fw/lib/yit-upgrade.php:452
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a> or <a href=\"%5$s\">update now</a>."
+msgstr "%1$s の新しいバージョンが利用できます。<a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">バージョン %4$s の詳細を表示</a>または<a href=\"%5$s\">今すぐ更新</a>。"
+
+#: plugin-fw/lib/yit-upgrade.php:450
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a>. <em>Automatic update is unavailable for this plugin, please <a href=\"%5$s\" title=\"License activation\">activate</a> your copy of %6s.</em>"
+msgstr "%1$s の新しいバージョンが利用できます。<a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">バージョン %4$s の詳細を表示</a>。<em>このプラグインの自動更新は利用いただけません。お手持ちの %6s <a href=\"%5$s\" title=\"License activation\">を有効化</a>してください。</em>"
+
+#: plugin-fw/lib/yit-upgrade.php:448
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a>. <em>You have to activate the plugin on a single site of the network to benefit from automatic updates.</em>"
+msgstr "%1$s の新しいバージョンが利用できます。<a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">バージョン %4$s の詳細を表示</a>。<em>自動更新を活用するにはネットワーク内の個別サイトでプラグインを有効化する必要があります</em>。"
+
+#: plugin-fw/lib/yit-upgrade.php:446
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a>."
+msgstr "%1$s の新しいバージョンが利用できます. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">バージョン %4$s の詳細を表示</a>。"
+
+#: plugin-fw/lib/yit-upgrade.php:287
+msgid "Could not create Temporary file."
+msgstr "一時ファイルを作成できませんでした。"
+
+#: plugin-fw/lib/yit-upgrade.php:274
+msgid "Invalid URL Provided."
+msgstr "無効な URL です。"
+
+#: plugin-fw/lib/yit-upgrade.php:240
+msgid "YIThemes Repository"
+msgstr "YIThemes レポジトリ"
+
+#: plugin-fw/lib/yit-upgrade.php:139
+msgid "Update now."
+msgstr "今すぐ更新。"
+
+#: plugin-fw/lib/yit-upgrade.php:138
+msgid "please <a href=\"%activate_link%\">activate</a> your copy of %plugin_name%."
+msgstr "%plugin_name% を<a href=\"%activate_link%\">有効化</a>してください。"
+
+#: plugin-fw/lib/yit-upgrade.php:137
+msgid "Automatic update is unavailable for this plugin,"
+msgstr "このプラグインの自動更新は利用いただけません。"
+
+#: plugin-fw/lib/yit-upgrade.php:136
+msgid "View version %latest% details."
+msgstr "バージョン %latest% の詳細を表示する。"
+
+#: plugin-fw/lib/yit-upgrade.php:135
+msgid "There is a new version of %plugin_name% available."
+msgstr "新しいバージョンの %plugin_name% が利用可能です。"
+
+#: plugin-fw/lib/yit-pointers.php:84
+msgid "Plugins Upgraded"
+msgstr "プラグインを更新しました"
+
+#: plugin-fw/lib/yit-pointers.php:74 plugin-fw/lib/yit-pointers.php:90
+msgid "and"
+msgstr "と"
+
+#: plugin-fw/lib/yit-pointers.php:73 plugin-fw/lib/yit-pointers.php:89
+msgid "Discover all our plugins available on:"
+msgstr "利用可能なすべてのプラグインを見つけてください: "
+
+#: plugin-fw/lib/yit-pointers.php:71
+msgid ""
+"From now on, you can find all plugin options in YITH Plugins menu.\n"
+"                                     Plugin customization settings will be available as a new entry in YITH Plugins menu."
+msgstr ""
+"これから、YITHプラグインメニューのすべてのプラグインオプションを見つけることができます。\n"
+"                                     プラグインのカスタマイズ設定はYITH Pluginsメニューの新しい項目として利用できます。"
+
+#: plugin-fw/lib/yit-pointers.php:70
+msgid "Plugins Activated"
+msgstr "プラグイン有効化済み"
+
+#: plugin-fw/lib/yit-plugin-subpanel.php:149
+msgid "If you continue with this action, you will reset all the options in this page."
+msgstr "この操作を続行した場合は、このページのすべてのオプションがリセットされます。"
+
+#: plugin-fw/lib/yit-plugin-panel.php:563
+msgid "Sorting successful."
+msgstr "並べ替え完了。"
+
+#: plugin-fw/lib/yit-plugin-panel.php:562
+msgid "Sorry, import is disabled."
+msgstr "インポート機能は停止中です。"
+
+#: plugin-fw/lib/yit-plugin-panel.php:561
+msgid "The added file is not valid."
+msgstr "追加されたファイルは有効ではありません。"
+
+#: plugin-fw/lib/yit-plugin-panel.php:560
+msgid "An error has occurred during import. Please try again."
+msgstr "インポート中にエラーが発生しました。もう一度お試しください。"
+
+#: plugin-fw/lib/yit-plugin-panel.php:559
+msgid "Database imported correctly."
+msgstr "データベースのインポートを完了しました。"
+
+#: plugin-fw/lib/yit-plugin-panel.php:557
+#: plugin-fw/lib/yit-plugin-panel.php:558
+msgid "Element updated correctly."
+msgstr "要素を更新しました。"
+
+#: plugin-fw/lib/yit-plugin-panel.php:556
+msgid "Element deleted correctly."
+msgstr "要素を削除しました。"
+
+#: plugin-fw/lib/yit-plugin-panel.php:555
+msgid "Settings reset"
+msgstr "設定をリセット"
+
+#: plugin-fw/lib/yit-plugin-panel.php:554
+msgid "Settings saved"
+msgstr "設定を保存"
+
+#: plugin-fw/lib/yit-plugin-panel.php:553
+msgid "The element you have entered already exists. Please, enter another name."
+msgstr "入力した要素がすでに存在しています。他の名前を入力してください。"
+
+#: plugin-fw/lib/yit-plugin-panel.php:357
+#: plugin-fw/lib/yit-plugin-subpanel.php:151
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:19
+msgid "Are you sure?"
+msgstr "本当に実行しますか ?"
+
+#: plugin-fw/lib/yit-plugin-panel.php:357
+#: plugin-fw/lib/yit-plugin-subpanel.php:151
+msgid "Reset to default"
+msgstr "デフォルトに戻す"
+
+#: plugin-fw/lib/yit-plugin-panel.php:355
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:15
+msgid "If you continue with this action, you will reset all options in this page."
+msgstr "操作を続行すると、このページのオプションがすべてリセットされます。"
+
+#: plugin-fw/lib/yit-plugin-panel.php:352
+#: plugin-fw/lib/yit-plugin-subpanel.php:146
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:12
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: plugin-fw/lib/yit-plugin-panel.php:73
+msgid "Plugin Settings"
+msgstr "プラグイン設定"
+
+#: plugin-fw/lib/yit-plugin-panel-wc.php:374
+msgid "The changes you have made will be lost if you leave this page."
+msgstr "このページから離れると変更内容は失われます。"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1633
+msgid "Upload multiple files"
+msgstr "複数のファイルをアップロード"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1631
+msgid "Add %s from images"
+msgstr "画像から %s を追加"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1482
+#: plugin-fw/templates/metaboxes/types/customtabs.php:46
+#: plugin-fw/templates/metaboxes/types/customtabs.php:90
+msgid "Name"
+msgstr "名前"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1475
+msgid "Show frontend of the %s"
+msgstr "%s のフロントエンドを表示"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1222
+#: plugin-fw/lib/yit-cpt-unlimited.php:1235
+msgid "Quick links"
+msgstr "クイックリンク"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1130
+msgid "layout settings"
+msgstr "レイアウト設定"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1089
+msgid "Layout for single page of this portfolio"
+msgstr "このポートフォリオの個別ページのレイアウト"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1088
+msgid "Single layout"
+msgstr "シングルレイアウト"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1083
+msgid "Set univocal name for each category page URL."
+msgstr "カテゴリページ URL ごとに一意の名前を設定します。"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1082
+msgid "Taxonomy Rewrite"
+msgstr "タクソノミーリライト"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1077
+msgid "If you want to use categories in the portfolio, set a name for taxonomy. Name should be a slug (must not contain capital letters nor spaces) and must not be more than 32 characters long (database structure restriction)."
+msgstr "ポートフォリオでカテゴリーを使用する場合は、タクソノミー名を設定します。名前はスラッグ (大文字またはスペースは使用できません) で、32文字 (データベース構造の制限) を超えてはいけません。"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1076
+msgid "Taxonomy"
+msgstr "タクソノミー"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1071
+msgid "Set a label in plural (title of portfolio if empty)"
+msgstr "複数のラベルを設定する (空の場合はポートフォリオのタイトル)"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1070
+msgid "Label in Plural"
+msgstr "複数形ラベル"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1065
+msgid "Set a label in singular (title of portfolio if empty)"
+msgstr "単数形でラベルを設定する (空の場合はポートフォリオのタイトル)"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1064
+msgid "Label in Singular"
+msgstr "単数形ラベル"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1059
+msgid "Univocal identification name in the URL for each product (slug from post if empty)"
+msgstr "各製品の URL の一意の識別名 (空の場合は投稿からのスラッグ)"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1058
+msgid "Rewrite"
+msgstr "リライト"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1051
+msgid "Type"
+msgstr "タイプ"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1042
+msgid "%s Settings"
+msgstr "%s 設定"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:724
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:635
+msgid "Category"
+msgstr "カテゴリー"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:634
+msgid "New Category Name"
+msgstr "新規カテゴリー名"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:633
+msgid "Add New Category"
+msgstr "新規カテゴリーを追加"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:632
+msgid "Update Category"
+msgstr "カテゴリーを更新"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:631
+msgid "Edit Category"
+msgstr "カテゴリーの編集"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:630
+msgid "Parent Category:"
+msgstr "親カテゴリー:"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:629
+msgid "Parent Category"
+msgstr "親カテゴリー"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:628
+msgid "All Categories"
+msgstr "カテゴリー一覧"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:627
+msgid "Search Categories"
+msgstr "カテゴリーを検索"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:626
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr "カテゴリー"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:625
+msgctxt "taxonomy general name"
+msgid "%s Categories"
+msgstr "%s カテゴリー"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:468
+#: plugin-fw/lib/yit-cpt-unlimited.php:582
+msgid "No %s found in Trash"
+msgstr "ゴミ箱に %s は見つかりませんでした"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:467
+#: plugin-fw/lib/yit-cpt-unlimited.php:581
+msgid "No %s found"
+msgstr "%s が見つかりませんでした。"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:466
+#: plugin-fw/lib/yit-cpt-unlimited.php:580
+msgid "Search %s"
+msgstr "%s を検索"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:465
+#: plugin-fw/lib/yit-cpt-unlimited.php:579
+#: plugin-fw/lib/yit-cpt-unlimited.php:1251
+#: plugin-fw/lib/yit-cpt-unlimited.php:1305
+msgid "View %s"
+msgstr "%s を表示"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:464
+#: plugin-fw/lib/yit-cpt-unlimited.php:578
+msgid "All %s"
+msgstr "%s 一覧"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:463
+#: plugin-fw/lib/yit-cpt-unlimited.php:577
+msgid "New %s"
+msgstr "新規 %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:462
+#: plugin-fw/lib/yit-cpt-unlimited.php:576
+#: plugin-fw/lib/yit-cpt-unlimited.php:1267
+#: plugin-fw/lib/yit-cpt-unlimited.php:1304
+msgid "Edit %s"
+msgstr "編集 %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:461
+#: plugin-fw/lib/yit-cpt-unlimited.php:575
+msgid "Add New %s"
+msgstr "新規%sを追加"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:460
+#: plugin-fw/lib/yit-cpt-unlimited.php:574
+#: plugin-fw/lib/yit-cpt-unlimited.php:719
+#: plugin-fw/lib/yit-cpt-unlimited.php:1632
+msgid "Add %s"
+msgstr "%s を追加"
+
+#. #-#-#-#-#  tmp-yith-woocommerce-zoom-magnifier.pot (YITH WooCommerce Zoom
+#. Magnifier 1.2.28)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: lib/class.yith-ywzm-plugin-fw-loader.php:241
+#: plugin-options/general-options.php:217
+msgid "YITH WooCommerce Zoom Magnifier"
+msgstr "YITH WooCommerce Zoom Magnifier"
+
+#: lib/class.yith-ywzm-plugin-fw-loader.php:234
+msgid "Premium version"
+msgstr "プレミアムバージョン"
+
+#: lib/class.yith-ywzm-plugin-fw-loader.php:233
+msgid "YITH WooCommerce Zoom Magnifier is available in an outstanding PREMIUM version with many new options, discover it now."
+msgstr "YITH WooCommerce Zoom Magnifier は、多くの新しいオプションを備えた優れたプレミアムバージョンをご利用いただけます。"
+
+#: lib/class.yith-ywzm-plugin-fw-loader.php:220
+msgid "Plugin Documentation"
+msgstr "プラグインドキュメント"
+
+#: lib/class.yith-ywzm-plugin-fw-loader.php:192
+#: plugin-fw/lib/yit-cpt-unlimited.php:1048
+#: plugin-fw/lib/yit-cpt-unlimited.php:1196
+#: plugin-fw/lib/yit-cpt-unlimited.php:1202
+#: plugin-fw/lib/yit-plugin-panel.php:74
+msgid "Settings"
+msgstr "設定"
+
+#: lib/class.yith-ywzm-plugin-fw-loader.php:133
+msgid "Product exclusion list"
+msgstr "商品除外リスト"
+
+#: lib/class.yith-ywzm-plugin-fw-loader.php:131
+#: lib/class.yith-ywzm-plugin-fw-loader.php:195
+msgid "Premium Version"
+msgstr "プレミアムバージョン"
+
+#: lib/class.yith-ywzm-plugin-fw-loader.php:128
+msgid "General"
+msgstr "一般"
+
+#: lib/class.yith-ywzm-custom-types.php:159
+msgid "Do you want to hard crop the image?"
+msgstr "画像をハードクロップしますか ?"
+
+#: init.php:50
+msgid "YITH WooCommerce Zoom Magnifier is enabled but not effective. It requires WooCommerce in order to work."
+msgstr "YITH WooCommerce Zoom Magnifier は有効ですが効果がありません。動作するためには WooCommerce が必要です。"
+
+#: class.yith-wcmg-admin.php:81 plugin-options/general-options.php:17
+msgid "The size of the images used within the magnifier box"
+msgstr "拡大鏡ボックス内で使用される画像の大きさ"
+
+#: class.yith-wcmg-admin.php:80
+msgid "Image Size"
+msgstr "画像サイズ"

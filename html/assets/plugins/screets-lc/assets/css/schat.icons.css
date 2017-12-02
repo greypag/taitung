@@ -1,0 +1,167 @@
+/*!
+ * Screets Live Chat - Icons
+ * Author: @screetscom
+ *
+ * COPYRIGHT © 2016 Screets d.o.o. All rights reserved.
+ * This  is  commercial  software,  only  users  who have purchased a valid
+ * license  and  accept  to the terms of the  License Agreement can install
+ * and use this program.
+ */
+
+@charset "UTF-8";
+
+@font-face {
+  font-family: "schat";
+  src:url("../fonts/schat.eot");
+  src:url("../fonts/schat.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/schat.woff") format("woff"),
+    url("../fonts/schat.ttf") format("truetype"),
+    url("../fonts/schat.svg#schat") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+.schat-w [data-icon]:before {
+  font-family: "schat" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="schat-ico-"]:before,
+[class*=" schat-ico-"]:before {
+  font-family: "schat" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.schat-ico-attach:before {
+  content: "\66";
+}
+.schat-ico-img:before {
+  content: "\64";
+}
+.schat-ico-close:before {
+  content: "\67";
+}
+.schat-ico-up:before {
+  content: "\68";
+}
+.schat-ico-down:before {
+  content: "\69";
+}
+.schat-ico-right:before {
+  content: "\61";
+}
+.schat-ico-chat:before {
+  content: "\65";
+}
+.schat-ico-dislik:before {
+  content: "\62";
+}
+.schat-ico-like:before {
+  content: "\63";
+}
+.schat-ico-twitter:before {
+  content: "\6a";
+}
+.schat-ico-facebook:before {
+  content: "\6b";
+}
+.schat-ico-linkedin:before {
+  content: "\6d";
+}
+.schat-ico-send:before {
+  content: "\6f";
+}
+.schat-ico-mail:before {
+  content: "\70";
+}
+.schat-ico-ok:before {
+  content: "\71";
+}
+.schat-ico-skype:before {
+  content: "\72";
+}
+.schat-ico-vimeo:before {
+  content: "\74";
+}
+.schat-ico-github:before {
+  content: "\75";
+}
+.schat-ico-slack:before {
+  content: "\76";
+}
+.schat-ico-slideshare:before {
+  content: "\77";
+}
+.schat-ico-medium:before {
+  content: "\78";
+}
+.schat-ico-warn:before {
+  content: "\79";
+}
+.schat-ico-login:before {
+  content: "\7a";
+}
+.schat-ico-logout:before {
+  content: "\41";
+}
+.schat-ico-phone:before {
+  content: "\6c";
+}
+.schat-ico-star:before {
+  content: "\73";
+}
+.schat-ico-options:before {
+  content: "\42";
+}
+.schat-ico-menu:before {
+  content: "\43";
+}
+.schat-ico-new-win:before {
+  content: "\44";
+}
+.schat-ico-search:before {
+  content: "\45";
+}
+.schat-ico-cancel:before {
+  content: "\46";
+}
+.schat-ico-mobile:before {
+  content: "\47";
+}
+.schat-ico-database:before {
+  content: "\48";
+}
+.schat-ico-user:before {
+  content: "\49";
+}
+.schat-ico-pencil:before {
+  content: "\4a";
+}
+.schat-ico-youtube:before {
+  content: "\4b";
+}
+.schat-ico-night-bird:before {
+  content: "\4c";
+}
+.schat-ico-night-bird-o:before {
+  content: "\6e";
+}
+.schat-ico-in-chat:before {
+  content: "\4e";
+}

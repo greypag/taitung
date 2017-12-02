@@ -1,0 +1,19 @@
+/*!
+ * Screets Live Chat - TinyMCE Editor Stylesheet
+ * Author: @screetscom
+ *
+ * COPYRIGHT © 2016 Screets d.o.o. All rights reserved.
+ * This  is  commercial  software,  only  users  who have purchased a valid
+ * license  and  accept  to the terms of the  License Agreement can install
+ * and use this program.
+ */
+
+body#tinymce.wp-editor {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin: 10px 20px;
+}
+
+body#tinymce.wp-editor a {
+    color: #4CA6CF;
+}

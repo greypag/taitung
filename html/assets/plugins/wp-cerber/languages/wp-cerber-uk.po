@@ -1,0 +1,917 @@
+# Translation of Plugins - Cerber Security &#38; Limit Login Attempts - Stable (latest release) in Ukrainian
+# This file is distributed under the same license as the Plugins - Cerber Security &#38; Limit Login Attempts - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-12-26 23:39:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Plugins - Cerber Security &#38; Limit Login Attempts - Stable (latest release)\n"
+
+#. Author of the plugin/theme
+msgid "Gregory M"
+msgstr "Gregory M"
+
+#. Description of the plugin/theme
+msgid "Protects site against brute force attacks. Comprehensive control of user activity. Restrict login by IP access lists. Limit login attempts. Feel free to contact developer via wpcerber@gmail.com or on the site <a href=\"http://wpcerber.com\">wpcerber.com</a>."
+msgstr "Захищає сайт проти \"brute force\" атак. Всеобічний контроль за активністю користувачів. Обмеження входу списком окремих IP-адрес. Обмеження кількості спроб входу. Не соромтеся звертатися до розробника на wpcerber@gmail.com або на сайті <a href=\"http://wpcerber.com\">wpcerber.com</a>."
+
+#. #-#-#-#-#  tmp-wp-cerber.pot (WP Cerber 3.0)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  tmp-wp-cerber.pot (WP Cerber 3.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://wpcerber.com"
+msgstr "http://wpcerber.com"
+
+#: wp-cerber.php:1452
+msgid "Database upgrade error"
+msgstr "Помилка оновлення бази даних"
+
+#: wp-cerber.php:1414
+msgid "Import settings"
+msgstr "Імпорт налаштувань"
+
+#: wp-cerber.php:1407
+msgid "It's important to check security settings."
+msgstr "Важливо перевірити налаштування безпеки."
+
+#: wp-cerber.php:1405
+msgid "Your IP address is added to the"
+msgstr "Ваша IP-адреса додана до"
+
+#: wp-cerber.php:1388
+msgid "Can't activate WP Cerber due to a database error."
+msgstr "Не вдалося активувати WP Cerber через помилку у базі даних."
+
+#: wp-cerber.php:1383
+msgid "The WP Cerber requires WordPress %s or higher. You are running"
+msgstr "WP Cerber потребує WordPress %s або вище. Ви використовуєте"
+
+#: wp-cerber.php:1379
+msgid "The WP Cerber requires PHP %s or higher. You are running"
+msgstr "WP Cerber потребує PHP %s або вище. Ви використовуєте"
+
+#: wp-cerber.php:1246
+msgid "This message was sent by"
+msgstr "Це повідомлення було надіслано від"
+
+#: wp-cerber.php:1237
+msgid "New Custom login URL"
+msgstr "Новий URL для входу на сайт"
+
+#: wp-cerber.php:1232
+msgid "Change notification settings"
+msgstr "Змінити налаштування сповіщень"
+
+#: wp-cerber.php:1231 wp-cerber.php:1404
+msgid "WP Cerber is now active and has started protecting your site"
+msgstr "Відтепер WP Cerber є активний і захищає ваш сайт"
+
+#: wp-cerber.php:1230
+msgid "The WP Cerber security plugin is now active"
+msgstr "Плагін безпеки WP Cerber є активний"
+
+#: wp-cerber.php:1227
+msgid "From country"
+msgstr "З країни"
+
+#: wp-cerber.php:1225
+msgid "From IP address"
+msgstr "З IP-адреси"
+
+#: wp-cerber.php:1224
+msgid "By user"
+msgstr "Від користувача"
+
+#: wp-cerber.php:1218
+msgid "Not logged in"
+msgstr "Неавторизований"
+
+#: wp-cerber.php:1216 wp-cerber.php:1217
+msgid "The WP Cerber security plugin has been deactivated"
+msgstr "Плагін безпеки WP Cerber було деактивовано"
+
+#: wp-cerber.php:1213 wp-cerber.php:1223
+msgid "Website"
+msgstr "Вебсайт"
+
+#: wp-cerber.php:1211
+msgid "Hi!"
+msgstr "Вітаємо!"
+
+#: wp-cerber.php:1210 wp-cerber.php:1212
+msgid "A new version of WP Cerber is available to install"
+msgstr "Нова версія WP Cerber доступна для установки"
+
+#: wp-cerber.php:1207
+msgid "View lockouts in dashboard"
+msgstr "Переглянути блокування на панелі управління"
+
+#: wp-cerber.php:1206
+msgid "View activity for this IP"
+msgstr "Переглянути активність для цього IP"
+
+#: wp-cerber.php:1204
+msgid "Last lockout was added: %s for IP %s"
+msgstr "Останнє блокування було додане: %s для IP %s"
+
+#: wp-cerber.php:1202
+msgid "Number of active lockouts"
+msgstr "Кількість активних блокувань"
+
+#: wp-cerber.php:1200
+msgid "Number of lockouts is increasing"
+msgstr "Кількість блокувань збільшується"
+
+#: wp-cerber.php:1197
+msgid "unspecified"
+msgstr "невизначена"
+
+#: wp-cerber.php:1180
+msgid "View activity in dashboard"
+msgstr "Переглянути активність на панелі управління"
+
+#: wp-cerber.php:1179
+msgid "Last failed attempt was at %s from IP %s with user login: %s."
+msgstr "Остання невдала спроба відбулася %s з IP адреси %s з логіном користувача: %s."
+
+#: wp-cerber.php:1178
+msgid "Citadel mode is activated after %d failed login attempts in %d minutes."
+msgstr "Режим Цитадель активовано після %d невдалих спроб входу протягом %d хвилин."
+
+#: wp-cerber.php:1176
+msgid "Citadel mode is activated"
+msgstr "Режим Цитадель активовано"
+
+#: wp-cerber.php:1160
+msgid "WP Cerber notify"
+msgstr "Сповіщення WP Cerber"
+
+#: wp-cerber.php:806
+msgid "Limit on login attempts is reached"
+msgstr "Досягнуто ліміт для спроб входу"
+
+#: wp-cerber.php:514
+msgid "Attempt to access"
+msgstr "Спроба отримати доступ до"
+
+#: wp-cerber.php:412
+msgid "Username is not allowed. Please choose another one."
+msgstr "Недозволене ім'я користувача. Будь ласка, оберіть інше."
+
+#: wp-cerber.php:371
+msgid "<strong>ERROR</strong>: The password you entered for the username %s is incorrect."
+msgstr "<strong>ПОМИЛКА</strong>: Пароль, який ви ввели для імені користувача %s є некоректний."
+
+#: wp-cerber.php:362 wp-cerber.php:407 wp-cerber.php:431
+msgid "Human verification failed. Please click the square box in the reCAPTCHA block below."
+msgstr "Візуальна веріфікація невдала. Будь ласка клікніть на квадратик блока reCAPTCHA нижче."
+
+#: wp-cerber.php:361 wp-cerber.php:406 wp-cerber.php:411 wp-cerber.php:430
+msgid "ERROR:"
+msgstr "ПОМИЛКА:"
+
+#: wp-cerber.php:153
+msgid "You have only one attempt remaining."
+msgid_plural "You have %d attempts remaining."
+msgstr[0] "У вас залишилася тільки одна спроба."
+msgstr[1] "У вас залишилося %d спроби."
+msgstr[2] "У вас залишилося %d спроб."
+
+#: wp-cerber.php:138
+msgid "You have reached the login attempts limit. Please try again in %d minutes."
+msgstr "Ви досягли ліміту спроб входу. Будь ласка, спробуйте ще раз за %d хвилин."
+
+#: wp-cerber.php:133
+msgid "You are not allowed to log in. Ask your administrator for assistance."
+msgstr "Вам заборонено вхід. Спитайте вашого адміністратора про допомогу."
+
+#: whois.php:183
+msgid "Unknown"
+msgstr "Невідомо"
+
+#: settings.php:550
+msgid "Number of items per page:"
+msgstr "Кількість елементів на сторінці:"
+
+#: settings.php:340
+msgid "<strong>ERROR</strong>: please enter a valid email address."
+msgstr "<strong>ПОМИЛКА</strong>: будь ласка, введіть дійсну адресу електронної пошти."
+
+#: settings.php:317
+msgid "Attention! You have changed the login URL! The new login URL is"
+msgstr "Увага! Ви змінили URL входу! Новий URL входу"
+
+#: settings.php:277
+msgid "Enable after %s failed login attempts in last %s minutes"
+msgstr "Активувати після %s невдалих спроб за останні %s хвилин"
+
+#: settings.php:272
+msgid "Notify admin if the number of active lockouts above"
+msgstr "Сповіщати адміністратора, якщо кількість активних блокувань перевищує"
+
+#: settings.php:265
+msgid "Increase lockout duration to %s hours after %s lockouts in the last %s hours"
+msgstr "Збільшити тривалість блокування до %s годин після %s блокувань протягом останніх %s годин"
+
+#: settings.php:260
+msgid "%s allowed retries in %s minutes"
+msgstr "%s дозволених спроб за %s хвилин"
+
+#: settings.php:190
+msgid "Help"
+msgstr "Допомога"
+
+#: settings.php:188
+msgid "Tools"
+msgstr "Інструменти"
+
+#: settings.php:186 wp-cerber.php:1413
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+#: settings.php:183
+msgid "Users"
+msgstr "Користувачі"
+
+#: settings.php:181 wp-cerber.php:1412
+msgid "Hardening"
+msgstr "Зміцнення безпеки"
+
+#: settings.php:171 wp-cerber.php:1410
+msgid "Main Settings"
+msgstr "Основні налаштування"
+
+#: settings.php:168
+msgid "Cerber Settings"
+msgstr "Налаштування Cerber"
+
+#: settings.php:151
+msgid "Know more"
+msgstr "Дізнатися більше"
+
+#: settings.php:150
+msgid "Before you can start using reCAPTCHA, you have to obtain Site key and Secret key on the Google website"
+msgstr "Перед тим, як використовувати reCAPTCHA, ви маєте отримати ключ сайта (Site key) та секретний ключ (Secret key) на сайті Гугла"
+
+#: settings.php:145
+msgid "These settings do not affect hosts from the "
+msgstr "Ці налаштування не впливають на хости з"
+
+#: settings.php:140
+msgid "In Citadel mode nobody is able to login. Active user's sessions will not be affected."
+msgstr "У режимі Цитадeль ніхто не може увійти на сайт. Активні сесії користувачів лишаться недоторканими."
+
+#: settings.php:136
+msgid "Be careful when enabling this options. If you forget the custom login URL you will not be able to login."
+msgstr "Будьте уважними при установці цих параметрів. Якщо ви забудете URL сторінки авторизації, ви не зможете увійти."
+
+#: settings.php:133
+msgid "Please enable Permalinks to use this feature. Set Permalink Settings to something other than Default."
+msgstr "Будь ласка, активуйте \"Постійні посилання\", щоб використовувати цю опцію."
+
+#: settings.php:129
+msgid "Make your protection smarter!"
+msgstr "Зробіть ваш захист розумнішим!"
+
+#: settings.php:120
+msgid "Enable reCAPTCHA for login form"
+msgstr "Активувати reCAPTCHA для форми входу"
+
+#: settings.php:120
+msgid "Login form"
+msgstr "Форма входу"
+
+#: settings.php:119
+msgid "Enable reCAPTCHA for reset password form"
+msgstr "Активувати reCAPTCHA для форми відновлення паролю"
+
+#: settings.php:119
+msgid "Lost password form"
+msgstr "Форма відновлення втраченого паролю"
+
+#: settings.php:118
+msgid "Enable reCAPTCHA for registration form"
+msgstr "Активувати reCAPTCHA для форми реєстрації"
+
+#: settings.php:118
+msgid "Register form"
+msgstr "Форма реєстрації"
+
+#: settings.php:117
+msgid "Secret key"
+msgstr "Секретний ключ (Secret key)"
+
+#: settings.php:116
+msgid "Site key"
+msgstr "Ключ сайта (Site key)"
+
+#: settings.php:115
+msgid "reCAPTCHA settings"
+msgstr "Налаштування reCAPTCHA"
+
+#: settings.php:111
+msgid "in minutes (leave empty to use default WP value)"
+msgstr "у хвилинах (якщо порожнє - стандартне значення WP)"
+
+#: settings.php:111
+msgid "User session expire"
+msgstr "Сесія користувача збігає за"
+
+#: settings.php:110
+msgid "Usernames from this list are not allowed to log in or register. Any IP address, have tried to use any of these usernames, will be immediately blocked. Use comma to separate logins."
+msgstr "Імена користувачів з цього списку не дозволені для входу або реєстрації. Будь-яка IP-адреса, яка спробує використати одне з цих імен, буде негайно заблокована. Використовуйте кому, щоб розділити імена."
+
+#: settings.php:110
+msgid "Prohibited usernames"
+msgstr "Заборонені імена користувачів"
+
+#: settings.php:109
+msgid "User related settings"
+msgstr "Налаштування, що стосуються користувача"
+
+#: settings.php:101
+msgid "Block access to the WordPress REST API"
+msgstr "Блокувати доступ до WordPress REST API"
+
+#: settings.php:101
+msgid "Disable REST API"
+msgstr "Відключити REST API"
+
+#: settings.php:100
+msgid "Block access to the RSS, Atom and RDF feeds"
+msgstr "Блокувати доступ до RSS, Atom та RDF канали (feeds)"
+
+#: settings.php:100
+msgid "Disable feeds"
+msgstr "Відключити канали (feeds)"
+
+#: settings.php:99
+msgid "Block access to the XML-RPC server (including Pingbacks and Trackbacks)"
+msgstr "Блокувати доступ до XML-RPC серверу (включаючі Pingbacks та Trackbacks)"
+
+#: settings.php:99
+msgid "Disable XML-RPC"
+msgstr "Відключити XML-RPC"
+
+#: settings.php:98
+msgid "Block access to the pages like /?author=n"
+msgstr "Блокувати доступ до сторінок таких як /?author=n"
+
+#: settings.php:98
+msgid "Stop user enumeration"
+msgstr "Відключити доступ до користувача за його ID"
+
+#: settings.php:97
+msgid "Hardening WordPress"
+msgstr "Зміцнення безпеки WordPress"
+
+#: settings.php:90
+msgid "Write failed login attempts to the file"
+msgstr "Записувати невдалі спроби увійти до файлу"
+
+#: settings.php:90
+msgid "Use file"
+msgstr "Використовувати файл"
+
+#: settings.php:89
+msgid "Retrieve extra WHOIS information for IP"
+msgstr "Отримати додаткову інформацію WHOIS для IP"
+
+#: settings.php:89
+msgid "Drill down IP"
+msgstr "Деталізувати інформацію про IP"
+
+#: settings.php:86
+msgid "days"
+msgstr "днів"
+
+#: settings.php:86
+msgid "Keep records for"
+msgstr "Зберігати записи не більше"
+
+#: settings.php:83
+msgid "notification letters allowed per hour (0 means unlimited)"
+msgstr "листів зі сповіщеннями дозволено протягом години (0 означає нелімітовано)"
+
+#: settings.php:83
+msgid "Notification limit"
+msgstr "Ліміт сповіщень"
+
+#: settings.php:82
+msgid "if empty, the admin email %s will be used"
+msgstr "якщо порожнє, email адміністратора %s буде використано"
+
+#: settings.php:82
+msgid "Email Address"
+msgstr "Email адреса"
+
+#: settings.php:78 settings.php:274
+msgid "Click to send test"
+msgstr "Клікніть, щоб надіслати тестовий email"
+
+#: settings.php:78
+msgid "Send notification to admin email"
+msgstr "Надіслати сповіщення на email адміністратора"
+
+#: settings.php:76
+msgid "Duration"
+msgstr "Тривалість"
+
+#: settings.php:75
+msgid "Threshold"
+msgstr "Поріг"
+
+#: settings.php:72
+msgid "Block direct access to wp-login.php and return HTTP 404 Not Found Error"
+msgstr "Заблокувати прямий доступ до wp-login.php та повернути HTTP помилку 404 \"Сторінку не знайдено\""
+
+#: settings.php:72
+msgid "Disable wp-login.php"
+msgstr "Відключити wp-login.php"
+
+#: settings.php:71
+msgid "must not overlap with the existing pages or posts slug"
+msgstr "не має співпадати з URL сторінок або постів, що вже існують"
+
+#: settings.php:71
+msgid "Custom login URL"
+msgstr "Власний URL сторінки авторизації"
+
+#: settings.php:70
+msgid "Custom login page"
+msgstr "Власна сторінка авторизації"
+
+#: settings.php:68
+msgid "Immediately block IP after any request to wp-login.php"
+msgstr "Негайно блокувати IP-адресу після будь-якого запиту до wp-login.php"
+
+#: settings.php:68
+msgid "Request wp-login.php"
+msgstr "Запит до wp-login.php"
+
+#: settings.php:67
+msgid "Disable automatic redirecting to the login page when /wp-admin/ is requested by an unauthorized request"
+msgstr "Вимкнути автоматичне перенаправлення до сторінки авторизації коли /wp-admin/ отримує неавторизований запит"
+
+#: settings.php:67
+msgid "Redirect dashboard requests"
+msgstr "Перенаправлення до панелі управління"
+
+#: settings.php:66
+msgid "Immediately block IP when attempting to login with a non-existent username"
+msgstr "Негайно блокувати IP-адресу при спробі входу з неіснуючим ім'ям користувача"
+
+#: settings.php:66
+msgid "Non-existent users"
+msgstr "Неіснуючі користувачі"
+
+#: settings.php:65
+msgid "Always block entire subnet Class C of intruders IP"
+msgstr "Завжди блокувати всю подсітку класу С від IP-порушника"
+
+#: settings.php:65
+msgid "Block subnet"
+msgstr "Блокувати підсітку"
+
+#: settings.php:64
+msgid "Proactive security rules"
+msgstr "Профілактичні правила безпеки"
+
+#: settings.php:62
+msgid "My site is behind a reverse proxy"
+msgstr "Мій сайт підключено через проксі сервер"
+
+#: settings.php:62
+msgid "Site connection"
+msgstr "Підключення сайту"
+
+#: settings.php:61 settings.php:78 settings.php:80
+msgid "Notifications"
+msgstr "Сповіщення"
+
+#: settings.php:60
+msgid "Aggressive lockout"
+msgstr "Агресивне блокування"
+
+#: settings.php:59 settings.php:76
+msgid "minutes"
+msgstr "хвилин"
+
+#: settings.php:59
+msgid "Lockout duration"
+msgstr "Тривалість блокування"
+
+#: settings.php:58
+msgid "Attempts"
+msgstr "Спроби"
+
+#: settings.php:57
+msgid "Limit login attempts"
+msgstr "Ліміт спроб входу"
+
+#: ripe.php:152
+msgid "Abuse email:"
+msgstr "Email aдресa для скарг:"
+
+#: dashboard.php:901
+msgid "Update to version %s of WP Cerber"
+msgstr "Оновити WP Cerber до версії %s"
+
+#: dashboard.php:895
+msgid "New version is available"
+msgstr "Доступна нова версія"
+
+#: dashboard.php:865
+msgid "View Activity"
+msgstr "Переглянути активність"
+
+#: dashboard.php:864
+msgid "Deactivate"
+msgstr "Деактивувати"
+
+#: dashboard.php:863
+msgid "Attention! Citadel mode is now active. Nobody is able to login."
+msgstr "Увага! Режим Цитадель є активний. Ніхто не може увійти."
+
+#: dashboard.php:840
+msgid "Donate"
+msgstr "Підтримайте розробку"
+
+#: dashboard.php:809
+msgid "doesn't affect Custom login URL and Access Lists"
+msgstr "не впливає на URL сторінки авторизації та списки доступу"
+
+#: dashboard.php:803 dashboard.php:1304
+msgid "Are you sure?"
+msgstr "Ви впевнені?"
+
+#: dashboard.php:801
+msgid "Load default settings"
+msgstr "Завантажити типові налаштування"
+
+#: dashboard.php:799
+msgid "You can easily load default recommended settings using button below"
+msgstr "Ви можете легко завантажити рекомендовані налаштування за допомогою кнопки нижче"
+
+#: dashboard.php:798
+msgid "Confused about some settings?"
+msgstr "Маєте сумнів щодо налаштувань?"
+
+#: dashboard.php:683 settings.php:179
+msgid "Lockouts"
+msgstr "Блокування"
+
+#: dashboard.php:678 settings.php:74
+msgid "Citadel mode"
+msgstr "Режим Цитадель"
+
+#: dashboard.php:676 dashboard.php:677 dashboard.php:932
+msgid "entry"
+msgid_plural "entries"
+msgstr[0] "запис"
+msgstr[1] "записи"
+msgstr[2] "записів"
+
+#: dashboard.php:675
+msgid "Last lockout"
+msgstr "Останнє блокування"
+
+#: dashboard.php:674
+msgid "Lockouts at the moment"
+msgstr "Наразі заблоковано"
+
+#: dashboard.php:672
+msgid "lockouts"
+msgstr "блокувань"
+
+#: dashboard.php:671 dashboard.php:672
+msgid "view all"
+msgstr "переглянути усі"
+
+#: dashboard.php:671 dashboard.php:672
+msgid "in 24 hours"
+msgstr "за 24 години"
+
+#: dashboard.php:671
+msgid "failed attempts"
+msgstr "невдалих спроб"
+
+#: dashboard.php:666
+msgid "disabled"
+msgstr "відключений"
+
+#: dashboard.php:665
+msgid "not active"
+msgstr "неактивний"
+
+#: dashboard.php:663
+msgid "deactivate"
+msgstr "деактивувати"
+
+#: dashboard.php:663
+msgid "active"
+msgstr "активний"
+
+#: dashboard.php:631
+msgid "Cerber Quick View"
+msgstr "Швидкий огляд Cerber"
+
+#: dashboard.php:620
+msgid "Error while parsing file"
+msgstr "Помилка під час парсингу файла"
+
+#: dashboard.php:616
+msgid "Settings has imported successfully from"
+msgstr "Налаштування були успішно імпортовані з"
+
+#: dashboard.php:613
+msgid "Error while updating"
+msgstr "Помилка при оновленні"
+
+#: dashboard.php:592
+msgid "No file was uploaded or file is corrupted"
+msgstr "Файл не було завантажено або файл пошкоджено"
+
+#: dashboard.php:526
+msgid "Upload file"
+msgstr "Завантажити файл"
+
+#: dashboard.php:524
+msgid "What do you want to import?"
+msgstr "Що ви хочете імпортувати?"
+
+#: dashboard.php:521
+msgid "Maximum upload file size: %s."
+msgstr "Максимальний розмір файла: %s."
+
+#: dashboard.php:521
+msgid "Select file to import."
+msgstr "Обрати файл для імпорту."
+
+#: dashboard.php:520
+msgid "When you click the button below, file will be uploaded and all existing settings will be overridden."
+msgstr "Коли ви натиснете кнопку нижче, файл буде завантажено, і всі існуючі налаштування будуть перезаписані."
+
+#: dashboard.php:519
+msgid "Import settings from the file"
+msgstr "Імпортувати налаштування з файлу"
+
+#: dashboard.php:517
+msgid "Download file"
+msgstr "Завантажити файл"
+
+#: dashboard.php:516 dashboard.php:525 dashboard.php:613 dashboard.php:684
+#: dashboard.php:951 settings.php:174 wp-cerber.php:1411
+msgid "Access Lists"
+msgstr "Списки доступу"
+
+#: dashboard.php:515 dashboard.php:524 dashboard.php:685 dashboard.php:950
+msgid "Settings"
+msgstr "Налаштування"
+
+#: dashboard.php:514
+msgid "What do you want to export?"
+msgstr "Що ви хочете експортувати?"
+
+#: dashboard.php:513
+msgid "When you click the button below you will get a configuration file, which you can upload on another site."
+msgstr "Коли ви натиснете кнопку нижче, ви отримаєте конфігураційний файл, який зможете завантажити на інший сайт."
+
+#: dashboard.php:512
+msgid "Export settings to the file"
+msgstr "Експортувати налаштування у файл"
+
+#: dashboard.php:491 dashboard.php:659
+msgid "Never"
+msgstr "Ніколи"
+
+#: common.php:104
+msgid "User created"
+msgstr "Користувача створено"
+
+#: common.php:105
+msgid "User registered"
+msgstr "Користувача зареєстровано"
+
+#: common.php:106
+msgid "Logged in"
+msgstr "Увійшов"
+
+#: common.php:107
+msgid "Logged out"
+msgstr "Вийшов"
+
+#: common.php:108
+msgid "Login failed"
+msgstr "Невдалий вхід"
+
+#: common.php:111
+msgid "IP blocked"
+msgstr "IP заблоковано"
+
+#: common.php:112
+msgid "Subnet blocked"
+msgstr "Підсітку заблоковано"
+
+#: common.php:113
+msgid "Citadel activated!"
+msgstr "Режим Цитадель активовано!"
+
+#: common.php:114 dashboard.php:310 dashboard.php:354
+msgid "Locked out"
+msgstr "Заблоковано"
+
+#: common.php:118
+msgid "Password changed"
+msgstr "Пароль змінено"
+
+#: common.php:115
+msgid "IP blacklisted"
+msgstr "IP у чорному списку"
+
+#: common.php:120
+msgid "reCAPTCHA verification failed"
+msgstr "Перевірка reCAPTCHA невдала"
+
+#: common.php:121
+msgid "reCAPTCHA settings are incorrect"
+msgstr "Налаштування reCAPTCHA невірні"
+
+#: common.php:123
+msgid "Attempt to access prohibited URL"
+msgstr "Спроба отримати доступ до забороненого URL"
+
+#: common.php:124 wp-cerber.php:809
+msgid "Attempt to log in with non-existent username"
+msgstr "Спроба увійти з неіснуючим ім'ям користувача"
+
+#: common.php:125 wp-cerber.php:368
+msgid "Attempt to log in with prohibited username"
+msgstr "Спроба увійти із забороненим ім'ям користувача"
+
+#: dashboard.php:70 dashboard.php:106
+msgid "Remove"
+msgstr "Видалити"
+
+#: dashboard.php:73 dashboard.php:316
+msgid "IP"
+msgstr "IP"
+
+#: dashboard.php:73 dashboard.php:316
+msgid "Hostname"
+msgstr "Ім'я хосту"
+
+#: dashboard.php:73
+msgid "Expires"
+msgstr "Спливає"
+
+#: dashboard.php:73 wp-cerber.php:1205
+msgid "Reason"
+msgstr "Причина"
+
+#: dashboard.php:73
+msgid "Action"
+msgstr "Дія"
+
+#: dashboard.php:78
+msgid "Showing last %d records from %d"
+msgstr "Відображається %d останніх записів з %d"
+
+#: dashboard.php:81
+msgid "Hint"
+msgstr "Підказка"
+
+#: dashboard.php:81
+msgid "To view activity, click on the IP"
+msgstr "Щоб переглянути активність, натисніть на IP адресу"
+
+#: dashboard.php:83
+msgid "No lockouts at the moment. The sky is clear."
+msgstr "Наразі немає блокувань. Небо ясне."
+
+#: dashboard.php:92 dashboard.php:306 dashboard.php:351 dashboard.php:676
+#: settings.php:145 wp-cerber.php:1405
+msgid "White IP Access List"
+msgstr "Білий список доступу за IP"
+
+#: dashboard.php:92
+msgid "These IPs will never be locked out"
+msgstr "Ці IP-адреси ніколи не буде заблоковано"
+
+#: dashboard.php:94 dashboard.php:307 dashboard.php:352 dashboard.php:677
+msgid "Black IP Access List"
+msgstr "Чорний список доступу за IP"
+
+#: dashboard.php:94
+msgid "Nobody can log in or register from these IPs"
+msgstr "Ніхто не може увійти або зареєструватися з цих IP-адрес"
+
+#: dashboard.php:96
+msgid "Your IP"
+msgstr "Ваш IP"
+
+#: dashboard.php:97
+msgid "Note: You can add a subnet Class C with the format like this: xxx.xxx.xxx.*"
+msgstr "Примітка: Ви можете додати підсітку класу С у такому форматі: xxx.xxx.xxx.*"
+
+#: dashboard.php:106
+msgid "Check for activity"
+msgstr "Перевірити активність"
+
+#: dashboard.php:109
+msgid "List is empty"
+msgstr "Список порожній"
+
+#: dashboard.php:110
+msgid "Add IP to the list"
+msgstr "Додати IP до списку"
+
+#: dashboard.php:122
+msgid "Address %s was added to White IP Access List"
+msgstr "Адресу %s було додано до білого списку доступу за IP"
+
+#: dashboard.php:127
+msgid "Address %s was added to Black IP Access List"
+msgstr "Адресу %s було додано до чорного списку доступу за IP"
+
+#: dashboard.php:186
+msgid "unknown"
+msgstr "невідомо"
+
+#: dashboard.php:129
+msgid "You can't add your IP address"
+msgstr "Ви не можете додати вашу IP-адресу"
+
+#: dashboard.php:216
+msgid "Unable to send notification email"
+msgstr "Неможливо відправити сповіщення на email"
+
+#: dashboard.php:214
+msgid "Message has been sent to "
+msgstr "Сповіщення було надіслано "
+
+#: dashboard.php:222
+msgid "Lockout for %s was removed"
+msgstr "Блокування для %s було видалено"
+
+#: dashboard.php:229
+msgid "Settings saved."
+msgstr "Налаштування збережені."
+
+#: dashboard.php:316
+msgid "Date"
+msgstr "Дата"
+
+#: dashboard.php:316 dashboard.php:682 settings.php:85 settings.php:176
+msgid "Activity"
+msgstr "Активність"
+
+#: dashboard.php:334
+msgid "Show only"
+msgstr "Відображати тільки"
+
+#: dashboard.php:324
+msgid "No activity has been logged."
+msgstr "Не було відмічено жодної активності."
+
+#: dashboard.php:316
+msgid "Username used"
+msgstr "Використано логін"
+
+#: dashboard.php:316
+msgid "Local User"
+msgstr "Користувач"
+
+#: dashboard.php:368
+msgid "Add IP to the Black List"
+msgstr "Додати IP в чорний список"
+
+#: dashboard.php:393
+msgid "WP Cerber Settings"
+msgstr "Налаштування WP Cerber"
+
+#. #-#-#-#-#  tmp-wp-cerber.pot (WP Cerber 3.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: dashboard.php:393 dashboard.php:401
+msgid "WP Cerber"
+msgstr "WP Cerber"
+
+#: dashboard.php:463
+msgid "Comments"
+msgstr "Коментарі"
+
+#: dashboard.php:464
+msgid "Last login"
+msgstr "Останній вхід"
+
+#: dashboard.php:465
+msgid "Failed attempts in last 24 hours"
+msgstr "Невдалі спроби за останні 24 години"
+
+#: dashboard.php:466
+msgid "Date of registration"
+msgstr "Дата реєстрації"

@@ -1,0 +1,10 @@
+@id : '';
+@text_align : '';
+
+#@{id} {
+    .text_align (@text_align) when not (@text_align=~'') {
+        text-align: @text_align!important;
+    } .text_align (@text_align);    
+    display: block!important; 
+    width: 100%!important;
+}

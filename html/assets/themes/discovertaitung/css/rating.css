@@ -1,0 +1,21 @@
+.stars { position:relative; font-size:1em; }
+.stars a, .stars a:after, .stars a.active:after, .star-rating span:before { color:#f9ac25; }
+.stars a { display:inline-block; font-weight:700; margin-right:8px; text-indent:-9999px; position:relative; text-decoration:none; }
+.stars a:last-child { border-right:0; margin-right:0; }
+.stars a.star-1, .stars a.star-2, .stars a.star-3, .stars a.star-4, .stars a.star-5 { border-right:1px solid #e4e8ea; }
+.stars a.star-1:after, .stars a.star-2:after, .stars a.star-3:after, .stars a.star-4:after, .stars a.star-5:after { font-family:FontAwesome; font-style:normal; font-weight:normal; text-decoration:inherit; text-indent:0; position:absolute; top:0; left:0; }
+.stars a.star-1 { width:1.5em; }
+.stars a.star-1:after { content:"\f006"; }
+.stars a.star-1.active:after, .stars a.star-1:hover:after { content:"\f005"; }
+.stars a.star-2 { width:2.5em; }
+.stars a.star-2:after { content:"\f006\f006"; }
+.stars a.star-2.active:after, .stars a.star-2:hover:after { content:"\f005\f005"; }
+.stars a.star-3 { width:3.2em; }
+.stars a.star-3:after { content:"\f006\f006\f006"; }
+.stars a.star-3.active:after, .stars a.star-3:hover:after { content:"\f005\f005\f005"; }
+.stars a.star-4 { width:4.5em; }
+.stars a.star-4:after { content:"\f006\f006\f006\f006"; }
+.stars a.star-4.active:after, .stars a.star-4:hover:after { content:"\f005\f005\f005\f005"; }
+.stars a.star-5 { width:5em; border:0; }
+.stars a.star-5:after { content:"\f006\f006\f006\f006\f006"; }
+.stars a.star-5.active:after, .stars a.star-5:hover:after { content:"\f005\f005\f005\f005\f005"; }
